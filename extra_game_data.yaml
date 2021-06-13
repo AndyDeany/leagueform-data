@@ -103,3 +103,101 @@
     shad0w:
         firstdragon: 1
         firstherald: 1
+7609-10315:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+    H4cker:
+        firstdragon: 1
+        firstherald: 1
+7609-10316:
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+    H4cker:
+        firstdragon: 1
+        firstherald: 0
+7609-10317:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+    H4cker:
+        firstdragon: 0
+        firstherald: 0
+7610-10318:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+    pzx:
+        firstdragon: 0
+        firstherald: 1
+7610-10319:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+    pzx:
+        firstdragon: 0
+        firstherald: 1
+7611-10320:
+    Xiaopeng:
+        firstdragon: 1
+        firstherald: 0
+    Kanavi:
+        firstdragon: 0
+        firstherald: 1
+7611-10321:
+    Xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+    Kanavi:
+        firstdragon: 1
+        firstherald: 0
+7613-10325:
+    Weiwei:
+        firstdragon: 0
+        firstherald: 1
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+7613-10327:
+    Weiwei:
+        firstdragon: 0
+        firstherald: 1
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+7614-10328:
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+    SofM:
+        firstdragon: 0
+        firstherald: 0
+7614-10329:
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+7614-10330:
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+7615-10331:
+    Kanavi:
+        firstdragon: 0
+        firstherald: 1
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+7615-10332:
+    Kanavi:
+        firstdragon: 0
+        firstherald: 0
+    Karsa:
+        firstdragon: 1
+        firstherald: 1
