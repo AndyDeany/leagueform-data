@@ -5,3 +5,59 @@
     XUN:
         firstdragon: 0
         firstherald: 1
+7605-10306:
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+    XUN:
+        firstdragon: 1
+        firstherald: 0
+7605-10307:
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+    XUN:
+        firstdragon: 0
+        firstherald: 1
+7606-10308:
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+    icecoKe:
+        firstdragon: 1
+        firstherald: 0
+7606-10309:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+    icecoKe:
+        firstdragon: 0
+        firstherald: 0
+7607-10310:
+    Aki:
+        firstdragon: 1
+        firstherald: 1
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+7607-10311:
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+7616-10333:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 1
+    XUN:
+        firstdragon: 0
+        firstherald: 0
+7616-10334:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+    XUN:
+        firstdragon: 0
+        firstherald: 1
