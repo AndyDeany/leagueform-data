@@ -61,3 +61,45 @@
     XUN:
         firstdragon: 0
         firstherald: 1
+7608-10312:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+    Weiwei:
+        firstdragon: 0
+        firstherald: 1
+7608-10313:
+    Jiejie:
+        firstdragon: 0
+        firstherald: 0
+    Weiwei:
+        firstdragon: 1
+        firstherald: 1
+7608-10314:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+    Weiwei:
+        firstdragon: 0
+        firstherald: 1
+7612-10322:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+    shad0w:
+        firstdragon: 0
+        firstherald: 0
+7612-10323:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+7612-10324:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+    shad0w:
+        firstdragon: 1
+        firstherald: 1
