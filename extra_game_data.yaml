@@ -191,9 +191,13 @@
     Peanut:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
+        firstblood: 1
     SofM:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
+        firstblood: 0
 7610-10318:
     Tarzan:
         firstdragon: 1
@@ -212,16 +216,24 @@
     Karsa:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
+        firstblood: 1
     Jiejie:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
+        firstblood: 0
 7383-10012:
     Karsa:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
+        firstblood: 0
     Wei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
+        firstblood: 1
 7385-10021:
     Jiejie:
         firstdragon: 0
