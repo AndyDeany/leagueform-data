@@ -19,6 +19,20 @@
     XUN:
         firstdragon: 0
         firstherald: 1
+7606-10308:
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+    icecoKe:
+        firstdragon: 1
+        firstherald: 0
+7606-10309:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+    icecoKe:
+        firstdragon: 0
+        firstherald: 0
 7607-10310:
     Aki:
         firstdragon: 1
