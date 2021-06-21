@@ -407,8 +407,8 @@ ESPORTSTMNT05/1430773:
         firstherald: 0
 7623-10373:
     beishang:
-        firstdragon: 1
-        firstherald: 0
+        firstdragon: 0
+        firstherald: 1
     Aki:
         firstdragon: 1
         firstherald: 0
@@ -580,4 +580,11 @@ ESPORTSTMNT05/1430773:
     Weiwei:
         firstdragon: 1
         firstherald: 0
+7629-10422:
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
 
