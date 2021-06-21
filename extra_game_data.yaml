@@ -238,9 +238,13 @@
     Jiejie:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
+        firstblood: 1
     Wei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
+        firstblood: 0
 7613-10326:
     Tarzan:
         firstdragon: 0
@@ -301,9 +305,11 @@ ESPORTSTMNT01/1315361:
     Punch:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
     Tarzan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
 ESPORTSTMNT01/1414788:
     OnFleek:
         firstdragon: 1
@@ -315,9 +321,11 @@ ESPORTSTMNT03/1442655:
     Clid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Dread:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 ESPORTSTMNT05/1390213:
     Selfmade:
         firstdragon: 1
@@ -329,6 +337,247 @@ ESPORTSTMNT05/1430773:
     Jankos:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
+7620-10342:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+7620-10343:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+7621-10349:
+    icecoKe:
+        firstdragon: 1
+        firstherald: 1
+    H4cker:
+        firstdragon: 0
+        firstherald: 0
+7621-10352:
+    icecoKe:
+        firstdragon: 0
+        firstherald: 1
+    H4cker:
+        firstdragon: 1
+        firstherald: 0
+7621-10354:
+    icecoKe:
+        firstdragon: 0
+        firstherald: 1
+    H4cker:
+        firstdragon: 1
+        firstherald: 0
+7622-10355:
+    Kanavi:
+        firstdragon: 1
+        firstherald: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+7622-10358:
+    Kanavi:
+        firstdragon: 1
+        firstherald: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+7622-10361:
+    Kanavi:
+        firstdragon: 1
+        firstherald: 0
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+7623-10370:
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+    Aki:
+        firstdragon: 0
+        firstherald: 0
+7623-10373:
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+7624-10375:
+    Weiwei:
+        firstdragon: 1
+        firstherald: 0
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+7624-10378:
+    Weiwei:
+        firstdragon: 1
+        firstherald: 0
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+7624-10381:
+    Weiwei:
+        firstdragon: 1
+        firstherald: 0
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+7625-10391:
+    Karsa:
+        firstdragon: 0
+        firstherald: 0
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+7625-10392:
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+7626-10397:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+7626-10399:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+7626-10400:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+7626-10400:
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+7627-10415:
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+7627-10412:
+    Wei:
+        firstdragon: 1
+        firstherald: 0
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+7628-10416:
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+    H4cker:
+        firstdragon: 1
+        firstherald: 0
+7628-10419:
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+    H4cker:
+        firstdragon: 0
+        firstherald: 1
+7628-10419:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+7629-10423:
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+    pzx:
+        firstdragon: 1
+        firstherald: 0
+7630-10428:
+    Jiejie:
+        firstdragon: 0
+        firstherald: 1
+    icecoKe:
+        firstdragon: 1
+        firstherald: 0
+7630-10431:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 1
+    icecoKe:
+        firstdragon: 0
+        firstherald: 0
+7631-10435:
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+    Tian:
+        firstdragon: 1
+        firstherald: 0
+7631-10437:
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+    Tian:
+        firstdragon: 1
+        firstherald: 0
+7632-10443:
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+    Kanavi:
+        firstdragon: 1
+        firstherald: 0
+7632-10444:
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+    Kanavi:
+        firstdragon: 1
+        firstherald: 0
+7632-10447:
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+    Kanavi:
+        firstdragon: 1
+        firstherald: 0
+7633-10449:
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+    Weiwei:
+        firstdragon: 0
+        firstherald: 1
+7633-10452:
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+    Weiwei:
+        firstdragon: 1
+        firstherald: 0
+
