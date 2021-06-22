@@ -587,4 +587,46 @@ ESPORTSTMNT05/1430773:
     Leyan:
         firstdragon: 1
         firstherald: 1
+7634-10454:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+    Wei:
+        firstdragon: 1
+        firstherald: 0
+7634-10458:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+    Wei:
+        firstdragon: 0
+        firstherald: 0
+7635-10466:
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+    icecoKe:
+        firstdragon: 1
+        firstherald: 0
+7635-10469:
+    Aki:
+        firstdragon: 1
+        firstherald: 1
+    icecoKe:
+        firstdragon: 0
+        firstherald: 0
+7636-10471:
+    H4cker:
+        firstdragon: 1
+        firstherald: 0
+    XUN:
+        firstdragon: 0
+        firstherald: 1
+7636-10475:
+    H4cker:
+        firstdragon: 1
+        firstherald: 1
+    XUN:
+        firstdragon: 0
+        firstherald: 0
 
