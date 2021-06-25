@@ -699,5 +699,26 @@ ESPORTSTMNT05/1430773:
     Beishang:
         firstdragon: 0
         firstherald: 0
+7641-10512:
+    icecoKe:
+        firstdragon: 0
+        firstherald: 1
+    Wei:
+        firstdragon: 1
+        firstherald: 0
+7641-10514:
+    icecoKe:
+        firstdragon: 0
+        firstherald: 0
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+7642-10518:
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
 
 
