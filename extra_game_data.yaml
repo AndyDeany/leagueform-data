@@ -622,4 +622,82 @@ ESPORTSTMNT05/1430773:
     XUN:
         firstdragon: 0
         firstherald: 0
+7637-10478:
+    Xiaopeng:
+        firstdragon: 1
+        firstherald: 0
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+7637-10479:
+    Xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+7637-10480:
+    Xiaopeng:
+        firstdragon: 0
+        firstherald: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+7638-10481:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+    Karsa:
+        firstdragon: 1
+        firstherald: 1
+7638-10482:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+    Karsa:
+        firstdragon: 0
+        firstherald: 1
+7638-10483:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+    Karsa:
+        firstdragon: 0
+        firstherald: 0
+7639-10490:
+    pzx:
+        firstdragon: 1
+        firstherald: 1
+    Kanavi:
+        firstdragon: 0
+        firstherald: 0
+7639-10492:
+    pzx:
+        firstdragon: 1
+        firstherald: 1
+    Kanavi:
+        firstdragon: 0
+        firstherald: 0
+7639-10496:
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+    Kanavi:
+        firstdragon: 1
+        firstherald: 1
+7640-10497:
+    Tian:
+        firstdragon: 1
+        firstherald: 0
+    Beishang:
+        firstdragon: 0
+        firstherald: 1
+7640-10500:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+    Beishang:
+        firstdragon: 0
+        firstherald: 0
+
 
