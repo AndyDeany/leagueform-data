@@ -759,7 +759,9 @@ FUR:
 ITZ:
     name: INTZ
     jungler: Sting
-Team.KBM = Team("KaBuM! e-Sports", "Ryan")
+KBM:
+    name: KaBuM! e-Sports
+    jungler: Ryan
 LLL:
     name: LOUD
     jungler: Mewkyo
@@ -792,7 +794,9 @@ NMGA:
 ITZA:
     name: INTZ Academy
     jungler: vISAO
-Team.KBMA = Team("KaBuM! Academy", "Sneez")
+KBMA:
+    name: KaBuM! Academy
+    jungler: Sneez
 LLLA:
     name: LOUD Academy
     jungler: bRANCE
