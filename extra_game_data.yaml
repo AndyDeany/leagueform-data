@@ -755,5 +755,61 @@ ESPORTSTMNT05/1430773:
     shad0w:
         firstdragon: 0
         firstherald: 1
+7645-10544:
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+7645-10546:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+7645-10548:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+7646-10549:
+    Aki:
+        firstdragon: 1
+        firstherald: 1
+    Weiwei:
+        firstdragon: 0
+        firstherald: 0
+7646-10552:
+    Aki:
+        firstdragon: 0
+        firstherald: 0
+    Weiwei:
+        firstdragon: 1
+        firstherald: 1
+7647-10555:
+    Wei:
+        firstdragon: 0
+        firstherald: 0
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+7647-10558:
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+    Tian:
+        firstdragon: 1
+        firstherald: 0
+7647-10561:
+    Wei:
+        firstdragon: 0
+        firstherald: 0
+    Tian:
+        firstdragon: 1
+        firstherald: 1
 
 
