@@ -811,5 +811,52 @@ ESPORTSTMNT05/1430773:
     Tian:
         firstdragon: 1
         firstherald: 1
-
-
+7648-10565:
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+7648-10569:
+    shad0w:
+        firstdragon: 1
+        firstherald: 0
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+7648-10570:
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+7649-10571:
+    XUN:
+        firstdragon: 0
+        firstherald: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+7649-10575:
+    XUN:
+        firstdragon: 0
+        firstherald: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+7650-10578:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 1
+    Kanavi:
+        firstdragon: 0
+        firstherald: 0
+7650-10580:
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+    Kanavi:
+        firstdragon: 0
+        firstherald: 1
