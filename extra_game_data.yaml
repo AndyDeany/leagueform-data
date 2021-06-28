@@ -855,8 +855,8 @@ ESPORTSTMNT05/1430773:
         firstherald: 0
 7650-10580:
     Jiejie:
-        firstdragon: 1
-        firstherald: 0
-    Kanavi:
         firstdragon: 0
         firstherald: 1
+    Kanavi:
+        firstdragon: 1
+        firstherald: 0
