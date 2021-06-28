@@ -925,3 +925,29 @@ RSVA:
 VIP:
     name: Viperio
     jungler: JonnyREcco
+
+# Hitpoint Masters
+BRT:
+    name: BRUTE
+    jungler: Petipino
+DTG:
+    name: Dark Tigers
+    jungler: Rošťák
+DNE:
+    name: Dynamo Eclot
+    jungler: Fallen
+ESB:
+    name: eSuba
+    jungler: Sacrifice
+INAE:
+    name: Inaequalis
+    jungler: Dinrok
+ING:
+    name: Inside Games
+    jungler: Lagiah
+SIN:
+    name: SINNERS Esports
+    jungler: Lian
+VIK:
+    name: Vikingekrig Esports
+    jungler: bedi
