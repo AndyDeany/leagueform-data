@@ -860,3 +860,24 @@ ESPORTSTMNT05/1430773:
     Kanavi:
         firstdragon: 1
         firstherald: 0
+7651-10590:
+    pzx:
+        firstdragon: 1
+        firstherald: 1
+    icecoKe:
+        firstdragon: 0
+        firstherald: 0
+7651-10591:
+    pzx:
+        firstdragon: 1
+        firstherald: 0
+    icecoKe:
+        firstdragon: 0
+        firstherald: 1
+7652-10597:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+    aki:
+        firstdragon: 0
+        firstherald: 0
