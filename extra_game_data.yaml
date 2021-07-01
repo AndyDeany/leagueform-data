@@ -902,3 +902,45 @@ ESPORTSTMNT05/1430773:
     Jiejie:
         firstdragon: 1
         firstherald: 1
+7655-10614:
+    Weiwei:
+        firstdragon: 0
+        firstherald: 1
+    Beishang:
+        firstdragon: 1
+        firstherald: 0
+7655-10617:
+    Weiwei:
+        firstdragon: 0
+        firstherald: 0
+    Beishang:
+        firstdragon: 1
+        firstherald: 1
+7655-10620:
+    Weiwei:
+        firstdragon: 1
+        firstherald: 1
+    Beishang:
+        firstdragon: 0
+        firstherald: 0
+7656-10621:
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+7656-10624:
+    Karsa:
+        firstdragon: 1
+        firstherald: 1
+    Wei:
+        firstdragon: 0
+        firstherald: 0
+7656-10625:
+    Karsa:
+        firstdragon: 1
+        firstherald: 1
+    Wei:
+        firstdragon: 0
+        firstherald: 0
