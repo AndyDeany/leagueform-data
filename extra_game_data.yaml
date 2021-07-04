@@ -972,3 +972,52 @@ ESPORTSTMNT05/1430773:
     h4cker:
         firstdragon: 0
         firstherald: 0
+7659-10659:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+    Aki:
+        firstdragon: 1
+        firstherald: 1
+7659-10664:
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+7659-10667:
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+7660-10668:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+7660-10672:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+7661-10674:
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+    XUN:
+        firstdragon: 1
+        firstherald: 0
+7661-10678:
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+    XUN:
+        firstdragon: 1
+        firstherald: 0
