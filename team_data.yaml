@@ -249,16 +249,16 @@ BYG:
 # LDL
 SDX:
     name: Shu Dai Xiong Gaming
-    jungler: yanxiang
+    jungler: CSY
 BLGJ:
     name: Bilibili Gaming Junior
-    jungler: wowowo
+    jungler: can
 YM:
     name: Young Miracles
     jungler: Heng
 FPB:
     name: FunPlus Phoenix Blaze
-    jungler: Youxin
+    jungler: Beichuan
 EDGY:
     name: EDward Gaming Youth Team
     jungler: Taiyi
@@ -267,46 +267,46 @@ WEA:
     jungler: frigid
 RYL:
     name: Royal Club
-    jungler: S1xu
+    jungler: XLB
 RWS:
     name: Rogue Warriors Shark
-    jungler: icecoKe
+    jungler: eight
 LNGA:
     name: LNG Academy
-    jungler: pzx
+    jungler: Beige
 V587:
     name: V5 87
-    jungler: Joy1
+    jungler: lvye23
 SJG:
     name: Sheng Jie Gaming
     jungler: Beige
-TTY:
-    name: ThunderTalk Gaming Young
-    jungler: xiaohuangren
+UPA:
+    name: UP Academy
+    jungler: Yuan
 JDM:
     name: Joy Dream
     jungler: small17
 TWE:
     name: TWELVE
-    jungler: Bademan
+    jungler: Fatfish
 RAP:
     name: Rare Atom Period
     jungler: XiaoYang
 SNS:
     name: Suning-S
     jungler: Maggie
-ESY:
-    name: eStar Young
-    jungler: yekai
+TTY:
+    name: TT Young
+    jungler: Xiaohuangren
 IGY:
     name: Invictus Gaming Young
-    jungler: Tianzhen
+    jungler: Youdang
 OMD:
     name: Oh My Dream
-    jungler: ifcan
+    jungler: 98K
 AC:
     name: All Combo
-    jungler: xiaohao
+    jungler: Joy1
 TP:
     name: Team Pinnacle
     jungler: Hook
@@ -315,7 +315,7 @@ KSG:
     jungler: Ben4
 LGDY:
     name: LGD Gaming Young Team
-    jungler: xiaoty
+    jungler: Yanmo
 MAX:
     name: MAX
     jungler: KennyChan
