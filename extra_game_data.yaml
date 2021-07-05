@@ -1021,3 +1021,38 @@ ESPORTSTMNT05/1430773:
     XUN:
         firstdragon: 1
         firstherald: 0
+7662-10680:
+    JugGod:
+        firstdragon: 0
+        firstherald: 0
+    Weiwei:
+        firstdragon: 1
+        firstherald: 1
+7663-10690:
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+    Jiejie:
+        firstdragon: 0
+        firstherald: 1
+7664-10697:
+    View:
+        firstdragon: 0
+        firstherald: 0
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+7664-10700:
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+    Wei:
+        firstdragon: 1
+        firstherald: 0
+7664-10701:
+    SofM:
+        firstdragon: 1
+        firstherald: 1
+    Wei:
+        firstdragon: 0
+        firstherald: 0
