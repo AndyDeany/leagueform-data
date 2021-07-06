@@ -1056,3 +1056,66 @@ ESPORTSTMNT05/1430773:
     Wei:
         firstdragon: 0
         firstherald: 0
+7662-10680:
+    JugGod:
+        firstdragon: 0
+        firstherald: 1
+    Weiwei:
+        firstdragon: 1
+        firstherald: 0
+7662-10686:
+    JugGod:
+        firstdragon: 0
+        firstherald: 1
+    Weiwei:
+        firstdragon: 1
+        firstherald: 0
+7663-10693:
+    Karsa:
+        firstdragon: 0
+        firstherald: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+7665-10708:
+    Xiaohao:
+        firstdragon: 1
+        firstherald: 0
+    XUN:
+        firstdragon: 0
+        firstherald: 1
+7665-10711:
+    Xiaohao:
+        firstdragon: 0
+        firstherald: 0
+    XUN:
+        firstdragon: 1
+        firstherald: 1
+7665-10714:
+    Xiaohao:
+        firstdragon: 1
+        firstherald: 0
+    XUN:
+        firstdragon: 0
+        firstherald: 1
+7666-10717:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+    Kanavi:
+        firstdragon: 0
+        firstherald: 1
+7666-10720:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+    Kanavi:
+        firstdragon: 1
+        firstherald: 1
+7666-10722:
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+    Kanavi:
+        firstdragon: 1
+        firstherald: 1
