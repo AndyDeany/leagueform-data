@@ -1441,3 +1441,45 @@ ESPORTSTMNT05/1430773:
     Tian:
         firstdragon: 1
         firstherald: 1
+7769-10639:
+    xiaohuangren:
+        firstdragon: 0
+        firstherald: 0
+    Hook:
+        firstdragon: 1
+        firstherald: 1
+7769-10640:
+    xiaohuangren:
+        firstdragon: 0
+        firstherald: 0
+    Hook:
+        firstdragon: 1
+        firstherald: 1
+7769-10641:
+    xiaohuangren:
+        firstdragon: 1
+        firstherald: 0
+    Hook:
+        firstdragon: 0
+        firstherald: 1
+7770-10635:
+    Xiao17:
+        firstdragon: 0
+        firstherald: 0
+    Beichuan:
+        firstdragon: 1
+        firstherald: 1
+7770-10637:
+    Xiao17:
+        firstdragon: 0
+        firstherald: 1
+    Beichuan:
+        firstdragon: 1
+        firstherald: 0
+7770-10638:
+    Xiao17:
+        firstdragon: 0
+        firstherald: 1
+    Beichuan:
+        firstdragon: 1
+        firstherald: 0
