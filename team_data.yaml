@@ -177,9 +177,6 @@ CES:
 C9A:
     name: Cloud9 Academy
     jungler: Shernfire
-ZOO:
-    name: Zoos Gaming
-    jungler: RBM
 TLA:
     name: Team Liquid Academy
     jungler: Armao
@@ -192,7 +189,7 @@ EGA:
 _100TA:
     name: 100T Academy
     jungler: Kenvi
-FQA:
+FLYA:
     name: FlyQuest Academy
     jungler: Nxi
 CLGA:
@@ -201,27 +198,12 @@ CLGA:
 DIGA:
     name: Dignitas Academy
     jungler: Will
-EGP:
-    name: Evil Geniuses Prodigies
-    jungler: Tomio
-DIGM:
-    name: Dignitas Mirage
-    jungler: Hyami
 TSMA:
     name: TSM Academy
-    jungler: Babip
-NO:
-    name: No Org 
-    jungler: AnDa
-BRGNA:
-    name: Barrage NA 
-    jungler: Fanatiik
-WC:
-    name: Wildcard Gaming 
-    jungler: Panda
+    jungler: Hyper
 IMTA:
     name: Immortals Academy 
-    jungler: Potluck
+    jungler: AnDa
 
 # PCS
 HKA:
