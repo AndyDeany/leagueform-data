@@ -1483,3 +1483,52 @@ ESPORTSTMNT05/1430773:
     Beichuan:
         firstdragon: 1
         firstherald: 0
+7771-10642:
+    Fatfish:
+        firstdragon: 0
+        firstherald: 0
+    Naruto:
+        firstdragon: 1
+        firstherald: 1
+7771-10643:
+    Fatfish:
+        firstdragon: 0
+        firstherald: 0
+    Naruto:
+        firstdragon: 1
+        firstherald: 1
+7772-10644:
+    Heng:
+        firstdragon: 0
+        firstherald: 1
+    Xiaoyang:
+        firstdragon: 1
+        firstherald: 0
+7772-10645:
+    Heng:
+        firstdragon: 1
+        firstherald: 1
+    Xiaoyang:
+        firstdragon: 0
+        firstherald: 0
+7772-10646:
+    Heng:
+        firstdragon: 1
+        firstherald: 1
+    Xiaoyang:
+        firstdragon: 0
+        firstherald: 0
+7773-10647:
+    XLB:
+        firstdragon: 0
+        firstherald: 0
+    can:
+        firstdragon: 1
+        firstherald: 1
+7773-10647:
+    XLB:
+        firstdragon: 0
+        firstherald: 1
+    can:
+        firstdragon: 1
+        firstherald: 0
