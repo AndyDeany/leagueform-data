@@ -1336,3 +1336,59 @@ ESPORTSTMNT05/1430773:
     zzx:
         firstdragon: 0
         firstherald: 0
+7765-10626:
+    yyy:
+        firstdragon: 1
+        firstherald: 1
+    KennyChan:
+        firstdragon: 0
+        firstherald: 0
+7765-10629:
+    yyy:
+        firstdragon: 1
+        firstherald: 0
+    KennyChan:
+        firstdragon: 0
+        firstherald: 1
+7765-10630:
+    yyy:
+        firstdragon: 0
+        firstherald: 0
+    KennyChan:
+        firstdragon: 1
+        firstherald: 1
+7766-10627:
+    98K:
+        firstdragon: 0
+        firstherald: 0
+    Maggie:
+        firstdragon: 1
+        firstherald: 1
+7766-10628:
+    98K:
+        firstdragon: 1
+        firstherald: 1
+    Maggie:
+        firstdragon: 0
+        firstherald: 0
+7767-10631:
+    Yuan:
+        firstdragon: 0
+        firstherald: 0
+    Ben4:
+        firstdragon: 1
+        firstherald: 1
+7767-10634:
+    Yuan:
+        firstdragon: 0
+        firstherald: 1
+    Ben4:
+        firstdragon: 1
+        firstherald: 0
+7767-10636:
+    Yuan:
+        firstdragon: 0
+        firstherald: 1
+    Ben4:
+        firstdragon: 1
+        firstherald: 0
