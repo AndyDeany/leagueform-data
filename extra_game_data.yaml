@@ -1308,3 +1308,31 @@ ESPORTSTMNT05/1430773:
     Naruto:
         firstdragon: 1
         firstherald: 1
+7763-10618:
+    Fatfish:
+        firstdragon: 1
+        firstherald: 1
+    XLB:
+        firstdragon: 0
+        firstherald: 0
+7763-10622:
+    Fatfish:
+        firstdragon: 1
+        firstherald: 0
+    XLB:
+        firstdragon: 0
+        firstherald: 1
+7764-10619:
+    PeiLin:
+        firstdragon: 0
+        firstherald: 1
+    zzx:
+        firstdragon: 1
+        firstherald: 0
+7764-10623:
+    PeiLin:
+        firstdragon: 1
+        firstherald: 1
+    zzx:
+        firstdragon: 0
+        firstherald: 0
