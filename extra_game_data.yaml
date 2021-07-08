@@ -1791,3 +1791,38 @@ ESPORTSTMNT05/1430773:
     Yanmo:
         firstdragon: 1
         firstherald: 0
+7718-10461:
+    yyy:
+        firstdragon: 0
+        firstherald: 1
+    Beige:
+        firstdragon: 1
+        firstherald: 0
+7718-10463:
+    yyy:
+        firstdragon: 0
+        firstherald: 1
+    Beige:
+        firstdragon: 1
+        firstherald: 0
+7719-10464:
+    Starry:
+        firstdragon: 0
+        firstherald: 1
+    Taiyi:
+        firstdragon: 1
+        firstherald: 0
+7719-10467:
+    Starry:
+        firstdragon: 0
+        firstherald: 0
+    Taiyi:
+        firstdragon: 1
+        firstherald: 1
+7719-10470:
+    Starry:
+        firstdragon: 0
+        firstherald: 0
+    Taiyi:
+        firstdragon: 1
+        firstherald: 1
