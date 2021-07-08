@@ -1392,3 +1392,17 @@ ESPORTSTMNT05/1430773:
     Ben4:
         firstdragon: 1
         firstherald: 0
+7768-10632:
+    Yanmo:
+        firstdragon: 0
+        firstherald: 1
+    Taiyi:
+        firstdragon: 1
+        firstherald: 0
+7768-10633:
+    Yanmo:
+        firstdragon: 1
+        firstherald: 0
+    Taiyi:
+        firstdragon: 0
+        firstherald: 1
