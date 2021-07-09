@@ -2211,3 +2211,24 @@ ESPORTSTMNT05/1430773:
     PeiLin:
         firstdragon: 0
         firstherald: 0
+7742-10541:
+    frigid:
+        firstdragon: 0
+        firstherald: 0
+    wowowo:
+        firstdragon: 1
+        firstherald: 1
+7742-10542:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+    wowowo:
+        firstdragon: 0
+        firstherald: 0
+7742-10545:
+    frigid:
+        firstdragon: 0
+        firstherald: 1
+    wowowo:
+        firstdragon: 1
+        firstherald: 0
