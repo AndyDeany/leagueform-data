@@ -2806,3 +2806,66 @@ ESPORTSTMNT05/1430773:
     Youdang:
         firstdragon: 1
         firstherald: 1
+7743-10547:
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+    Naruto:
+        firstdragon: 0
+        firstherald: 1
+7743-10550:
+    lvye23:
+        firstdragon: 0
+        firstherald: 0
+    Naruto:
+        firstdragon: 1
+        firstherald: 1
+7744-10551:
+    Youdang:
+        firstdragon: 0
+        firstherald: 1
+    XLB:
+        firstdragon: 1
+        firstherald: 0
+7744-10553:
+    Youdang:
+        firstdragon: 0
+        firstherald: 1
+    XLB:
+        firstdragon: 1
+        firstherald: 0
+7745-10554:
+    Xiaoyang:
+        firstdragon: 0
+        firstherald: 1
+    eight:
+        firstdragon: 1
+        firstherald: 0
+7745-10556:
+    Xiaoyang:
+        firstdragon: 1
+        firstherald: 1
+    eight:
+        firstdragon: 0
+        firstherald: 0
+7746-10557:
+    CSY:
+        firstdragon: 0
+        firstherald: 1
+    Heng:
+        firstdragon: 1
+        firstherald: 0
+7746-10559:
+    CSY:
+        firstdragon: 0
+        firstherald: 0
+    Heng:
+        firstdragon: 1
+        firstherald: 1
+7746-10560:
+    CSY:
+        firstdragon: 1
+        firstherald: 1
+    Heng:
+        firstdragon: 0
+        firstherald: 0
