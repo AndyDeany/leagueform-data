@@ -2694,3 +2694,115 @@ ESPORTSTMNT05/1430773:
     Taiyi:
         firstdragon: 0
         firstherald: 0
+7710-10436:
+    xiaohuangren:
+        firstdragon: 0
+        firstherald: 1
+    Beichuan:
+        firstdragon: 1
+        firstherald: 0
+7710-10438:
+    xiaohuangren:
+        firstdragon: 1
+        firstherald: 1
+    Beichuan:
+        firstdragon: 0
+        firstherald: 0
+7710-10439:
+    xiaohuangren:
+        firstdragon: 1
+        firstherald: 1
+    Beichuan:
+        firstdragon: 0
+        firstherald: 0
+7711-10442:
+    eight:
+        firstdragon: 0
+        firstherald: 0
+    heng:
+        firstdragon: 1
+        firstherald: 1
+7711-10446:
+    eight:
+        firstdragon: 1
+        firstherald: 0
+    heng:
+        firstdragon: 0
+        firstherald: 1
+7712-10440:
+    yws:
+        firstdragon: 0
+        firstherald: 1
+    Naruto:
+        firstdragon: 1
+        firstherald: 0
+7712-10441:
+    yws:
+        firstdragon: 0
+        firstherald: 0
+    Naruto:
+        firstdragon: 1
+        firstherald: 1
+7713-10451:
+    PeiLin:
+        firstdragon: 0
+        firstherald: 0
+    XLB:
+        firstdragon: 1
+        firstherald: 1
+7713-10453:
+    PeiLin:
+        firstdragon: 1
+        firstherald: 0
+    XLB:
+        firstdragon: 0
+        firstherald: 1
+7714-10445:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+    zzx:
+        firstdragon: 0
+        firstherald: 0
+7714-10448:
+    frigid:
+        firstdragon: 0
+        firstherald: 1
+    zzx:
+        firstdragon: 1
+        firstherald: 0
+7714-10450:
+    frigid:
+        firstdragon: 0
+        firstherald: 1
+    zzx:
+        firstdragon: 1
+        firstherald: 0
+7715-10456:
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+    Fatfish:
+        firstdragon: 0
+        firstherald: 1
+7715-10459:
+    lvye23:
+        firstdragon: 1
+        firstherald: 1
+    Fatfish:
+        firstdragon: 0
+        firstherald: 0
+7716-10455:
+    CSY:
+        firstdragon: 1
+        firstherald: 0
+    Youdang:
+        firstdragon: 0
+        firstherald: 1
+7716-10457:
+    CSY:
+        firstdragon: 0
+        firstherald: 0
+    Youdang:
+        firstdragon: 1
+        firstherald: 1
