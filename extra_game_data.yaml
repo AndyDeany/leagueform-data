@@ -2169,3 +2169,31 @@ ESPORTSTMNT05/1430773:
     98K:
         firstdragon: 1
         firstherald: 1
+7739-10535:
+    Taiyi:
+        firstdragon: 0
+        firstherald: 0
+    Yuan:
+        firstdragon: 1
+        firstherald: 1
+7739-10537:
+    Taiyi:
+        firstdragon: 0
+        firstherald: 0
+    Yuan:
+        firstdragon: 1
+        firstherald: 1
+7740-10536:
+    Yanmo:
+        firstdragon: 1
+        firstherald: 1
+    Hook:
+        firstdragon: 0
+        firstherald: 0
+7740-10539:
+    Yanmo:
+        firstdragon: 0
+        firstherald: 0
+    Hook:
+        firstdragon: 1
+        firstherald: 1
