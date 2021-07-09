@@ -1826,3 +1826,31 @@ ESPORTSTMNT05/1430773:
     Taiyi:
         firstdragon: 1
         firstherald: 1
+7671-10755:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+    Xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+7671-10756:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+    Xiaopeng:
+        firstdragon: 0
+        firstherald: 0
+7672-10759:
+    Karsa:
+        firstdragon: 1
+        firstherald: 1
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+7672-10762:
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+    pzx:
+        firstdragon: 0
+        firstherald: 1
