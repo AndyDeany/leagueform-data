@@ -2260,3 +2260,136 @@ ESPORTSTMNT05/1430773:
     xiaoty:
         firstdragon: 0
         firstherald: 0
+7683-10351:
+    Xiao17:
+        firstdragon: 1
+        firstherald: 1
+    yyy:
+        firstdragon: 0
+        firstherald: 0
+7683-10353:
+    Xiao17:
+        firstdragon: 0
+        firstherald: 1
+    yyy:
+        firstdragon: 1
+        firstherald: 0
+7683-10356:
+    Xiao17:
+        firstdragon: 0
+        firstherald: 1
+    yyy:
+        firstdragon: 1
+        firstherald: 0
+7684-10347:
+    Beige:
+        firstdragon: 1
+        firstherald: 0
+    Kennychan:
+        firstdragon: 0
+        firstherald: 1
+7684-10350:
+    Beige:
+        firstdragon: 0
+        firstherald: 0
+    Kennychan:
+        firstdragon: 1
+        firstherald: 1
+7685-10360:
+    Ben4:
+        firstdragon: 0
+        firstherald: 0
+    Hook:
+        firstdragon: 1
+        firstherald: 1
+7685-10362:
+    Ben4:
+        firstdragon: 0
+        firstherald: 0
+    Hook:
+        firstdragon: 1
+        firstherald: 1
+7686-10357:
+    yekai:
+        firstdragon: 1
+        firstherald: 1
+    xiaohuangren:
+        firstdragon: 0
+        firstherald: 0
+7686-10359:
+    yekai:
+        firstdragon: 1
+        firstherald: 1
+    xiaohuangren:
+        firstdragon: 0
+        firstherald: 0
+7687-10363:
+    CSY:
+        firstdragon: 0
+        firstherald: 0
+    eight:
+        firstdragon: 1
+        firstherald: 1
+7687-10365:
+    CSY:
+        firstdragon: 0
+        firstherald: 1
+    eight:
+        firstdragon: 1
+        firstherald: 0
+7687-10368:
+    CSY:
+        firstdragon: 0
+        firstherald: 1
+    eight:
+        firstdragon: 1
+        firstherald: 0
+7688-10364:
+    Youdang:
+        firstdragon: 1
+        firstherald: 1
+    Fatfish:
+        firstdragon: 0
+        firstherald: 0
+7688-10366:
+    Youdang:
+        firstdragon: 1
+        firstherald: 0
+    Fatfish:
+        firstdragon: 0
+        firstherald: 1
+7688-10367:
+    Youdang:
+        firstdragon: 0
+        firstherald: 1
+    Fatfish:
+        firstdragon: 1
+        firstherald: 0
+7689-10371:
+    Heng:
+        firstdragon: 1
+        firstherald: 1
+    yws:
+        firstdragon: 0
+        firstherald: 0
+7689-10374:
+    Heng:
+        firstdragon: 1
+        firstherald: 0
+    yws:
+        firstdragon: 0
+        firstherald: 1
+7690-10369:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+    PeiLin:
+        firstdragon: 0
+        firstherald: 0
+7690-10372:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+    PeiLin:
+        firstdragon: 0
+        firstherald: 0
