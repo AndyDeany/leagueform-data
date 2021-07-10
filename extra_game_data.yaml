@@ -2890,3 +2890,24 @@ ESPORTSTMNT05/1430773:
     Beige:
         firstdragon: 0
         firstherald: 0
+7673-10772:
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+7673-10775:
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+7674-10779:
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+    Tian:
+        firstdragon: 1
+        firstherald: 0
