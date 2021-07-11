@@ -2904,13 +2904,20 @@ ESPORTSTMNT05/1430773:
     Aki:
         firstdragon: 1
         firstherald: 0
-7674-10779:
+7674-10780:
     shad0w:
         firstdragon: 0
         firstherald: 1
     Tian:
         firstdragon: 1
         firstherald: 0
+7674-10779:
+    shad0w:
+        firstdragon: 0
+        firstherald: 0
+    Tian:
+        firstdragon: 1
+        firstherald: 1
 7748-10563:
     KennyChan:
         firstdragon: 0
