@@ -2995,3 +2995,47 @@ ESPORTSTMNT05/1430773:
     yyy:
         firstdragon: 0
         firstherald: 0
+6099-7582:
+    Bun:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+    Yueyue:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+6102-7590:
+    XiaoXuan:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    Xiaohuangren:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+6110-7621:
+    l3est16:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 1
+    Youdang:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 0
+6138-7656:
+    XUN:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+    Noble:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
