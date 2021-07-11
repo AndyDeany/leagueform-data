@@ -3046,3 +3046,54 @@ ESPORTSTMNT05/1430773:
         firsttower: 1
         firstdragon: 1
         firstherald: 1
+6148-7697:
+    XUN:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    Mingjing:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+6157-7729:
+    57:
+        firstdragon: 0
+        firstherald: 1
+    l3est16:
+        firstdragon: 1
+        firstherald: 0
+6178-7793:
+    Cheats:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+    Yekai:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+6267-7847:
+    Flora:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+    Beige:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+6278-7878:
+    Lixiao:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+    Noble:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
