@@ -3251,3 +3251,76 @@ ESPORTSTMNT05/1430773:
         firsttower: 1
         firstdragon: 1
         firstherald: 0
+6902-9172:
+    Aix:
+        firstdragon: 0
+        firstherald: 1
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+6902-9173:
+    Aix:
+        firstdragon: 1
+        firstherald: 1
+    Karsa:
+        firstdragon: 0
+        firstherald: 0
+6902-9174:
+    Aix:
+        firstdragon: 1
+        firstherald: 0
+    Karsa:
+        firstdragon: 0
+        firstherald: 1
+ESPORTSTMNT03/1331290:
+    Hoglet:
+        firsttower: 1
+    Bugi:
+        firsttower: 0
+ESPORTSTMNT03/1401701:
+    LeeSA:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    Croc:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+ESPORTSTMNT03/1441159:
+    Lia:
+        firsttower: 0
+    MooJin:
+        firsttower: 1
+ESPORTSTMNT04/1240424:
+    Ferret:
+        firstherald: 0
+        firsttower: 0
+    Urban:
+        firstherald: 1
+        firsttower: 1
+ESPORTSTMNT05/1860832:
+    Robin:
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+    Kireas:
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+NA1/3291748510:
+    NintendudeX:
+        firstdragon: 1
+    Neq:
+        firstdragon: 0
+NA1/3741222396:
+    Hunter:
+        firsttower: 1
+    Alter:
+        firsttower: 0
+NA1/3916789614:
+    EXyu:
+        firstherald: 1
+    Clam:
+        firstherald: 0
