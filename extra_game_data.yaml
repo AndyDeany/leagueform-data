@@ -3324,3 +3324,25 @@ NA1/3916789614:
         firstherald: 1
     Clam:
         firstherald: 0
+6350-8136:
+    Bandao:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    Gabi:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+6351-8139:
+    Yueyue:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+    Kui:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
