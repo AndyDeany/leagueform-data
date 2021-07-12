@@ -3379,3 +3379,25 @@ NA1/3916789614:
         firsttower: 1
         firstdragon: 1
         firstherald: 0
+6375-8220:
+    Ben4:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+    Lixiao:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 0
+6375-8221:
+    Lixiao:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    Ben4:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
