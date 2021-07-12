@@ -3346,3 +3346,36 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
+6355-8159:
+    xiaohao:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    Lixiao:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+6359-8173:
+    Maggie:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+    XiaoYang:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 0
+6371-8212:
+    XUN:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+    Yanxiang:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 0
