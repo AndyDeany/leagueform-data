@@ -3218,3 +3218,36 @@ ESPORTSTMNT05/1430773:
     xiaohuangren:
         firstdragon: 1
         firstherald: 0
+6702-8984:
+    Peanut:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+    Ning:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+6707-8944:
+    Ben4:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+    Yanmo:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+6707-8946:
+    Ben4:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+    Yanmo:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 0
