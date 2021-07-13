@@ -3423,3 +3423,52 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
+7675-10787:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+    H4cker:
+        firstdragon: 0
+        firstherald: 1
+7675-10789:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+    H4cker:
+        firstdragon: 0
+        firstherald: 1
+7675-10792:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+    H4cker:
+        firstdragon: 1
+        firstherald: 0
+7676-10794:
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+7676-10797:
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+7677-10798:
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+    XUN:
+        firstdragon: 0
+        firstherald: 0
+7677-10803:
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+    XUN:
+        firstdragon: 0
+        firstherald: 0
