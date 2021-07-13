@@ -3472,3 +3472,52 @@ NA1/3916789614:
     XUN:
         firstdragon: 0
         firstherald: 0
+7678-10809:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 1
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+7678-10812:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+7679-10817:
+    sofm:
+        firstdragon: 0
+        firstherald: 1
+    karsa:
+        firstdragon: 1
+        firstherald: 0
+7679-10818:
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+7679-10820:
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+7680-10821:
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+    kanavi:
+        firstdragon: 0
+        firstherald: 0
+7680-10824:
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+    kanavi:
+        firstdragon: 0
+        firstherald: 1
