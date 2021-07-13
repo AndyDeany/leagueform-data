@@ -3390,14 +3390,36 @@ NA1/3916789614:
         firsttower: 1
         firstdragon: 1
         firstherald: 0
-6375-8221:
-    Lixiao:
+6379-8241:
+    Lelebbi:
         firstblood: 1
         firsttower: 1
-        firstdragon: 0
-        firstherald: 1
-    Ben4:
+        firstdragon: 1
+        firstherald: 0
+    XUN:
         firstblood: 0
         firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+6391-8284:
+    Magic:
+        firstblood: 1
+        firsttower: 1
         firstdragon: 1
+        firstherald: 1
+    Lixiao:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+6399-8315:
+    Magic:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+    Lixiao:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
         firstherald: 0
