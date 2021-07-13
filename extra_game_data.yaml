@@ -3556,3 +3556,25 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
+6405-8334:
+    Maggie:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+    Ben4:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+6411-8355:
+    Jackairay:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    Magic:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
