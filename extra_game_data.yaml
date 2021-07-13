@@ -3545,3 +3545,14 @@ NA1/3916789614:
     Tian:
         firstdragon: 0
         firstherald: 1
+6399-8315:
+    Bandao:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+    Magic:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
