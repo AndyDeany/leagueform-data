@@ -3695,7 +3695,7 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
-    EMit:
+    Yuan:
         firstblood: 0
         firsttower: 1
         firstdragon: 1
@@ -3786,5 +3786,68 @@ NA1/3916789614:
     xiaoyang:
         firstblood: 0
         firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+7101-9668:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 1
+    Lffzzz:
+        firstdragon: 1
+        firstherald: 0
+7108-9690:
+    xiao17:
+        firstdragon: 0
+        firstherald: 1
+    Hook:
+        firstdragon: 1
+        firstherald: 0
+7109-9701:
+    frigid:
+        firstdragon: 1
+        firstherald: 0
+    Corbie:
+        firstdragon: 0
+        firstherald: 1
+7155-9847:
+    icecoke:
+        firstdragon: 0
+        firstherald: 0
+    Xiao17:
+        firstdragon: 1
+        firstherald: 1
+7155-9849:
+    icecoke:
+        firstdragon: 0
+        firstherald: 1
+    Xiao17:
+        firstdragon: 1
+        firstherald: 0
+7155-9853:
+    icecoke:
+        firstdragon: 0
+        firstherald: 1
+    Xiao17:
+        firstdragon: 1
+        firstherald: 0
+7402-10055:
+    ifcan:
+        firstdragon: 0
+        firstherald: 0
+    xiaohuangren:
+        firstdragon: 1
+        firstherald: 1
+7449-10168:
+    xiaoyang:
+        firstdragon: 1
+        firstherald: 1
+    kennychan:
+        firstdragon: 0
+        firstherald: 0
+7487-10256:
+    Ben4:
+        firstdragon: 1
+        firstherald: 0
+    Yuan:
         firstdragon: 0
         firstherald: 1
