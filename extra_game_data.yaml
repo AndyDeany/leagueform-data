@@ -888,20 +888,6 @@ ESPORTSTMNT05/1430773:
     shad0w:
         firstdragon: 0
         firstherald: 0
-7652-10597:
-    H4cker:
-        firstdragon: 0
-        firstherald: 1
-    Jiejie:
-        firstdragon: 1
-        firstherald: 0
-7652-10599:
-    H4cker:
-        firstdragon: 0
-        firstherald: 0
-    Jiejie:
-        firstdragon: 1
-        firstherald: 1
 7655-10614:
     Weiwei:
         firstdragon: 0
@@ -3578,3 +3564,73 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 1
         firstherald: 0
+7652-10597:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+    aki:
+        firstdragon: 0
+        firstherald: 0
+7652-10599:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+    aki:
+        firstdragon: 0
+        firstherald: 0
+7653-10604:
+    h4cker:
+        firstdragon: 0
+        firstherald: 1
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+7653-10605:
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+7971-10832:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 0
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+7971-10833:
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+7971-10834:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 0
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+7972-10835:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+7972-10836:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+7972-10837:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
