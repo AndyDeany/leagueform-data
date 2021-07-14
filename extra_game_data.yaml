@@ -3695,7 +3695,7 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
-    Yuan:
+    Emit:
         firstblood: 0
         firsttower: 1
         firstdragon: 1
@@ -3778,7 +3778,7 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
 6583-8925:
-    98K:
+    Mori:
         firstblood: 1
         firsttower: 0
         firstdragon: 1
@@ -3813,21 +3813,21 @@ NA1/3916789614:
     icecoke:
         firstdragon: 0
         firstherald: 0
-    Xiao17:
+    Small17:
         firstdragon: 1
         firstherald: 1
 7155-9849:
     icecoke:
         firstdragon: 0
         firstherald: 1
-    Xiao17:
+    Small17:
         firstdragon: 1
         firstherald: 0
 7155-9853:
     icecoke:
         firstdragon: 0
         firstherald: 1
-    Xiao17:
+    Small17:
         firstdragon: 1
         firstherald: 0
 7402-10055:
