@@ -4404,3 +4404,66 @@ NA1/3916789614:
     xiaohuangren:
         firstdragon: 0
         firstherald: 0
+7821-10813:
+    Yanmo:
+        firstdragon: 0
+        firstherald: 1
+    98K:
+        firstdragon: 1
+        firstherald: 0
+7821-10814:
+    Yanmo:
+        firstdragon: 1
+        firstherald: 1
+    98K:
+        firstdragon: 0
+        firstherald: 0
+7822-10815:
+    Xiao17:
+        firstdragon: 0
+        firstherald: 0
+    Taiyi:
+        firstdragon: 1
+        firstherald: 1
+7822-10816:
+    Xiao17:
+        firstdragon: 0
+        firstherald: 0
+    Taiyi:
+        firstdragon: 1
+        firstherald: 1
+7823-10819:
+    Hook:
+        firstdragon: 0
+        firstherald: 0
+    Beichuan:
+        firstdragon: 1
+        firstherald: 1
+7823-10823:
+    Hook:
+        firstdragon: 1
+        firstherald: 0
+    Beichuan:
+        firstdragon: 0
+        firstherald: 1
+7823-10825:
+    Hook:
+        firstdragon: 0
+        firstherald: 1
+    Beichuan:
+        firstdragon: 1
+        firstherald: 0
+7824-10822:
+    KennyChan:
+        firstdragon: 0
+        firstherald: 1
+    Yuan:
+        firstdragon: 1
+        firstherald: 0
+7824-10826:
+    KennyChan:
+        firstdragon: 1
+        firstherald: 0
+    Yuan:
+        firstdragon: 0
+        firstherald: 1
