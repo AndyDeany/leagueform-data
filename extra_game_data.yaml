@@ -3956,3 +3956,24 @@ NA1/3916789614:
     Xiao17:
         firstdragon: 1
         firstherald: 0
+7795-10727:
+    Yanmo:
+        firstdragon: 1
+        firstherald: 0
+    Beige:
+        firstdragon: 0
+        firstherald: 1
+7795-10728:
+    Yanmo:
+        firstdragon: 0
+        firstherald: 1
+    Beige:
+        firstdragon: 1
+        firstherald: 0
+7795-10729:
+    Yanmo:
+        firstdragon: 0
+        firstherald: 0
+    Beige:
+        firstdragon: 1
+        firstherald: 1
