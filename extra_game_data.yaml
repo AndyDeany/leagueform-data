@@ -3711,3 +3711,80 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 1
         firstherald: 0
+6558-8859:
+    lelebbi:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+    Wuyazi:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 0
+6570-8892:
+    Yueyue:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+    Yanxiang:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+6571-8893:
+    Maggie:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 1
+    XUN:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 0
+6574-8901:
+    Youxin:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
+    hedy:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+6575-8903:
+    initial:
+        firstblood: 0
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+    Gabi:
+        firstblood: 1
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 0
+6576-8907:
+    Magic:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 1
+        firstherald: 0
+    Ben4:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 0
+        firstherald: 1
+6583-8925:
+    98K:
+        firstblood: 1
+        firsttower: 0
+        firstdragon: 1
+        firstherald: 0
+    xiaoyang:
+        firstblood: 0
+        firsttower: 1
+        firstdragon: 0
+        firstherald: 1
