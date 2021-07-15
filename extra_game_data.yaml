@@ -4467,3 +4467,38 @@ NA1/3916789614:
     Yuan:
         firstdragon: 0
         firstherald: 1
+7973-10844:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 1
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+7973-10846:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+    sofm:
+        firstdragon: 1
+        firstherald: 1
+7973-10848:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 1
+    sofm:
+        firstdragon: 1
+        firstherald: 0
+7974-10852:
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+    aki:
+        firstdragon: 1
+        firstherald: 1
+7974-10854:
+    h4cker:
+        firstdragon: 1
+        firstherald: 0
+    aki:
+        firstdragon: 0
+        firstherald: 1
