@@ -4502,3 +4502,31 @@ NA1/3916789614:
     aki:
         firstdragon: 0
         firstherald: 1
+7975-10861:
+    pzx:
+        firstdragon: 1
+        firstherald: 0
+    wei:
+        firstdragon: 0
+        firstherald: 1
+7975-10866:
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+    wei:
+        firstdragon: 1
+        firstherald: 1
+7976-10865:
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+7976-10869:
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
