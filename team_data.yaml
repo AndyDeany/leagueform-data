@@ -355,28 +355,28 @@ BOC:
 # LLA
 AK:
     name: All Knights
-    jungler: Grell
+    jungler: Pancake
 EST:
     name: Estral Esports
-    jungler: LiquidDiego
+    jungler: Grell
 FG:
     name: Furious
     jungler: Bugi
 INF:
-    name: Gillette Infinity
+    name: Infinity Esports
     jungler: SolidSnake
 ISG:
     name: Isurus
     jungler: Warangelus
 KLG:
     name: Kaos Latin Gamers
-    jungler: Haru
+    jungler: LiquidDiego
 R7:
     name: Rainbow 7
     jungler: Oddie
 XTN:
     name: XTEN
-    jungler: Unforgiven
+    jungler: Dimitry
  
 # TCL
 FB:
