@@ -4558,3 +4558,52 @@ NA1/3916789614:
     xun:
         firstdragon: 1
         firstherald: 1
+7979-10893:
+    h4cker:
+        firstdragon: 0
+        firstherald: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+7979-10895:
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+7979-10898:
+    h4cker:
+        firstdragon: 1
+        firstherald: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+7980-10899:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 1
+    leyan:
+        firstdragon: 0
+        firstherald: 0
+7980-10902:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 0
+    leyan:
+        firstdragon: 0
+        firstherald: 1
+7981-10906:
+    tian:
+        firstdragon: 1
+        firstherald: 0
+    karsa:
+        firstdragon: 0
+        firstherald: 1
+7981-10906:
+    tian:
+        firstdragon: 0
+        firstherald: 1
+    karsa:
+        firstdragon: 1
+        firstherald: 0
