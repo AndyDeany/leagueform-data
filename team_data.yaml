@@ -202,7 +202,7 @@ TSMA:
     name: TSM Academy
     jungler: Hyper
 IMTA:
-    name: Immortals Academy 
+    name: Immortals Academy
     jungler: AnDa
 
 # PCS
@@ -377,7 +377,7 @@ R7:
 XTN:
     name: XTEN
     jungler: Dimitry
- 
+
 # TCL
 FB:
     name: 1907 Fenerbache
@@ -409,7 +409,7 @@ SUP:
 AUR:
     name: Team AURORA
     jungler: Reifoas
- 
+
 # LPLOL
 WD:
     name: White Dragons
@@ -435,7 +435,7 @@ E5:
 KRM:
     name: Karma Clan Esports
     jungler: Infinity
- 
+
 # Ultraliga
 PDW:
     name: PDW
@@ -461,7 +461,7 @@ KNF:
 TEG:
     name: Team ESCA Gaming
     jungler: Xeonerr
- 
+
 # LFL
 GO:
     name: GamersOrigin
@@ -493,7 +493,7 @@ MCES:
 VITB:
     name: Vitality Bee
     jungler: Skeanz
- 
+
 # PrimeLeague
 BIG:
     name: BIG
@@ -525,7 +525,7 @@ USE:
 WAVE:
     name: WAVE Esports
     jungler: lyncas
- 
+
 # NLC
 BTXL:
     name: BT Excel
@@ -563,7 +563,7 @@ SNG:
 TRC:
     name: Tricked Esport
     jungler: Taxer
- 
+
 # LVP SuperLiga
 BCN:
     name: BCN Squad
@@ -595,7 +595,7 @@ UCAM:
 VGIA:
     name: Vodafone Giants
     jungler: 113
- 
+
 # PG Nationals
 AXL:
     name: Axolotl
@@ -621,7 +621,7 @@ SMS:
 OP:
     name: Outplayed
     jungler: Lotus
- 
+
 # EBL
 ASUS:
     name: ASUS ROG ELITE
@@ -647,7 +647,7 @@ X25:
 Z10:
     name: Zero Tenacity
     jungler: Ryuzaki
- 
+
 # GLL
 GSMC:
     name: Gamespace MCE
@@ -658,7 +658,7 @@ ANO:
 RFS:
     name: Team Refuse
     jungler: Dom1nant
- 
+
 # LJL
 AXZ:
     name: AXIZ
@@ -684,7 +684,7 @@ SG:
 V3:
     name: V3 Esports
     jungler: MooJin
- 
+
 # LCO
 CHF:
     name: Chiefs Esports
@@ -710,7 +710,7 @@ PCE:
 PGG:
     name: Pentanet.GG
     jungler: Pabu
- 
+
 # LCL
 BSG:
     name: Black Star Gaming
@@ -736,7 +736,7 @@ UOL:
 VEG:
     name: Vega Squadron
     jungler: Wysek
- 
+
 # CBLOL
 FLA:
     name: Flamengo Esports
@@ -768,7 +768,7 @@ RNS:
 VRX:
     name: Vorax Liberty
     jungler: Yampi
- 
+
 # CBLOL Academy
 FLAA:
     name: Flamengo Academy
@@ -800,7 +800,7 @@ RNSA:
 VRXA:
     name: Vorax Academy
     jungler: Disamis
- 
+
 # Belgian League
 ION:
     name: Ion Squad
@@ -820,7 +820,7 @@ SGC:
 _7AM:
     name: Team 7AM
     jungler: KASAPINA
- 
+
 # Dutch League
 DYN:
     name: Dynasty
@@ -840,7 +840,7 @@ PSV:
 TRL:
     name: Team THRLL
     jungler: Gaboesh
- 
+
 # LCK CL
 AFC:
     name: AF Challengers
@@ -868,12 +868,12 @@ LSBC:
     jungler: Seize
 NSC:
     name: NS Challengers
-    jungler: Sylvie
+    jungler: Juhan
 T1C:
     name: T1 Challengers
     jungler: Mowgli
- 
- 
+
+
 # GL
 BRR:
     name: Braves Rising
@@ -887,7 +887,7 @@ ELR:
 NOC:
     name: NOCTA
     jungler: Sunriser
- 
+
 # UKLC
 BDG:
     name: Bulldog Esports
