@@ -4649,3 +4649,45 @@ NA1/3916789614:
     SofM:
         firstdragon: 0
         firstherald: 0
+7984-10913:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+    wei:
+        firstdragon: 1
+        firstherald: 0
+7984-10914:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+    wei:
+        firstdragon: 0
+        firstherald: 1
+7985-10919:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+7985-10922:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+7986-10924:
+    pzx:
+        firstdragon: 0
+        firstherald: 1
+    xun:
+        firstdragon: 1
+        firstherald: 0
+7986-10926:
+    pzx:
+        firstdragon: 1
+        firstherald: 0
+    xun:
+        firstdragon: 0
+        firstherald: 1
