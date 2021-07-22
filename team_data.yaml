@@ -96,22 +96,22 @@ T1:
 
 # LCK Subs
 GEN2:
-    name: Gen.G
+    name: Gen.G2
     jungler: YoungJae
 BRO2:
-    name: Fredit BRION
+    name: Fredit BRION2
     jungler: Chieftain
 HLE2:
-    name: Hanwha Life Esports
+    name: Hanwha Life Esports2
     jungler: Arthur
 HLE3:
-    name: Hanwha Life Esports
+    name: Hanwha Life Esports3
     jungler: Willer
 KT2:
-    name: KT Rolster
+    name: KT Rolster2
     jungler: GIDEON
 T12:
-    name: T1
+    name: T12
     jungler: Cuzz
 # LPL
 BLG:
