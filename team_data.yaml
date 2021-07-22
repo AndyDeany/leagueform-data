@@ -93,9 +93,26 @@ NS:
 T1:
     name: T1
     jungler: Oner
+
+# LCK Subs
 GEN2:
     name: Gen.G
     jungler: YoungJae
+BRO2:
+    name: Fredit BRION
+    jungler: Chieftain
+HLE2:
+    name: Hanwha Life Esports
+    jungler: Arthur
+HLE3:
+    name: Hanwha Life Esports
+    jungler: Willer
+KT:
+    name: KT Rolster
+    jungler: GIDEON
+T12:
+    name: T1
+    jungler: Cuzz
 # LPL
 BLG:
     name: Bilibili Gaming
