@@ -93,7 +93,9 @@ NS:
 T1:
     name: T1
     jungler: Oner
-
+GEN2:
+    name: Gen.G
+    jungler: YoungJae
 # LPL
 BLG:
     name: Bilibili Gaming
