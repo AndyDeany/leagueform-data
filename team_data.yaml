@@ -94,7 +94,7 @@ T1:
     name: T1
     jungler: Oner
 
-# LCK Subs
+# Subs
 GEN2:
     name: Gen.G2
     jungler: YoungJae
@@ -113,6 +113,13 @@ KT2:
 T12:
     name: T12
     jungler: Cuzz
+EDG2:
+    name: EDG2
+    jungler: Clearlove
+VB2:
+    name: V52
+    jungler: JugGod
+
 # LPL
 BLG:
     name: Bilibili Gaming
