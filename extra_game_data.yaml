@@ -4831,3 +4831,52 @@ NA1/3916789614:
     tian:
         firstdragon: 1
         firstherald: 0
+7995-10963:
+    leyan:
+        firstdragon: 1
+        firstherald: 1
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+7995-10964:
+    leyan:
+        firstdragon: 0
+        firstherald: 1
+    h4cker:
+        firstdragon: 1
+        firstherald: 0
+7996-10965:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+    kanavi:
+        firstdragon: 1
+        firstherald: 0
+7996-10966:
+    wei:
+        firstdragon: 1
+        firstherald: 1
+    kanavi:
+        firstdragon: 0
+        firstherald: 0
+7996-10967:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+    kanavi:
+        firstdragon: 1
+        firstherald: 0
+7997-10968:
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+    clearlove:
+        firstdragon: 0
+        firstherald: 0
+7997-10969:
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+    junjia:
+        firstdragon: 0
+        firstherald: 1
