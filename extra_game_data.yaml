@@ -4926,3 +4926,25 @@ NA1/3916789614:
     noregret:
         firstdragon: 1
         firstherald: 1
+7998-10971:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+7999-10970:
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    aki:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
