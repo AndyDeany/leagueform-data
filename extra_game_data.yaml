@@ -4334,13 +4334,6 @@ NA1/3916789614:
     youdang:
         firstdragon: 0
         firstherald: 1
-7817-10800:
-    XLB:
-        firstdragon: 0
-        firstherald: 1
-    lvye23:
-        firstdragon: 1
-        firstherald: 0
 7817-10801:
     XLB:
         firstdragon: 1
@@ -5036,3 +5029,59 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 0
         firstblood: 1
+8034-10843:
+    XLB:
+        firstdragon: 0
+        firstherald: 1
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+8035-10842:
+    kennychan:
+        firstdragon: 1
+        firstherald: 0
+    noregret:
+        firstdragon: 0
+        firstherald: 1
+8036-10845:
+    frigid:
+        firstdragon: 1
+        firstherald: 0
+    Uni:
+        firstdragon: 0
+        firstherald: 1
+8037-10847:
+    yyy:
+        firstdragon: 1
+        firstherald: 1
+    y1han:
+        firstdragon: 0
+        firstherald: 0
+8038-10849:
+    frigid:
+        firstdragon: 0
+        firstherald: 1
+    xlb:
+        firstdragon: 1
+        firstherald: 0
+8039-10850:
+    y1han:
+        firstdragon: 0
+        firstherald: 1
+    kennychan:
+        firstdragon: 1
+        firstherald: 0
+8040-10851:
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+    uni:
+        firstdragon: 0
+        firstherald: 1
+8041-10853:
+    noregret:
+        firstdragon: 1
+        firstherald: 1
+    yyy:
+        firstdragon: 0
+        firstherald: 0
