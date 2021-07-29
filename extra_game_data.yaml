@@ -5446,3 +5446,52 @@ NA1/3916789614:
     taiyi:
         firstdragon: 1
         firstherald: 0
+8081-10927:
+    lvye23:
+        firstdragon: 0
+        firstherald: 1
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+8081-10928:
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+    xiao17:
+        firstdragon: 0
+        firstherald: 1
+8081-10929:
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+    xiao17:
+        firstdragon: 0
+        firstherald: 1
+8083-10946:
+    taiyi:
+        firstdragon: 1
+        firstherald: 1
+    xlb:
+        firstdragon: 0
+        firstherald: 0
+8083-10947:
+    taiyi:
+        firstdragon: 0
+        firstherald: 0
+    xlb:
+        firstdragon: 1
+        firstherald: 1
+8083-10949:
+    taiyi:
+        firstdragon: 1
+        firstherald: 0
+    xlb:
+        firstdragon: 0
+        firstherald: 1
+8083-10951:
+    taiyi:
+        firstdragon: 1
+        firstherald: 1
+    xlb:
+        firstdragon: 0
+        firstherald: 0
