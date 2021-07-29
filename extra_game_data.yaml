@@ -5397,3 +5397,24 @@ NA1/3916789614:
     PYoChul:
         firstdragon: 0
         firstherald: 1
+8079-10916:
+    yyy:
+        firstdragon: 0
+        firstherald: 0
+    xlb:
+        firstdragon: 1
+        firstherald: 1
+8079-10917:
+    yyy:
+        firstdragon: 0
+        firstherald: 1
+    xlb:
+        firstdragon: 1
+        firstherald: 0
+8079-10918:
+    yyy:
+        firstdragon: 1
+        firstherald: 0
+    xlb:
+        firstdragon: 0
+        firstherald: 1
