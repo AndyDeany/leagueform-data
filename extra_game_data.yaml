@@ -5418,3 +5418,31 @@ NA1/3916789614:
     xlb:
         firstdragon: 0
         firstherald: 1
+8080-10920:
+    y1han:
+        firstdragon: 0
+        firstherald: 1
+    taiyi:
+        firstdragon: 1
+        firstherald: 0
+8080-10921:
+    y1han:
+        firstdragon: 0
+        firstherald: 0
+    taiyi:
+        firstdragon: 1
+        firstherald: 1
+8080-10923:
+    y1han:
+        firstdragon: 0
+        firstherald: 0
+    taiyi:
+        firstdragon: 1
+        firstherald: 1
+8080-10925:
+    y1han:
+        firstdragon: 0
+        firstherald: 1
+    taiyi:
+        firstdragon: 1
+        firstherald: 0
