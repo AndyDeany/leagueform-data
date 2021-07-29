@@ -5376,17 +5376,24 @@ NA1/3916789614:
     PYoChul:
         firstdragon: 1
         firstherald: 1
-8075-10901:
+8076-10903:
     yuan:
         firstdragon: 0
         firstherald: 1
     taiyi:
         firstdragon: 1
         firstherald: 0
-8075-10901:
+8077-10904:
     xiao17:
         firstdragon: 0
         firstherald: 1
     Xiaoyang:
         firstdragon: 1
         firstherald: 0
+8086-10915:
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+    PYoChul:
+        firstdragon: 0
+        firstherald: 1
