@@ -5085,13 +5085,6 @@ NA1/3916789614:
     yyy:
         firstdragon: 0
         firstherald: 0
-8042-10855:
-    lizheng:
-        firstdragon: 0
-        firstherald: 0
-    Taiyi:
-        firstdragon: 1
-        firstherald: 1
 8043-10856:
     xiaoyang:
         firstdragon: 0
@@ -5113,13 +5106,6 @@ NA1/3916789614:
     xiao17:
         firstdragon: 1
         firstherald: 0
-8046-10859:
-    lizheng:
-        firstdragon: 0
-        firstherald: 0
-    yuan:
-        firstdragon: 1
-        firstherald: 1
 8047-10860:
     xiao17:
         firstdragon: 0
@@ -5141,13 +5127,6 @@ NA1/3916789614:
     PYoChul:
         firstdragon: 1
         firstherald: 0
-8050-10863:
-    hook:
-        firstdragon: 0
-        firstherald: 1
-    lizheng:
-        firstdragon: 1
-        firstherald: 0
 8051-10864:
     PYoChul:
         firstdragon: 0
@@ -5162,3 +5141,91 @@ NA1/3916789614:
     taiyi:
         firstdragon: 1
         firstherald: 0
+7998-10972:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    shad0w:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+7998-10973:
+    shad0w:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+7999-10974:
+    pzx:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+7999-10975:
+    pzx:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+    aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+8005-10991:
+    kanavi:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    aki:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8005-10993:
+    kanavi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8006-10995:
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8006-10997:
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
