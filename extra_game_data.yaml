@@ -5495,3 +5495,38 @@ NA1/3916789614:
     xlb:
         firstdragon: 0
         firstherald: 0
+8085-10979:
+    xiao17:
+        firstdragon: 0
+        firstherald: 1
+    xlb:
+        firstdragon: 1
+        firstherald: 0
+8085-10981:
+    xiao17:
+        firstdragon: 0
+        firstherald: 0
+    xlb:
+        firstdragon: 1
+        firstherald: 1
+8085-10984:
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+    xlb:
+        firstdragon: 0
+        firstherald: 1
+8085-10985:
+    xiao17:
+        firstdragon: 0
+        firstherald: 1
+    xlb:
+        firstdragon: 1
+        firstherald: 0
+8085-10987:
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+    xlb:
+        firstdragon: 0
+        firstherald: 1
