@@ -4334,20 +4334,6 @@ NA1/3916789614:
     youdang:
         firstdragon: 0
         firstherald: 1
-7817-10801:
-    XLB:
-        firstdragon: 1
-        firstherald: 0
-    lvye23:
-        firstdragon: 0
-        firstherald: 1
-7817-10805:
-    XLB:
-        firstdragon: 0
-        firstherald: 0
-    lvye23:
-        firstdragon: 1
-        firstherald: 1
 7818-10802:
     noregret:
         firstdragon: 1
@@ -5311,5 +5297,96 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
     noregret:
+        firstdragon: 1
+        firstherald: 0
+7817-10800:
+    XLB:
+        firstdragon: 0
+        firstherald: 1
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+7817-10801:
+    XLB:
+        firstdragon: 1
+        firstherald: 0
+    lvye23:
+        firstdragon: 0
+        firstherald: 1
+7817-10805:
+    XLB:
+        firstdragon: 0
+        firstherald: 0
+    lvye23:
+        firstdragon: 1
+        firstherald: 1
+8078-10887:
+    XLB:
+        firstdragon: 0
+        firstherald: 1
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+8066-10889:
+    yuan:
+        firstdragon: 0
+        firstherald: 1
+    hook:
+        firstdragon: 1
+        firstherald: 0
+8067-10888:
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+    PYoChul:
+        firstdragon: 0
+        firstherald: 1
+8069-10891:
+    naruto:
+        firstdragon: 0
+        firstherald: 0
+    Xiaoyang:
+        firstdragon: 1
+        firstherald: 1
+8070-10894:
+    hook:
+        firstdragon: 0
+        firstherald: 0
+    taiyi:
+        firstdragon: 1
+        firstherald: 1
+8071-10892:
+    PYoChul:
+        firstdragon: 1
+        firstherald: 1
+    Xiaoyang:
+        firstdragon: 0
+        firstherald: 0
+8073-10896:
+    xiao17:
+        firstdragon: 0
+        firstherald: 1
+    naruto:
+        firstdragon: 1
+        firstherald: 0
+8075-10901:
+    naruto:
+        firstdragon: 0
+        firstherald: 0
+    PYoChul:
+        firstdragon: 1
+        firstherald: 1
+8075-10901:
+    yuan:
+        firstdragon: 0
+        firstherald: 1
+    taiyi:
+        firstdragon: 1
+        firstherald: 0
+8075-10901:
+    xiao17:
+        firstdragon: 0
+        firstherald: 1
+    Xiaoyang:
         firstdragon: 1
         firstherald: 0
