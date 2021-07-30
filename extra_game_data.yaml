@@ -5530,3 +5530,58 @@ NA1/3916789614:
     xlb:
         firstdragon: 0
         firstherald: 1
+8007-11002:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8007-11004:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+8008-11006:
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8008-11008:
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8008-11009:
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
