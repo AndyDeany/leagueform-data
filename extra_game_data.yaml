@@ -5607,3 +5607,146 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 0
+8002-11022:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8002-11023:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+8009-11013:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8009-11015:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8011-11027:
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8011-11029:
+    karsa:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    h4cker:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8011-11031:
+    karsa:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    h4cker:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8012-11032:
+    kanavi:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+8012-11033:
+    kanavi:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8013-11038:
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    shad0w:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8013-11040:
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+    shad0w:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+8014-11042:
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+8014-11044:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
