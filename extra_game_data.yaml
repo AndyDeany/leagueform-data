@@ -5981,3 +5981,91 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 1
+8016-11053:
+    leyan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8016-11055:
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    sofm:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8016-11056:
+    leyan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    sofm:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+8017-11060:
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8017-11061:
+    karsa:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8018-11064:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8018-11065:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+8018-11067:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
