@@ -6069,3 +6069,47 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 0
         firstblood: 1
+8019-11071:
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    sofm:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8019-11073:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    sofm:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+8020-11075:
+    pzx:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+8020-11076:
+    pzx:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
