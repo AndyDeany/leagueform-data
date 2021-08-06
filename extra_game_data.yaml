@@ -6113,3 +6113,102 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+8001-11079:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8001-11081:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8001-11083:
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8021-11085:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8021-11087:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8021-11088:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8022-11090:
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8022-11091:
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8022-11092:
+    leyan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
