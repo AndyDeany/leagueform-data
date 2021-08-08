@@ -6432,3 +6432,58 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+7859-11041:
+    echo:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+    yuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+7860-11043:
+    Beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+7861-11045:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    eight:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+7862-11046:
+    can:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    lvye23:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+7863-11047:
+    xlb:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    fatfish:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
