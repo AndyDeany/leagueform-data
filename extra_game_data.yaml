@@ -6586,3 +6586,14 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+8087-11057:
+    Beige:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    Echo:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
