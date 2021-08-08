@@ -6597,3 +6597,58 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 0
+8088-11058:
+    98K:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8089-11059:
+    Maggie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    hook:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8090-11062:
+    Beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+    KennyChan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+8091-11063:
+    xiaohuangren:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+    yanmo:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+8092-11066:
+    yyy:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    taiyi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
