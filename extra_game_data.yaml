@@ -6487,3 +6487,36 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+7864-11049:
+    Yanxiang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    naiyou:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+7865-11052:
+    heng:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    Tianzhen:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+7866-11054:
+    xiaoyang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    joy1:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
