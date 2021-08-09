@@ -6652,3 +6652,58 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 0
+8027-11118:
+    karsa:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8027-11120:
+    karsa:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8028-11122:
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8028-11124:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8028-11125:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
