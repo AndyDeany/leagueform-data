@@ -441,7 +441,13 @@ SUP:
 AUR:
     name: Team AURORA
     jungler: Reifoas
-
+# TCL Academy
+IWCA:
+    name: IW Academy
+    jungler: Oguzkhan
+SUPA:
+    name: SuperMassive Blaze Academy
+    jungler: Rhilech
 # LPLOL
 WD:
     name: White Dragons
