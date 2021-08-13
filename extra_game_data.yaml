@@ -6949,3 +6949,58 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+8093-11142:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    SofM:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8093-11143:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    SofM:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8093-11145:
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    SofM:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8093-11147:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+    SofM:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+8093-11148:
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+    SofM:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
