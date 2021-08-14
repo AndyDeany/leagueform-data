@@ -6872,17 +6872,6 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
-7889-11110:
-    98k:
-        firstdragon: 1
-        firstherald: 1
-        firsttower: 0
-        firstblood: 1
-    beichuan:
-        firstdragon: 0
-        firstherald: 0
-        firsttower: 1
-        firstblood: 0
 7891-11115:
     echo:
         firstdragon: 0
@@ -7004,3 +6993,36 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 1
         firstblood: 0
+8094-11152:
+    Aki:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+    Beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+8094-11154:
+    Aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    Beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8094-11156:
+    Aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    Beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
