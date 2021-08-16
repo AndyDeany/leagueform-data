@@ -388,7 +388,6 @@ UBK:
 BOC:
     name: Boca Juniors
     jungler: Volcanic Dog
-
 # LLA
 AK:
     name: All Knights
@@ -534,9 +533,8 @@ MCES:
     name: Team MCES
     jungler: Boukada
 VITB:
-    name: Vitality Bee
+    name: Vitality.Bee
     jungler: Skeanz
-
 # PrimeLeague
 BIG:
     name: BIG
@@ -577,8 +575,8 @@ DY:
     name: Dusty
     jungler: Sawyor
 FNCR:
-    name: Fnatic Rising
-    jungler: maxi
+    name: HMA Fnatic Rising
+    jungler: Maxi
 GOD:
     name: Godsent
     jungler: Aesthetic
@@ -624,7 +622,7 @@ MADM:
     name: MAD Lions Madrid
     jungler: Alexx
 MRS:
-    name: Movisar Riders
+    name: Movistar Riders
     jungler: Maxlore
 S2V:
     name: S2V Esports
@@ -662,7 +660,7 @@ SMS:
     name: Samsung Morning Stars
     jungler: WidowMaker
 OP:
-    name: Outplayed
+    name: aNc Outplayed
     jungler: Lotus
 
 # EBL
@@ -670,7 +668,7 @@ ASUS:
     name: ASUS ROG ELITE
     jungler: Flawless
 CZV:
-    name: Crvena zvezda Esports
+    name: Crvena Zvezda Esports
     jungler: Kanna
 NXK:
     name: Nexus KTRL
@@ -700,8 +698,10 @@ ANO:
     jungler: Dom1nant
 RFS:
     name: Team Refuse
-    jungler: Dom1nant
-
+    jungler: Exos
+RFS:
+    name: Team Phantasma
+    jungler: DEV1L
 # LJL
 AXZ:
     name: AXIZ
@@ -980,3 +980,11 @@ SIN:
 VIK:
     name: Vikingekrig Esports
     jungler: bedi
+# Baltic Masters
+GOEX:
+    name: Goexanimo
+    jungler: Homeless
+WOLF:
+    name: Topo Centras Iron Wolves
+    jungler: Julbu
+
