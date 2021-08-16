@@ -6850,28 +6850,6 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
-7887-11105:
-    xiaohuangren:
-        firstdragon: 0
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
-    yyy:
-        firstdragon: 1
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
-7888-11108:
-    maggie:
-        firstdragon: 1
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
-    kennychan:
-        firstdragon: 0
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
 7891-11115:
     echo:
         firstdragon: 0
@@ -7026,3 +7004,80 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+8095-11161:
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+8095-11163:
+    Karsa:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8095-11165:
+    Karsa:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8095-11167:
+    Karsa:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8096-11168:
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+8096-11169:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8096-11170:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
