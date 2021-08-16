@@ -128,6 +128,9 @@ EG2:
 BME2:
     name: BOOM2
     jungler: Alex
+NSC2:
+        name: NS Challengers2
+        jungler: Sylvie
 # LPL
 BLG:
     name: Bilibili Gaming
@@ -912,8 +915,6 @@ NSC:
 T1C:
     name: T1 Challengers
     jungler: Mowgli
-
-
 # GL
 BRR:
     name: Braves Rising
