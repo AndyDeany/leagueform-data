@@ -7367,3 +7367,69 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+7921-11158:
+    yekai:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    Hook:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+7922-11159:
+    beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    yanmo:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+7923-11160:
+    kennychan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    xiao17:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+7924-11162:
+    Echo:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    yyy:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+7925-11164:
+    98k:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+    xiaohuangren:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+7926-11166:
+    Beige:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    Taiyi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
