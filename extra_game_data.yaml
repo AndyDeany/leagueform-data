@@ -6839,17 +6839,6 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 0
-7886-11104:
-    Taiyi:
-        firstdragon: 0
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
-    hook:
-        firstdragon: 1
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
 7891-11115:
     echo:
         firstdragon: 0
@@ -7079,5 +7068,49 @@ NA1/3916789614:
     weiwei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
+        firstblood: 0
+7887-11105:
+    Taiyi:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    hook:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+7888-11108:
+    xiaohuangren:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    yyy:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+7889-11110:
+    Maggie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    Kennychan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+7890-11113:
+    98k:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+    beichuan:
+        firstdragon: 0
+        firstherald: 0
         firsttower: 1
         firstblood: 0
