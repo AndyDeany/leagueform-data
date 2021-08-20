@@ -7444,3 +7444,47 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 0
+8098-11194:
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+8098-11196:
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8098-11197:
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    Tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8098-11198:
+    Wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
