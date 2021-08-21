@@ -7488,3 +7488,58 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 0
+8099-11203:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    Beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8099-11205:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    Beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8099-11206:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    Beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8099-11208:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 0
+    Beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 1
+8099-11209:
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    Beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
