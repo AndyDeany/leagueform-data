@@ -7543,3 +7543,91 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 1
+8101-11213:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8101-11215:
+    tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8101-11217:
+    tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    tarzan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+8102-11222:
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+8102-11224:
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+8102-11226:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+8102-11228:
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8102-11228:
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
