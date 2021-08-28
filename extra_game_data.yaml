@@ -65,23 +65,29 @@
     Jiejie:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Weiwei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7608-10313:
     Jiejie:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Weiwei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7608-10314:
     Jiejie:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Weiwei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7612-10322:
     Leyan:
         firstdragon: 1
@@ -6839,17 +6845,6 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 0
-7891-11115:
-    echo:
-        firstdragon: 0
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
-    xiao17:
-        firstdragon: 1
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
 7892-11116:
     xlb:
         firstdragon: 1
@@ -7068,50 +7063,6 @@ NA1/3916789614:
     weiwei:
         firstdragon: 1
         firstherald: 1
-        firsttower: 1
-        firstblood: 0
-7887-11105:
-    Taiyi:
-        firstdragon: 0
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
-    hook:
-        firstdragon: 1
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
-7888-11108:
-    xiaohuangren:
-        firstdragon: 0
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
-    yyy:
-        firstdragon: 1
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
-7889-11110:
-    Maggie:
-        firstdragon: 1
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
-    Kennychan:
-        firstdragon: 0
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
-7890-11113:
-    98k:
-        firstdragon: 1
-        firstherald: 1
-        firsttower: 0
-        firstblood: 1
-    beichuan:
-        firstdragon: 0
-        firstherald: 0
         firsttower: 1
         firstblood: 0
 7897-11126:
@@ -7433,17 +7384,6 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 1
-7886-11104:
-    Beige:
-        firstdragon: 0
-        firstherald: 1
-        firsttower: 1
-        firstblood: 1
-    yUAN:
-        firstdragon: 1
-        firstherald: 0
-        firsttower: 0
-        firstblood: 0
 8098-11194:
     Wei:
         firstdragon: 1
