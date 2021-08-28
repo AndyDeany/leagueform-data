@@ -166,23 +166,29 @@
     beishang:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     SofM:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7614-10329:
     beishang:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     SofM:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7614-10330:
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     SofM:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7615-10331:
     Kanavi:
         firstdragon: 0
@@ -280,16 +286,20 @@
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     xiaopeng:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7618-10338:
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     xiaopeng:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7619-10339:
     Aki:
         firstdragon: 0
@@ -416,16 +426,20 @@ ESPORTSTMNT05/1430773:
     beishang:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     pzx:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7623-10373:
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     pzx:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7624-10375:
     Weiwei:
         firstdragon: 1
@@ -707,16 +721,20 @@ ESPORTSTMNT05/1430773:
     Tian:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     Beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 7640-10500:
     Tian:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Beishang:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7641-10512:
     icecoKe:
         firstdragon: 0
@@ -781,23 +799,29 @@ ESPORTSTMNT05/1430773:
     Leyan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     beishang:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7645-10546:
     Leyan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     beishang:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7645-10548:
     Leyan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7646-10549:
     Aki:
         firstdragon: 1
@@ -918,23 +942,29 @@ ESPORTSTMNT05/1430773:
     Weiwei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Beishang:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7655-10617:
     Weiwei:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Beishang:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7655-10620:
     Weiwei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     Beishang:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7656-10621:
     Karsa:
         firstdragon: 1
@@ -988,23 +1018,29 @@ ESPORTSTMNT05/1430773:
     beishang:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
     Aki:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
 7659-10664:
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Aki:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7659-10667:
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Aki:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7660-10668:
     Leyan:
         firstdragon: 1
@@ -3524,16 +3560,20 @@ NA1/3916789614:
     beishang:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     kanavi:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7680-10824:
     beishang:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     kanavi:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 7969-10827:
     shad0w:
         firstdragon: 0
@@ -3663,23 +3703,29 @@ NA1/3916789614:
     Tarzan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     beishang:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7972-10836:
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     beishang:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7972-10837:
     Tarzan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 6428-8414:
     Yanxiang:
         firstblood: 0
@@ -4587,23 +4633,29 @@ NA1/3916789614:
     h4cker:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     beishang:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7979-10895:
     h4cker:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     beishang:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7979-10898:
     h4cker:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7980-10899:
     xiaohao:
         firstdragon: 1
@@ -4724,16 +4776,20 @@ NA1/3916789614:
     shad0w:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     beishang:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7987-10931:
     shad0w:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     beishang:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7988-10934:
     Kanavi:
         firstdragon: 1
@@ -7663,3 +7719,30 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
         firstblood: 1
+8104-11253:
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8104-11254:
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8104-11255:
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
