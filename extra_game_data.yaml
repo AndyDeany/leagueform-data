@@ -438,44 +438,56 @@ ESPORTSTMNT05/1430773:
     icecoKe:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     H4cker:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7621-10352:
     icecoKe:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     H4cker:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7621-10354:
     icecoKe:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     H4cker:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7622-10355:
     Kanavi:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7622-10358:
     Kanavi:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7622-10361:
     Kanavi:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Tarzan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7623-10370:
     beishang:
         firstdragon: 1
@@ -496,102 +508,130 @@ ESPORTSTMNT05/1430773:
         firsttower: 0
 7624-10375:
     Weiwei:
-        firstdragon: 1
-        firstherald: 0
-    shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
+    shad0w:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
 7624-10378:
     Weiwei:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 7624-10381:
     Weiwei:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 7625-10391:
     Karsa:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     xiaopeng:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7625-10392:
     Karsa:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     xiaopeng:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7626-10397:
     Tian:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7626-10399:
     Tian:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
     Tarzan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
 7626-10400:
     Tian:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7627-10409:
     Wei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Aki:
         firstdragon: 1
         firstherald: 0
-7627-10415:
-    Wei:
-        firstdragon: 0
-        firstherald: 1
-    Aki:
-        firstdragon: 1
-        firstherald: 0
+        firsttower: 0
 7627-10412:
     Wei:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     Aki:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
+7627-10415:
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
 7628-10416:
     SofM:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     H4cker:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7628-10419:
     SofM:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     H4cker:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7629-10423:
     Leyan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     pzx:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7630-10428:
     Jiejie:
         firstdragon: 0
@@ -614,163 +654,209 @@ ESPORTSTMNT05/1430773:
     xiaopeng:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Tian:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7631-10437:
     xiaopeng:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Tian:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7632-10443:
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Kanavi:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7632-10444:
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Kanavi:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7632-10447:
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     Kanavi:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7633-10449:
     SofM:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Weiwei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7633-10452:
     SofM:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Weiwei:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7629-10422:
     pzx:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Leyan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7634-10454:
     Tarzan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     Wei:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7634-10458:
     Tarzan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Wei:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7635-10466:
     Aki:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     icecoKe:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7635-10469:
     Aki:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     icecoKe:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7636-10471:
     H4cker:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     XUN:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7636-10475:
     H4cker:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     XUN:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7637-10478:
     Xiaopeng:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Tarzan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7637-10479:
     Xiaopeng:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7637-10480:
     Xiaopeng:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
     Tarzan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
 7638-10481:
     Leyan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Karsa:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7638-10482:
     Leyan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Karsa:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7638-10483:
     Leyan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Karsa:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7639-10490:
     pzx:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Kanavi:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7639-10492:
     pzx:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Kanavi:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7639-10496:
     pzx:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Kanavi:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7640-10497:
     Tian:
         firstdragon: 1
@@ -793,16 +879,20 @@ ESPORTSTMNT05/1430773:
     icecoKe:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     Wei:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7641-10514:
     icecoKe:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Wei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7642-10518:
     SofM:
         firstdragon: 0
@@ -825,30 +915,38 @@ ESPORTSTMNT05/1430773:
     pzx:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     xiaopeng:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7643-10531:
     pzx:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     xiaopeng:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7644-10534:
     Karsa:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     shad0w:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7644-10538:
     Karsa:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7645-10544:
     Leyan:
         firstdragon: 0
@@ -880,37 +978,47 @@ ESPORTSTMNT05/1430773:
     Aki:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Weiwei:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7646-10552:
     Aki:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Weiwei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7647-10555:
     Wei:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
     Tian:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
 7647-10558:
     Wei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Tian:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7647-10561:
     Wei:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Tian:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7648-10565:
     shad0w:
         firstdragon: 0
