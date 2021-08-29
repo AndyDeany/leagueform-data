@@ -1176,30 +1176,38 @@ ESPORTSTMNT05/1430773:
     icecoke:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     shad0w:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7657-10651:
     icecoke:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     shad0w:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7658-10656:
     Kanavi:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     h4cker:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7658-10657:
     Kanavi:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     h4cker:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7659-10659:
     beishang:
         firstdragon: 0
@@ -1231,37 +1239,47 @@ ESPORTSTMNT05/1430773:
     Leyan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7660-10672:
     Leyan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Tarzan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7661-10674:
     Tian:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     XUN:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7661-10678:
     Tian:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     XUN:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7662-10680:
     JugGod:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Weiwei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7663-10690:
     Karsa:
         firstdragon: 1
@@ -1275,30 +1293,38 @@ ESPORTSTMNT05/1430773:
     View:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Wei:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7664-10700:
     SofM:
-        firstdragon: 0
-        firstherald: 1
-    Wei:
         firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    Wei:
+        firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7664-10701:
     SofM:
-        firstdragon: 1
-        firstherald: 1
-    Wei:
         firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Wei:
+        firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7662-10686:
     JugGod:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     Weiwei:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7663-10693:
     Karsa:
         firstdragon: 0
