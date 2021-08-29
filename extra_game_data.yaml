@@ -1023,37 +1023,47 @@ ESPORTSTMNT05/1430773:
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     SofM:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7648-10569:
     shad0w:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     SofM:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7648-10570:
     shad0w:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     SofM:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7649-10571:
     XUN:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Tarzan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7649-10575:
     XUN:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
     Tarzan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
 7650-10578:
     Jiejie:
         firstdragon: 1
@@ -1074,32 +1084,40 @@ ESPORTSTMNT05/1430773:
         firsttower: 0
 7651-10590:
     pzx:
-        firstdragon: 1
-        firstherald: 1
-    icecoKe:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
+    icecoKe:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
 7651-10591:
     pzx:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     icecoKe:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7654-10606:
     XUN:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     shad0w:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7654-10607:
     XUN:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     shad0w:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7655-10614:
     Weiwei:
         firstdragon: 0
@@ -1131,23 +1149,29 @@ ESPORTSTMNT05/1430773:
     Karsa:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Wei:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7656-10624:
     Karsa:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Wei:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7656-10625:
     Karsa:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Wei:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7657-10648:
     icecoke:
         firstdragon: 0
@@ -3812,16 +3836,20 @@ NA1/3916789614:
     xiaopeng:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     aki:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7652-10599:
     xiaopeng:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     aki:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7653-10604:
     h4cker:
         firstdragon: 0
