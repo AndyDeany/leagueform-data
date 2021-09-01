@@ -8150,3 +8150,36 @@ NA1/3916789614:
     aki:
         firstblood: 0
         firsttower: 0
+8105-11261:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+8105-11264:
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 0
+8105-11266:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+        firstblood: 1
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+        firstblood: 0
