@@ -3312,17 +3312,6 @@ ESPORTSTMNT05/1430773:
     yyy:
         firstdragon: 0
         firstherald: 0
-6099-7582:
-    Bun:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
-    Yueyueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
 6102-7590:
     XiaoXuan:
         firstblood: 0
@@ -3634,28 +3623,6 @@ NA1/3916789614:
         firstherald: 1
     Clam:
         firstherald: 0
-6350-8136:
-    Bandao:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 0
-        firstherald: 1
-    Gabi:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
-6351-8139:
-    Yueyueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-    Kui:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
 6355-8159:
     xiaohao:
         firstblood: 1
@@ -3915,17 +3882,6 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
-6411-8355:
-    Jackairay:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 0
-        firstherald: 1
-    Magic:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
 7652-10597:
     xiaopeng:
         firstdragon: 1
@@ -4016,28 +3972,6 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
-6428-8414:
-    Yanxiang:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
-    Jackairay:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-6446-8482:
-    Yueyueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-    Aki:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
 6461-8531:
     lelebbi:
         firstblood: 0
@@ -4071,17 +4005,6 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 1
         firstherald: 0
-6512-8707:
-    Maggie:
-        firstblood: 1
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
-    Emit:
-        firstblood: 0
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
 6531-8779:
     lelebbi:
         firstblood: 1
@@ -4092,28 +4015,6 @@ NA1/3916789614:
         firstblood: 0
         firsttower: 0
         firstdragon: 1
-        firstherald: 0
-6558-8859:
-    lelebbi:
-        firstblood: 1
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 1
-    Wuyazi:
-        firstblood: 0
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 0
-6570-8892:
-    Yueyueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-    Yanxiang:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
         firstherald: 0
 6571-8893:
     Maggie:
@@ -4126,28 +4027,6 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
-6574-8901:
-    Youxin:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 0
-        firstherald: 1
-    hedy:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
-6575-8903:
-    initial:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 1
-    Gabi:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 0
 6576-8907:
     Magic:
         firstblood: 0
@@ -4157,17 +4036,6 @@ NA1/3916789614:
     Ben4:
         firstblood: 1
         firsttower: 0
-        firstdragon: 0
-        firstherald: 1
-6583-8925:
-    Mori:
-        firstblood: 1
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
-    xiaoyang:
-        firstblood: 0
-        firsttower: 1
         firstdragon: 0
         firstherald: 1
 7101-9668:
