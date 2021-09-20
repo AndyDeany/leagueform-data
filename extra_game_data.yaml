@@ -8051,3 +8051,81 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 0
+6050-7682:
+    Haro:
+        firsttower: 1
+        firstblood: 0
+    Peanut:
+        firsttower: 0
+        firstblood: 1
+6062-7527:
+    Aix:
+        firsttower: 1
+        firstblood: 0
+    Haro:
+        firsttower: 0
+        firstblood: 1
+6066-7548:
+    Jiejie:
+        firsttower: 0
+        firstblood: 1
+    Xx:
+        firsttower: 1
+        firstblood: 0
+6096-7674:
+    Beishang:
+        firsttower: 1
+        firstblood: 1
+    Junjia:
+        firsttower: 0
+        firstblood: 0
+6231-7996:
+    Peanut:
+        firsttower: 1
+        firstblood: 1
+    Karsa:
+        firsttower: 0
+        firstblood: 0
+6611-8410:
+    Junjia:
+        firsttower: 0
+        firstblood: 1
+    Peanut:
+        firsttower: 1
+        firstblood: 0
+8105-11266:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8106-11277:
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8106-11278:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+8106-11279:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
