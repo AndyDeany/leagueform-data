@@ -399,7 +399,7 @@ FG:
     name: Furious
     jungler: Bugi
 INF:
-    name: INFINITY
+    name: "INFINITY"
     jungler: SolidSnake
 ISG:
     name: Isurus
