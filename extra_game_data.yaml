@@ -8129,3 +8129,102 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 1
         firsttower: 0
+8010-11020:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8107-11280:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8107-11281:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8107-11282:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8108-11283:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8108-11284:
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8108-11285:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8109-11286:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8109-11287:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8109-11288:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8109-11289:
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
