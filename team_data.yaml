@@ -690,18 +690,31 @@ Z10:
     jungler: Ryuzaki
 
 # GLL
-GSMC:
-    name: Gamespace MCE
-    jungler: Kenapil
 ANO:
     name: Anorthosis Famagusta
     jungler: Dom1nant
-RFS:
-    name: Team Refuse
-    jungler: Exos
+GSMC:
+    name: Gamespace MCE
+    jungler: Fallen
+GOAL:
+    name: Olympiacos Alimou
+    jungler: Hatred
 TP2:
     name: Team Phantasma
     jungler: Nikolex
+RFS:
+    name: Team Refuse
+    jungler: Kenapil
+UDG:
+    name: Umbra Divinus Gaming
+    jungler: Carnage
+UDG:
+    name: WLGaming Esports
+    jungler: Spooky
+ZRL:
+    name: Zerolag Esports
+    jungler: Cleanser
+
 # LJL
 AXZ:
     name: AXIZ
