@@ -190,25 +190,25 @@ GAM:
     jungler: Levi
 FL:
     name: Team Flash
-    jungler: Meliodas
+    jungler: Dante
 TS:
     name: Team Secret
-    jungler: DNK
+    jungler: XuHao
 SE:
     name: SBTC Esports
-    jungler: Yijin
+    jungler: K1thy1
 SGB:
     name: Saigon Buffalo
     jungler: Bean J
-GLX:
-    name: GMedia Luxury
+LX:
+    name: Luxury
     jungler: Killerqueen
 VBTS:
     name: Burst The Sky
     jungler: Draktharr
 CES:
     name: CERBERUS Esports
-    jungler: Xuhao
+    jungler: EGO
 
 # NA Academy
 C9A:
