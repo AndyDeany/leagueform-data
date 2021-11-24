@@ -5,12 +5,12 @@ AST:
 XL:
     name: Excel
     jungler: Markoon
-S04:
-    name: Schalke 04
-    jungler: Kirei
+BDS:
+    name: Team BDS
+    jungler: Cinkrof
 FNC:
     name: Fnatic
-    jungler: Bwipo
+    jungler: Razork
 G2:
     name: G2 Esports
     jungler: Jankos
@@ -19,13 +19,13 @@ MAD:
     jungler: Elyoya
 MSF:
     name: Misfits Gaming
-    jungler: Razork
+    jungler: Shlatan
 RGE:
     name: Rogue
-    jungler: Inspired
+    jungler: Malrang
 SK:
     name: SK Gaming
-    jungler: Treatz
+    jungler: Gilius
 VIT:
     name: Team Vitality
     jungler: Selfmade
