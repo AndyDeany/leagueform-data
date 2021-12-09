@@ -909,25 +909,37 @@ DKC:
     jungler: Lucid
 BROC:
     name: BRO Challengers
-    jungler: Jin0
+    jungler: Raptor
 GENC:
     name: GEN Challengers
-    jungler: Flawless
+    jungler: Winner
 HLEC:
     name: HLE Challengers
-    jungler: CaD
+    jungler: Seonbi
 KTC:
     name: KT Challengers
-    jungler: Bonnie
+    jungler: R JGL
 LSBC:
     name: LSB Challengers
-    jungler: Seize
+    jungler: HamBak
 NSC:
     name: NS Challengers
-    jungler: Juhan
+    jungler: Sylvie
 T1C:
     name: T1 Challengers
     jungler: Mowgli
+
+# Kespa
+DKJH:
+    name: DKJH
+    jungler: Dosa
+SBT:
+    name: Shadow Battlica
+    jungler: Chloe
+SEK:
+    name: Shadow EK
+    jungler: Monarca
+
 # GL
 BRR:
     name: Braves Rising
