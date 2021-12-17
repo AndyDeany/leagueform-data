@@ -140,7 +140,7 @@ EDG:
     jungler: jiejie
 FPX:
     name: FunPlus Phoenix
-    jungler: Tian
+    jungler: Beichuan
 IG:
     name: Invictus Gaming
     jungler: XUN
@@ -158,10 +158,10 @@ OMG:
     jungler: Aki
 RA:
     name: Rare Atom
-    jungler: Leyan
-RW:
-    name: Rogue Warriors
-    jungler: icecoke
+    jungler: JunJia
+AL:
+    name: Anyone's Legend
+    jungler: xiaohao
 RNG:
     name: Royal Never Give Up
     jungler: Wei
@@ -173,16 +173,16 @@ WE:
     jungler: beishang
 TES:
     name: Top Esports
-    jungler: Karsa
+    jungler: Tian
 TT:
     name: TT
-    jungler: Xiaopeng
+    jungler: frigid
 UP:
     name: Ultra Prime
     jungler: H4cker
 V5:
     name: Victory Five
-    jungler: pzx
+    jungler: Karsa
 
 # VCS
 GAM:
@@ -928,17 +928,6 @@ NSC:
 T1C:
     name: T1 Challengers
     jungler: Mowgli
-
-# Kespa
-DKJH:
-    name: DKJH
-    jungler: Dosa
-SBT:
-    name: Shadow Battlica
-    jungler: Chloe
-SEK:
-    name: Shadow EK
-    jungler: Monarca
 
 # GL
 BRR:
