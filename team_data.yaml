@@ -277,7 +277,7 @@ PSG:
 # LDL
 SDX:
     name: Shu Dai Xiong Gaming
-    jungler: Yanxiang
+    jungler: Noregret
 BLGJ:
     name: Bilibili Gaming Junior
     jungler: can
@@ -526,9 +526,6 @@ MSFP:
 SLY:
     name: Solary
     jungler: Djoko
-BDS:
-    name: Team BDS
-    jungler: bluerzor
 MCES:
     name: Team MCES
     jungler: Boukada
