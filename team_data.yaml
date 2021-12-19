@@ -65,7 +65,7 @@ TSM:
 # LCK
 AF:
     name: Afreeca Freecs
-    jungler: Dread
+    jungler: Ellim
 DRX:
     name: DRX
     jungler: Pyosik
@@ -77,19 +77,19 @@ BRO:
     jungler: Umti
 GEN:
     name: Gen.G
-    jungler: Clid
+    jungler: Peanut
 HLE:
     name: Hanwha Life Esports
     jungler: Willer
 KT:
     name: KT Rolster
-    jungler: Blank
+    jungler: Cuzz
 LSB:
     name: Liiv Sandbox
     jungler: Croco
 NS:
     name: Nongshim Redforce
-    jungler: Peanut
+    jungler: Dread
 T1:
     name: T1
     jungler: Oner
