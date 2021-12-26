@@ -132,6 +132,9 @@ NSC2:
         name: NS Challengers2
         jungler: Sylvie
 # LPL
+AL:
+    name: Anyone's Legend
+    jungler: xiaohao
 BLG:
     name: Bilibili Gaming
     jungler: Weiwei
@@ -146,31 +149,28 @@ IG:
     jungler: XUN
 JDG:
     name: JD Gaming
-    jungler: Kanavi
+    jungler: Xiao17
 LGD:
     name: LGD Gaming
     jungler: shad0w
 LNG:
     name: LNG Esports
     jungler: Tarzan
+NIP:
+    name: Ninjas in Pyjamas
+    jungler: Karsa
 OMG:
     name: Oh My God
     jungler: Aki
 RA:
     name: Rare Atom
     jungler: JunJia
-AL:
-    name: Anyone's Legend
-    jungler: xiaohao
 RNG:
     name: Royal Never Give Up
     jungler: Wei
-WBG:
-    name: Weibo Gaming
-    jungler: SofM
 WE:
     name: Team WE
-    jungler: beishang
+    jungler: View
 TES:
     name: Top Esports
     jungler: Tian
@@ -180,9 +180,9 @@ TT:
 UP:
     name: Ultra Prime
     jungler: H4cker
-V5:
-    name: Victory Five
-    jungler: Karsa
+WBG:
+    name: Weibo Gaming
+    jungler: SofM
 
 # VCS
 GAM:
