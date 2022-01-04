@@ -508,30 +508,30 @@ TEG:
 GO:
     name: GamersOrigin
     jungler: Karim kt
-GW:
-    name: GameWard
-    jungler: Memento
 IZI:
     name: Izi Dream
     jungler: Viking
 KC:
     name: Karmine Corp
-    jungler: Cinkrof
+    jungler: 113
 LDLC:
     name: LDLC OL
-    jungler: Don Arts
+    jungler: Yike
+MIR:
+    name: Mirage Elyandra
+    jungler: Memento
 MSFP:
     name: Misfits Premier
-    jungler: Shlatan
+    jungler: TynX
 SLY:
     name: Solary
     jungler: Djoko
-BDS:
-    name: Team BDS
-    jungler: bluerzor
-MCES:
-    name: Team MCES
-    jungler: Boukada
+BDSA:
+    name: Team BDS Academy
+    jungler: Sheo
+OPL:
+    name: Team Oplon
+    jungler: Bruness
 VITB:
     name: Vitality.Bee
     jungler: Skeanz
@@ -783,34 +783,34 @@ VEG:
 # CBLOL
 FLA:
     name: Flamengo Esports
-    jungler: Ranger
+    jungler: asta
 FUR:
     name: Furia Esports
-    jungler: Diamondprox
+    jungler: Ranger
 ITZ:
     name: INTZ
-    jungler: Sting
+    jungler: Yampi
 KBM:
     name: KaBuM! e-Sports
-    jungler: Ryan
+    jungler: Wiz
+Liberty:
+    name: Liberty
+    jungler: Disamis
 LLL:
     name: LOUD
-    jungler: Mewkyo
+    jungler: Tay
 NMG:
     name: Netshoes Miners
-    jungler: Hugato
+    jungler: Croc
 PNG:
     name: paIN Gaming
-    jungler: Cariok
+    jungler: CarioK
 RED:
     name: RED Canids
     jungler: Aegis
 RNS:
     name: Rensga Esports
-    jungler: Croc
-VRX:
-    name: Vorax Liberty
-    jungler: Yampi
+    jungler: Minerva
 
 # CBLOL Academy
 FLAA:
