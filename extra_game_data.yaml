@@ -3312,17 +3312,6 @@ ESPORTSTMNT05/1430773:
     yyy:
         firstdragon: 0
         firstherald: 0
-6099-7582:
-    Bun:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
-    Yueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
 6102-7590:
     XiaoXuan:
         firstblood: 0
@@ -3634,28 +3623,6 @@ NA1/3916789614:
         firstherald: 1
     Clam:
         firstherald: 0
-6350-8136:
-    Bandao:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 0
-        firstherald: 1
-    Gabi:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
-6351-8139:
-    Yueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-    Kui:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
 6355-8159:
     xiaohao:
         firstblood: 1
@@ -3915,17 +3882,6 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
-6411-8355:
-    Jackairay:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 0
-        firstherald: 1
-    Magic:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
 7652-10597:
     xiaopeng:
         firstdragon: 1
@@ -4016,28 +3972,6 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
-6428-8414:
-    Yanxiang:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
-    Jackairay:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-6446-8482:
-    Yueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-    Aki:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
 6461-8531:
     lelebbi:
         firstblood: 0
@@ -4071,17 +4005,6 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 1
         firstherald: 0
-6512-8707:
-    Maggie:
-        firstblood: 1
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 0
-    Emit:
-        firstblood: 0
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
 6531-8779:
     lelebbi:
         firstblood: 1
@@ -4092,28 +4015,6 @@ NA1/3916789614:
         firstblood: 0
         firsttower: 0
         firstdragon: 1
-        firstherald: 0
-6558-8859:
-    lelebbi:
-        firstblood: 1
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 1
-    Wuyazi:
-        firstblood: 0
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 0
-6570-8892:
-    Yueyue:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 1
-    Yanxiang:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
         firstherald: 0
 6571-8893:
     Maggie:
@@ -4126,28 +4027,6 @@ NA1/3916789614:
         firsttower: 0
         firstdragon: 0
         firstherald: 0
-6574-8901:
-    Youxin:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 0
-        firstherald: 1
-    hedy:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
-6575-8903:
-    initial:
-        firstblood: 0
-        firsttower: 0
-        firstdragon: 0
-        firstherald: 1
-    Gabi:
-        firstblood: 1
-        firsttower: 1
-        firstdragon: 1
-        firstherald: 0
 6576-8907:
     Magic:
         firstblood: 0
@@ -4157,17 +4036,6 @@ NA1/3916789614:
     Ben4:
         firstblood: 1
         firsttower: 0
-        firstdragon: 0
-        firstherald: 1
-6583-8925:
-    Mori:
-        firstblood: 1
-        firsttower: 0
-        firstdragon: 1
-        firstherald: 0
-    xiaoyang:
-        firstblood: 0
-        firsttower: 1
         firstdragon: 0
         firstherald: 1
 7101-9668:
@@ -8183,3 +8051,180 @@ NA1/3916789614:
         firstherald: 0
         firsttower: 0
         firstblood: 0
+6050-7682:
+    Haro:
+        firsttower: 1
+        firstblood: 0
+    Peanut:
+        firsttower: 0
+        firstblood: 1
+6062-7527:
+    Aix:
+        firsttower: 1
+        firstblood: 0
+    Haro:
+        firsttower: 0
+        firstblood: 1
+6066-7548:
+    Jiejie:
+        firsttower: 0
+        firstblood: 1
+    Xx:
+        firsttower: 1
+        firstblood: 0
+6096-7674:
+    Beishang:
+        firsttower: 1
+        firstblood: 1
+    Junjia:
+        firsttower: 0
+        firstblood: 0
+6231-7996:
+    Peanut:
+        firsttower: 1
+        firstblood: 1
+    Karsa:
+        firsttower: 0
+        firstblood: 0
+6611-8410:
+    Junjia:
+        firsttower: 0
+        firstblood: 1
+    Peanut:
+        firsttower: 1
+        firstblood: 0
+8106-11276:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8106-11277:
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8106-11278:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+8106-11279:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    Jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+8010-11020:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8107-11280:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8107-11281:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8107-11282:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8108-11283:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    Tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8108-11284:
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8108-11285:
+    Leyan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8109-11286:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8109-11287:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8109-11288:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8109-11289:
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
