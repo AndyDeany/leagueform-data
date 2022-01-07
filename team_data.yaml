@@ -885,9 +885,6 @@ TRL:
     jungler: Gaboesh
 
 # LCK CL
-AFC:
-    name: AF Challengers
-    jungler: Citrus
 DRXC:
     name: DRX Challengers
     jungler: Peach
@@ -896,25 +893,28 @@ DKC:
     jungler: Lucid
 BROC:
     name: BRO Challengers
-    jungler: Jin0
+    jungler: Raptor
 GENC:
     name: GEN Challengers
-    jungler: Flawless
+    jungler: Winner
 HLEC:
     name: HLE Challengers
-    jungler: CaD
+    jungler: Seonbi
 KTC:
     name: KT Challengers
-    jungler: Bonnie
+    jungler: PangSu
+KDFC:
+    name: KDF Challengers
+    jungler: Citrus
 LSBC:
     name: LSB Challengers
-    jungler: Seize
+    jungler: HamBak
 NSC:
     name: NS Challengers
-    jungler: Juhan
+    jungler: Sylvie
 T1C:
     name: T1 Challengers
-    jungler: Mowgli
+    jungler: Forest
 # GL
 BRR:
     name: Braves Rising
