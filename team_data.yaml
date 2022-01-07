@@ -63,9 +63,6 @@ TSM:
     jungler: Spica
 
 # LCK
-AF:
-    name: Afreeca Freecs
-    jungler: Ellim
 DRX:
     name: DRX
     jungler: Pyosik
@@ -84,6 +81,9 @@ HLE:
 KT:
     name: KT Rolster
     jungler: Cuzz
+KDF:
+    name: Kwangdong Freecs
+    jungler: Ellim
 LSB:
     name: Liiv Sandbox
     jungler: Croco
@@ -93,44 +93,6 @@ NS:
 T1:
     name: T1
     jungler: Oner
-
-# Subs
-GEN2:
-    name: Gen.G2
-    jungler: YoungJae
-BRO2:
-    name: Fredit BRION2
-    jungler: Chieftain
-HLE2:
-    name: Hanwha Life Esports2
-    jungler: Arthur
-HLE3:
-    name: Hanwha Life Esports3
-    jungler: yoHan
-KT2:
-    name: KT Rolster2
-    jungler: GIDEON
-T12:
-    name: T12
-    jungler: Cuzz
-EDG2:
-    name: EDG2
-    jungler: Clearlove
-EDG3:
-    name: EDG3
-    jungler: Junjia
-VB2:
-    name: V52
-    jungler: JugGod
-EG2:
-    name: EG2
-    jungler: Svenskeren
-BME2:
-    name: BOOM2
-    jungler: Alex
-NSC2:
-        name: NS Challengers2
-        jungler: Sylvie
 # LPL
 AL:
     name: Anyone's Legend
@@ -143,13 +105,13 @@ EDG:
     jungler: jiejie
 FPX:
     name: FunPlus Phoenix
-    jungler: Beichuan
+    jungler: Clid
 IG:
     name: Invictus Gaming
     jungler: XUN
 JDG:
     name: JD Gaming
-    jungler: Xiao17
+    jungler: Kanavi
 LGD:
     name: LGD Gaming
     jungler: shad0w
@@ -170,7 +132,7 @@ RNG:
     jungler: Wei
 WE:
     name: Team WE
-    jungler: View
+    jungler: beishang
 TES:
     name: Top Esports
     jungler: Tian
@@ -899,9 +861,6 @@ TRL:
     jungler: Gaboesh
 
 # LCK CL
-AFC:
-    name: AF Challengers
-    jungler: Citrus
 DRXC:
     name: DRX Challengers
     jungler: Peach
@@ -919,7 +878,10 @@ HLEC:
     jungler: Seonbi
 KTC:
     name: KT Challengers
-    jungler: R JGL
+    jungler: PangSu
+KDFC:
+    name: Kwangdong Freecs Challengers
+    jungler: Citrus
 LSBC:
     name: LSB Challengers
     jungler: HamBak
@@ -928,7 +890,7 @@ NSC:
     jungler: Sylvie
 T1C:
     name: T1 Challengers
-    jungler: Mowgli
+    jungler: Forest
 
 # GL
 BRR:
