@@ -4585,14 +4585,14 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
 7818-10802:
-    noregret:
+    Lei:
         firstdragon: 1
         firstherald: 1
     Fatfish:
         firstdragon: 0
         firstherald: 0
 7818-10804:
-    noregret:
+    Lei:
         firstdragon: 0
         firstherald: 1
     Citrus9:
@@ -5270,7 +5270,7 @@ NA1/3916789614:
     Y1han:
         firstdragon: 0
         firstherald: 0
-    noregret:
+    Lei:
         firstdragon: 1
         firstherald: 1
 7998-10971:
@@ -5394,7 +5394,7 @@ NA1/3916789614:
     kennychan:
         firstdragon: 1
         firstherald: 0
-    noregret:
+    Lei:
         firstdragon: 0
         firstherald: 1
 8036-10845:
@@ -5433,7 +5433,7 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
 8041-10853:
-    noregret:
+    Lei:
         firstdragon: 1
         firstherald: 1
     yyy:
@@ -5591,7 +5591,7 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 0
 8055-10872:
-    noregret:
+    Lei:
         firstdragon: 1
         firstherald: 1
     y1han:
@@ -5633,7 +5633,7 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 0
 8061-10877:
-    noregret:
+    Lei:
         firstdragon: 0
         firstherald: 1
     kennychan:
@@ -5664,7 +5664,7 @@ NA1/3916789614:
     yyy:
         firstdragon: 0
         firstherald: 1
-    noregret:
+    Lei:
         firstdragon: 1
         firstherald: 0
 7817-10800:
@@ -7549,7 +7549,7 @@ NA1/3916789614:
         firsttower: 0
         firstblood: 0
 7908-11137:
-    noregret:
+    Lei:
         firstdragon: 1
         firstherald: 1
         firsttower: 0
