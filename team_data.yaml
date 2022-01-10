@@ -445,30 +445,36 @@ KRM:
     jungler: Infinity
 
 # Ultraliga
-PDW:
-    name: PDW
-    jungler: Bruness
 RGO:
     name: AGO Rogue
-    jungler: lurox
+    jungler: Rabble
 DV1:
     name: Devils one
     jungler: Diagu
+FSK:
+    name: Forsaken
+    jungler: Jaunatis
 GGM:
     name: Gentlemans Gaming
-    jungler: Ben3k
+    jungler: Badlyyga
+GSK:
+    name: Goskilla
+    jungler: Sh4dow us
 IHG:
     name: Illuminar Gaming
     jungler: Chris
-K1:
-    name: K1CK Neosurf
-    jungler: Stefan
+WOLF:
+    name: Iron Wolves
+    jungler: Souli
 KNF:
     name: KomilandFriends
     jungler: Yuta
 TEG:
     name: Team ESCA Gaming
     jungler: Xeonerr
+Z10:
+    name: Zero Tenacity
+    jungler: Ryuzaki
 
 # LFL
 GO:
@@ -642,9 +648,6 @@ VPG:
 X25:
     name: x25 Esports
     jungler: Frenzy
-Z10:
-    name: Zero Tenacity
-    jungler: Ryuzaki
 
 # GLL
 ANO:
@@ -948,11 +951,4 @@ SIN:
 VIK:
     name: Vikingekrig Esports
     jungler: bedi
-# Baltic Masters
-GOEX:
-    name: Goexanimo
-    jungler: Homeless
-WOLF:
-    name: Topo Centras Iron Wolves
-    jungler: Julbu
 
