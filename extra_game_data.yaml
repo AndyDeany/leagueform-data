@@ -1272,7 +1272,7 @@ ESPORTSTMNT05/1430773:
         firstherald: 0
         firsttower: 1
 7662-10680:
-    JugGod:
+    Youxin:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
@@ -1317,7 +1317,7 @@ ESPORTSTMNT05/1430773:
         firstherald: 0
         firsttower: 1
 7662-10686:
-    JugGod:
+    Youxin:
         firstdragon: 0
         firstherald: 1
         firsttower: 0
@@ -1402,7 +1402,7 @@ ESPORTSTMNT05/1430773:
         firstdragon: 1
         firstherald: 1
         firsttower: 1
-    JugGod:
+    Youxin:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
@@ -4063,25 +4063,25 @@ NA1/3916789614:
     icecoke:
         firstdragon: 0
         firstherald: 0
-    Small17:
+    Xiao17:
         firstdragon: 1
         firstherald: 1
 7155-9849:
     icecoke:
         firstdragon: 0
         firstherald: 1
-    Small17:
+    Xiao17:
         firstdragon: 1
         firstherald: 0
 7155-9853:
     icecoke:
         firstdragon: 0
         firstherald: 1
-    Small17:
+    Xiao17:
         firstdragon: 1
         firstherald: 0
 7402-10055:
-    ifcan:
+    can:
         firstdragon: 0
         firstherald: 0
     xiaohuangren:
