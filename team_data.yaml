@@ -531,42 +531,36 @@ WAVE:
     jungler: lyncas
 
 # NLC
+ASTT:
+    name: Astralis Talent
+    jungler: Taxer
+BFR:
+    name: Bifrost
+    jungler: Cboi
 BTXL:
     name: BT Excel
     jungler: Dan
 DY:
     name: Dusty
-    jungler: Sawyor
-FNCR:
-    name: HMA Fnatic Rising
-    jungler: Maxi
-GOD:
-    name: Godsent
-    jungler: Aesthetic
-GRNT:
-    name: Granit Gaming
-    jungler: Indecision
-KOVA:
-    name: KOVA Esports
-    jungler: outlandisch
-GXR:
-    name: Galaxy Racer EU
-    jungler: Jejky
-NVD:
-    name: Nordavind
-    jungler: Sharp
-RSV:
-    name: Resolve
-    jungler: Sof
+    jungler: Viking
+MNM:
+    name: MNM Gaming
+    jungler: Kanna
+NKI:
+    name: NYYRIKKI
+    jungler: de sidere
 RDL:
     name: Riddle Esports
-    jungler: Afflict
+    jungler: MC
 SNG:
     name: Team Singularity
-    jungler: noltey
-TRC:
-    name: Tricked Esport
-    jungler: Taxer
+    jungler: pawp
+VNR:
+    name: Vanir
+    jungler: Noodle
+X7:
+    name: X7 Esports
+    jungler: Haru
 
 # LVP SuperLiga
 BCN:
