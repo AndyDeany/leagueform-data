@@ -563,36 +563,36 @@ X7:
     jungler: Haru
 
 # LVP SuperLiga
-BCN:
-    name: BCN Squad
-    jungler: Spooky
-BTS:
-    name: Cream Real Betis
-    jungler: Lebron
-EMZ:
-    name: eMonkeyz
-    jungler: Nyx
+BAR:
+    name: Barca eSports
+    jungler: LeBron
+BSO:
+    name: BISONS ECLUB
+    jungler: Albetrayber
+FNTQ:
+    name: Fnatic TQ
+    jungler: Maxi
 G2AR:
     name: G2 Artic
+    jungler: Alexx
+GIA:
+    name: Giants
+    jungler: Maxlore
+KOI:
+    name: KOI
     jungler: Koldo
 MADM:
     name: MAD Lions Madrid
-    jungler: Alexx
+    jungler: Hades
 MRS:
     name: Movistar Riders
-    jungler: Maxlore
-S2V:
-    name: S2V Esports
-    jungler: behave
-TQ:
-    name: Team Queso
-    jungler: Dahvys
+    jungler: Kadir
+HRTS:
+    name: Team Heretics
+    jungler: bluerzor
 UCAM:
-    name: UCAM Esports Club
-    jungler: Hades
-VGIA:
-    name: Vodafone Giants
-    jungler: 113
+    name: UCAM Tokiers
+    jungler: Boukada
 
 # PG Nationals
 AXL:
