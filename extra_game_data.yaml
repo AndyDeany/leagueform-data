@@ -8246,3 +8246,30 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 0
         firsttower: 0
+8402-8402_game_1:
+    Beichuan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8402-8402_game_2:
+    Beichuan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8402-8402_game_3:
+    Beichuan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
