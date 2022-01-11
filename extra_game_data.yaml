@@ -8228,3 +8228,21 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 0
         firsttower: 0
+8401-8401_game_1:
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Frigid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8401-8401_game_2:
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Frigid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
