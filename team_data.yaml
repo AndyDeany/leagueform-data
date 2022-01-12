@@ -482,25 +482,28 @@ GO:
     jungler: Karim kt
 GW:
     name: GameWard
-    jungler: Memento
-IZI:
-    name: Izi Dream
-    jungler: Viking
+    jungler: Akabane
 KC:
     name: Karmine Corp
-    jungler: Cinkrof
+    jungler: 113
 LDLC:
     name: LDLC OL
-    jungler: Don Arts
+    jungler: Yike
+MIR:
+    name: Mirage Elyandra
+    jungler: Memento
 MSFP:
     name: Misfits Premier
-    jungler: Shlatan
+    jungler: TynX
 SLY:
     name: Solary
     jungler: Djoko
-MCES:
-    name: Team MCES
-    jungler: Boukada
+BDSA:
+    name: Team BDS Academy
+    jungler: Sheo
+OPL:
+    name: Team Oplon
+    jungler: Bruness
 VITB:
     name: Vitality.Bee
     jungler: Skeanz
