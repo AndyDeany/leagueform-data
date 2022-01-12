@@ -510,34 +510,34 @@ VITB:
 # PrimeLeague
 BIG:
     name: BIG
-    jungler: Akabane
+    jungler: Pabu
 EWI:
     name: E WIE EINFACH
-    jungler: D4nKa
-ESG:
-    name: EURONICS Gaming
-    jungler: Lamabear
+    jungler: Afroboi
+EINS:
+    name: Eintracht Spandau
+    jungler: Obsess
 S04E:
     name: Schalke Evolution
-    jungler: Obsess
+    jungler: Isma
 GL:
     name: GamerLegion
-    jungler: rabble
+    jungler: D4nKa
 MOUZ:
     name: mousesports
-    jungler: Pridestalkr
+    jungler: Lyncas
 PTA:
     name: PENTA 1860
     jungler: Rulfchen
 SKP:
     name: SK gaming Prime
-    jungler: Canee
+    jungler: Eckas
 USE:
     name: UOL Sexy Edition
-    jungler: Kadir
+    jungler: Lurox
 WAVE:
     name: WAVE Esports
-    jungler: lyncas
+    jungler: Mirai
 
 # NLC
 ASTL:
