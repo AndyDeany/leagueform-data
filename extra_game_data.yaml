@@ -8318,3 +8318,39 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 0
         firsttower: 0
+8405-8405_game_1:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    Tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8405-8405_game_2:
+    Leyan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+8406-8406_game_1:
+    h4cker:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8406-8406_game_2:
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Tarzan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
