@@ -145,7 +145,10 @@ UP:
 WBG:
     name: Weibo Gaming
     jungler: SofM
-
+# Subs
+TT2:
+    name: Thunder Talk Gaming
+    jungler: Chieftain
 # VCS
 GAM:
     name: GAM Esports
