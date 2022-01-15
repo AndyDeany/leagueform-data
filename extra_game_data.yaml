@@ -8390,3 +8390,84 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 1
         firsttower: 1
+8409-8409_game_1:
+    Shad0w:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    Beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+8409-8409_game_2:
+    Shad0w:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Beichuan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8410-8410_game_1:
+    Xiaohao:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    Aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+8410-8410_game_2:
+    Xiaohao:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8411-8411_game_1:
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    Kanavi:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8411-8411_game_2:
+    Wei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8411-8411_game_3:
+    Wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Kanavi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8412-8412_game_1:
+    frigid:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8412-8412_game_2:
+    frigid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
