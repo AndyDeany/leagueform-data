@@ -8543,15 +8543,6 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 1
         firsttower: 1
-8326-8326_game_1:
-    frigid:
-        firstdragon: 1
-        firstherald: 1
-        firsttower: 1
-    lizheng:
-        firstdragon: 0
-        firstherald: 0
-        firsttower: 0
 8327-8327_game_1:
     xlb:
         firstdragon: 0
@@ -8569,15 +8560,6 @@ NA1/3916789614:
     frigid:
         firstdragon: 1
         firstherald: 1
-        firsttower: 0
-8329-8329_game_1:
-    lizheng:
-        firstdragon: 0
-        firstherald: 1
-        firsttower: 1
-    aki:
-        firstdragon: 1
-        firstherald: 0
         firsttower: 0
 8330-8330_game_1:
     xlb:
@@ -8597,15 +8579,6 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
-8332-8332_game_1:
-    lizheng:
-        firstdragon: 1
-        firstherald: 0
-        firsttower: 0
-    xlb:
-        firstdragon: 0
-        firstherald: 1
-        firsttower: 1
 8333-8333_game_1:
     sofm:
         firstdragon: 0
@@ -8621,15 +8594,6 @@ NA1/3916789614:
         firstherald: 1
         firsttower: 1
     frigid:
-        firstdragon: 1
-        firstherald: 0
-        firsttower: 0
-8335-8335_game_1:
-    sofm:
-        firstdragon: 0
-        firstherald: 1
-        firsttower: 1
-    lizheng:
         firstdragon: 1
         firstherald: 0
         firsttower: 0
