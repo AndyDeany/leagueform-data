@@ -633,27 +633,30 @@ OP:
     jungler: Lotus
 
 # EBL
-ASUS:
-    name: ASUS ROG ELITE
-    jungler: Flawless
+AUX:
+    name: Auxesis Esports
+    jungler: Hatred
 CZV:
     name: Crvena Zvezda Esports
-    jungler: Kanna
+    jungler: DoubleAiM
+CWE:
+    name: Cyber Wolves
+    jungler: King
+DIA:
+    name: Diamant Esports
+    jungler: Boby
 NXK:
     name: Nexus KTRL
-    jungler: mrcvl
-NKOS:
-    name: NK Osijek Esport
-    jungler: Fiko
+    jungler: Askan
+SVJ:
+    name: SOVEJA
+    jungler: Acrozo
 STR:
     name: Split Raiders
-    jungler: Velja
+    jungler: Dmitar
 VPG:
     name: Valiance
-    jungler: DoubleAiM
-X25:
-    name: x25 Esports
-    jungler: Frenzy
+    jungler: Indecision
 
 # GLL
 ANO:
@@ -823,45 +826,31 @@ VRXA:
     name: Vorax Academy
     jungler: Disamis
 
-# Belgian League
-ION:
-    name: Ion Squad
-    jungler: Flif
-GENK:
-    name: KRC Genk
-    jungler: Guertas
-KVM:
-    name: KV Mechelen
-    jungler: Urban
-S1:
-    name: Sector One
-    jungler: Albetrayber
-SGC:
-    name: Starlan Gaming Club
-    jungler: PatateVolante
-_7AM:
-    name: Team 7AM
-    jungler: KASAPINA
-
-# Dutch League
-DYN:
-    name: Dynasty
-    jungler: Jackie
-LION:
-    name: LowLandLions
-    jungler: dibu
+# Elite Series
 EZ:
     name: Echo Zulu
-    jungler: Yoft
+    jungler: Sjakal
+ION:
+    name: Ion Squad
+    jungler: Velja
+GENK:
+    name: KRC Genk Esports
+    jungler: Guertas
+KVM:
+    name: KVM Esports
+    jungler: Lian
+LION:
+    name: LowLandLions
+    jungler: Urban
 MCN:
-    name: mCon Rotterdam
-    jungler: Noodle
-PSV:
-    name: PSV Esports
-    jungler: Joekie
-TRL:
-    name: Team THRLL
-    jungler: Gaboesh
+    name: mCon LG UltraGear
+    jungler: Skude
+S1:
+    name: Sector One
+    jungler: dibu
+_7AM:
+    name: Team 7AM
+    jungler: OmulFinn
 
 # LCK CL
 DRXC:
