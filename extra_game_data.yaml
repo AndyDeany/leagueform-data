@@ -2538,16 +2538,20 @@ ESPORTSTMNT05/1430773:
     Beichuan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Taiyi:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7681-10348:
     Beichuan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Taiyi:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7682-10344:
     Maggie:
         firstdragon: 0
