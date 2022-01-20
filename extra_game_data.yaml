@@ -8786,3 +8786,39 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 1
         firsttower: 1
+8422-8422_game_1:
+    view:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+8422-8422_game_2:
+    view:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    xiaopeng:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8422-8422_game_3:
+    view:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    xiaopeng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8423-8423_game_1:
+    tarzan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    xun:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
