@@ -1878,16 +1878,20 @@ ESPORTSTMNT05/1430773:
     Maggie:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7777-10661:
     Maggie:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7778-10662:
     xiaohuangren:
         firstdragon: 1
@@ -2046,16 +2050,20 @@ ESPORTSTMNT05/1430773:
     CSY:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     frigid:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7787-10698:
     CSY:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 7788-10695:
     Naruto:
         firstdragon: 0
@@ -4330,9 +4338,11 @@ NA1/3916789614:
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Ben4:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7798-10738:
     Beichuan:
         firstdragon: 1
@@ -4344,9 +4354,13 @@ NA1/3916789614:
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
+        win: 1
     Ben4:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
+        win: 0
 7799-10739:
     KennyChan:
         firstdragon: 0
