@@ -2174,16 +2174,20 @@ ESPORTSTMNT05/1430773:
     Yuan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7721-10477:
     Yuan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7722-10473:
     Ben4:
         firstdragon: 0
@@ -2279,16 +2283,20 @@ ESPORTSTMNT05/1430773:
     Beichuan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Starry:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7727-10501:
     Beichuan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     Starry:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 7728-10498:
     Xiao17:
         firstdragon: 0
@@ -2335,16 +2343,20 @@ ESPORTSTMNT05/1430773:
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     Naruto:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7731-10510:
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Naruto:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7732-10509:
     eight:
         firstdragon: 0
@@ -2447,16 +2459,20 @@ ESPORTSTMNT05/1430773:
     yyy:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
 7737-10533:
     yyy:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7738-10530:
     Beige:
         firstdragon: 0
@@ -2689,16 +2705,20 @@ ESPORTSTMNT05/1430773:
     frigid:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     PeiLin:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7690-10372:
     frigid:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     PeiLin:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7691-10377:
     Fy:
         firstdragon: 1
@@ -2794,16 +2814,20 @@ ESPORTSTMNT05/1430773:
     Beichuan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     xiaoty:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7697-10395:
     Beichuan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     xiaoty:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7698-10393:
     Hook:
         firstdragon: 1
@@ -2878,23 +2902,29 @@ ESPORTSTMNT05/1430773:
     Brave:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7702-10407:
     Brave:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 7702-10411:
     Brave:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     frigid:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7703-10413:
     CSY:
         firstdragon: 0
@@ -3004,23 +3034,29 @@ ESPORTSTMNT05/1430773:
     xiaohuangren:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7710-10438:
     xiaohuangren:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7710-10439:
     xiaohuangren:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7711-10442:
     eight:
         firstdragon: 0
@@ -3067,23 +3103,29 @@ ESPORTSTMNT05/1430773:
     frigid:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
     zzx:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
 7714-10448:
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     zzx:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7714-10450:
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     zzx:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 7715-10456:
     Brave:
         firstdragon: 1
