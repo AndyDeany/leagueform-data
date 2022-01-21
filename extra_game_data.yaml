@@ -5363,9 +5363,11 @@ NA1/3916789614:
     Brave:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
     frigid:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
 8033-10840:
     Y1han:
         firstdragon: 0
@@ -5501,9 +5503,11 @@ NA1/3916789614:
     frigid:
         firstdragon: 1
         firstherald: 0
+        firsttower: 1
     Uni:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
 8037-10847:
     yyy:
         firstdragon: 1
@@ -5515,9 +5519,11 @@ NA1/3916789614:
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     xlb:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 8039-10850:
     y1han:
         firstdragon: 0
@@ -5687,9 +5693,11 @@ NA1/3916789614:
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Brave:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 8055-10872:
     Lei:
         firstdragon: 1
@@ -5715,9 +5723,11 @@ NA1/3916789614:
     uni:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     frigid:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 8059-10875:
     y1han:
         firstdragon: 0
@@ -8931,3 +8941,147 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
+7889-11110:
+    Mori:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    Beichuan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+7927-11171:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    joy1:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+7937-11181:
+    Beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Monki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+7941-11185:
+    Beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    Hook:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+7949-11193:
+    heng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    frigid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+7956-11207:
+    beige:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    beichuan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+7959-11212:
+    xlb:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    frigid:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+7964-11220:
+    echo:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8112-11239:
+    frigid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8112-11241:
+    frigid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8112-11242:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    beichuan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8112-11243:
+    frigid:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8112-11245:
+    frigid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8116-11269:
+    frigid:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    naiyou:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8116-11270:
+    frigid:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    naiyou:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+8116-11271:
+    frigid:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    naiyou:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
