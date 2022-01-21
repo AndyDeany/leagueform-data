@@ -4428,16 +4428,20 @@ NA1/3916789614:
     XLB:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7803-10757:
     XLB:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     frigid:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7804-10752:
     zzx:
         firstdragon: 1
@@ -4505,23 +4509,29 @@ NA1/3916789614:
     Beichuan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Beige:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7808-10768:
     Beichuan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Beige:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7808-10769:
     Beichuan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Beige:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7809-10770:
     Taiyi:
         firstdragon: 0
