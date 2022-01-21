@@ -4641,23 +4641,29 @@ NA1/3916789614:
     frigid:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Heng:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7815-10793:
     frigid:
         firstdragon: 0
         firstherald: 0
+        firsttower: 0
     Heng:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
 7815-10796:
     frigid:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Heng:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7816-10795:
     joy1:
         firstdragon: 1
@@ -4753,23 +4759,29 @@ NA1/3916789614:
     Hook:
         firstdragon: 0
         firstherald: 0
+        firsttower: 1
     Beichuan:
         firstdragon: 1
         firstherald: 1
+        firsttower: 0
 7823-10823:
     Hook:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
     Beichuan:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
 7823-10825:
     Hook:
         firstdragon: 0
         firstherald: 1
+        firsttower: 1
     Beichuan:
         firstdragon: 1
         firstherald: 0
+        firsttower: 0
 7824-10822:
     KennyChan:
         firstdragon: 0
