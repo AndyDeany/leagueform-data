@@ -766,34 +766,34 @@ VEG:
 # CBLOL
 FLA:
     name: Flamengo Esports
-    jungler: Ranger
+    jungler: asta
 FUR:
-    name: Furia Esports
-    jungler: Diamondprox
+    name: FURIA Esports
+    jungler: Ranger
 ITZ:
     name: INTZ
-    jungler: Sting
+    jungler: Yampi
 KBM:
     name: KaBuM! e-Sports
-    jungler: Ryan
+    jungler: Wiz
+LBR:
+    name: Liberty
+    jungler: Disamis
 LLL:
     name: LOUD
-    jungler: Mewkyo
+    jungler: Tay
 NMG:
     name: Netshoes Miners
-    jungler: Hugato
+    jungler: Croc
 PNG:
     name: paIN Gaming
-    jungler: Cariok
+    jungler: CarioK
 RED:
-    name: RED Kalunga
+    name: RED Canids
     jungler: Aegis
 RNS:
     name: Rensga Esports
-    jungler: Croc
-VRX:
-    name: Vorax Liberty
-    jungler: Yampi
+    jungler: Minerva
 
 # CBLOL Academy
 FLAA:
