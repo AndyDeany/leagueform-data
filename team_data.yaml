@@ -384,36 +384,37 @@ XTN:
     jungler: Dimitry
 
 # TCL
-FB:
-    name: 1907 Fenerbache
-    jungler: SeongHwan
 _5R:
     name: 5 Ronin
-    jungler: BroCColi
+    jungler: Kireas
 BJK:
     name: Besiktas Esports
-    jungler: Robin
+    jungler: BroCColi
 DP:
     name: Dark Passage
     jungler: Typhoon
+FB:
+    name: Fenerbache Esports
+    jungler: Crash
 GAL:
     name: Galakticos
-    jungler: Elramir
+    jungler: Chloe
 GS:
-    name: Galatasaray Espor
+    name: Galatasaray Esports
     jungler: Mojito
 IW:
     name: fastpay Wildcats
     jungler: Ferret
 NSR:
     name: NASR Turkey
-    jungler: bonO
+    jungler: Kirei
 SUP:
     name: SuperMassive
-    jungler: kireas
+    jungler: Juuzou
 AUR:
     name: Team AURORA
-    jungler: Reifoas
+    jungler: Elramir
+
 # TCL Academy
 IWCA:
     name: IW Academy
