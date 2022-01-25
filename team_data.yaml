@@ -798,22 +798,25 @@ RNS:
 # CBLOL Academy
 FLAA:
     name: Flamengo Academy
-    jungler: asta
+    jungler: Sting
 FURA:
     name: FURIA Academy
     jungler: Goot
-NMGA:
-    name: Miners Academy
-    jungler: Sephis
 ITZA:
     name: INTZ Academy
-    jungler: vISAO
+    jungler: Soweto
 KBMA:
     name: KaBuM! Academy
     jungler: scary
+LBRA:
+    name: Liberty Academy
+    jungler: Drake
 LLLA:
     name: LOUD Academy
-    jungler: enel1
+    jungler: Samkz
+NMGA:
+    name: Miners Academy
+    jungler: Hugato
 PNGA:
     name: paIN Academy
     jungler: Accez
@@ -822,10 +825,7 @@ REDA:
     jungler: NiT Cesar
 RNSA:
     name: Rensga Academy
-    jungler: Erasus
-VRXA:
-    name: Vorax Academy
-    jungler: Disamis
+    jungler: Mousty
 
 # Elite Series
 EZ:
