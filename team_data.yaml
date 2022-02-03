@@ -178,13 +178,13 @@ CES:
 # NA Academy
 C9A:
     name: Cloud9 Academy
-    jungler: Shernfire
+    jungler: Malice
 TLA:
     name: Team Liquid Academy
     jungler: Armao
 GGA:
     name: Golden Guardians Academy
-    jungler: RoseThorn
+    jungler: Iconic
 EGA:
     name: Evil Geniuses Academy
     jungler: Tomio
@@ -193,19 +193,19 @@ _100TA:
     jungler: Kenvi
 FLYA:
     name: FlyQuest Academy
-    jungler: nxi
+    jungler: Yuuji
 CLGA:
     name: CLG Academy
-    jungler: Keel
+    jungler: RoseThorn
 DIGA:
     name: Dignitas Academy
-    jungler: Will
+    jungler: eXyu
 TSMA:
     name: TSM Academy
     jungler: Hyper
 IMTA:
     name: Immortals Academy
-    jungler: AnDa
+    jungler: Chad
 
 # PCS
 ALF:
