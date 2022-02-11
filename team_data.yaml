@@ -208,36 +208,36 @@ IMTA:
     jungler: Chad
 
 # PCS
-ALF:
-    name: Alpha Esports
-    jungler: Kiy1n9
-BJD:
-    name: Berjaya Dragons
-    jungler: Arashi
 BYG:
     name: Beyond Gaming
     jungler: HuSha
-BME:
-    name: BOOM
+CFO:
+    name: CTBC Flying Oyster
+    jungler: Gemini
+DCG:
+    name: Deep Cross Gaming
+    jungler: Hana
+FNK:
+    name: Frank Esports
     jungler: Holo
-HKA:
-    name: Hong Kong Attitude
-    jungler: Kongyue
+HG:
+    name: Hurricane Gaming
+    jungler: aoliao
 IMP:
     name: Impunity
-    jungler: Epic
+    jungler: tako
 JT:
     name: J Team
-    jungler: Hana
-LYB:
-    name: Liyab Esports
-    jungler: DoeDoii
-MCX:
-    name: Machi Esports
-    jungler: Gemini
+    jungler: Kongyue
+MFT:
+    name: Meta Falcon Team
+    jungler: 665
 PSG:
     name: PSG Talon
-    jungler: River
+    jungler: Juhan
+S9:
+    name: SEM9
+    jungler: Arashi
 
 # LDL
 SDX:
