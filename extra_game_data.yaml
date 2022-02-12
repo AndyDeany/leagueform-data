@@ -9630,10 +9630,12 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 1
         firsttower: 1
+        firstblood: 0
     aki:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
+        firstblood: 1
 8453-8453_game_3:
     karsa:
         firstdragon: 0
