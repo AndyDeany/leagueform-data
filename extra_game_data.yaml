@@ -9663,3 +9663,48 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
+8455-8455_game_1:
+    Clid:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    SofM:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8455-8455_game_2:
+    Clid:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    SofM:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8455-8455_game_3:
+    Clid:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    SofM:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+8456-8456_game_1:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8456-8456_game_2:
+    Tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
