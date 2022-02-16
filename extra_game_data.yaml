@@ -9843,3 +9843,39 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
+8462-8462_game_1:
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8462-8462_game_2:
+    kanavi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8463-8463_game_1:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    sofm:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8463-8463_game_2:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
