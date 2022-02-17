@@ -9879,3 +9879,39 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
+8464-8464_game_1:
+    chieftain:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8464-8464_game_2:
+    chieftain:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8465-8465_game_1:
+    karsa:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8465-8465_game_2:
+    karsa:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    wei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
