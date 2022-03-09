@@ -11000,10 +11000,12 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
+        firstblood: 1
     kanavi:
         firstdragon: 1
         firstherald: 0
         firsttower: 0
+        firstblood: 0
 8776-8776_game_1:
     karsa:
         firstdragon: 0
