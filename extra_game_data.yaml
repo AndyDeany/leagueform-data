@@ -11123,3 +11123,39 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
+8782-8782_game_1:
+    leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    h4cker:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8782-8782_game_2:
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    h4cker:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8783-8783_game_1:
+    sofm:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8783-8783_game_2:
+    sofm:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
