@@ -11357,3 +11357,21 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
+8794-8794_game_1:
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8794-8794_game_2:
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
