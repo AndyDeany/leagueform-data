@@ -11771,3 +11771,39 @@ NA1/3916789614:
         firstdragon: 0
         firstherald: 1
         firsttower: 0
+8813-8813_game_1:
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8813-8813_game_2:
+    sofm:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8813-8813_game_3:
+    sofm:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8813-8813_game_4:
+    sofm:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
