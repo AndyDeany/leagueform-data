@@ -11807,3 +11807,30 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 0
         firsttower: 0
+8814-8814_game_1:
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8814-8814_game_2:
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8814-8814_game_3:
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
