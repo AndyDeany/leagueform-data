@@ -948,3 +948,25 @@ VIK:
     name: Vikingekrig Esports
     jungler: bedi
 
+# LCK Academy
+DRXA:
+    name: DRX Academy
+    jungler:
+BROA:
+    name: BRO Academy
+    jungler: OHwiN
+HLEA:
+    name: HLE Academy
+    jungler: 051120
+KDFA:
+    name: KDF Academy
+    jungler: PYoChul
+LSBA:
+    name: Liiv SANDBOX Academy
+    jungler:
+NSA:
+    name: Nongshim Academy
+    jungler:
+T1A:
+    name: T1 Academy
+    jungler:
