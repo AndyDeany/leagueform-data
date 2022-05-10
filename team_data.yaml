@@ -163,7 +163,7 @@ SE:
     name: SBTC Esports
     jungler: Spot
 SGB:
-    name: Saigon Buffalo Esports
+    name: Saigon Buffalo
     jungler: Bean J
 LX:
     name: Luxury Esports
@@ -400,7 +400,7 @@ GS:
     name: Galatasaray Esports
     jungler: Mojito
 IW:
-    name: fastpay Wildcats
+    name: İstanbul Wildcats
     jungler: Ferret
 NSR:
     name: NASR Turkey
@@ -789,7 +789,7 @@ PNG:
     name: paIN Gaming
     jungler: CarioK
 RED:
-    name: RED Kalunga
+    name: RED Canids
     jungler: Aegis
 RNS:
     name: Rensga Esports
