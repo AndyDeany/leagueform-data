@@ -970,3 +970,34 @@ NSA:
 T1A:
     name: T1 Academy
     jungler:
+# LHE
+UC:
+    name: Cruzados Esports
+    jungler: Lil Knight
+DHX:
+    name: Dark Horse
+    jungler: EXIMUS
+FG:
+    name: Furious Gaming
+    jungler: Camilonicolau
+MAZ:
+    name: Maze Gaming
+    jungler: 1Curioso
+MG:
+    name: Meta Gaming
+    jungler: Funky Dog
+MOX:
+    name: Movistar Optix
+    jungler: Tierwulf
+N5R:
+    name: Newstar
+    jungler: Higny
+RBT:
+    name: Rebirth eSports
+    jungler: AMBAN
+SW:
+    name: Santiago Wanderers eSports
+    jungler: Recon
+WCE:
+    name: Wolf Club Esports
+    jungler: NEGRONE
