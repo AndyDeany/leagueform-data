@@ -1001,3 +1001,10 @@ SW:
 WCE:
     name: Wolf Club Esports
     jungler: NEGRONE
+# LMF
+PAM:
+    name: Pampas
+    jungler: Follow
+STM:
+    name: Stone Movistar
+    jungler: Van
