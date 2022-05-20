@@ -321,39 +321,43 @@ BLI:
     name: BLI
     jungler: lizheng
 # LMF
-RIV:
-    name: River Plate
-    jungler: Shookz
-EVL:
-    name: Maycam Evolve
-    jungler: Winter
-SVG:
-    name: Savage Esports
-    jungler: Naz
-SL:
-    name: CASLA Esports
-    jungler: KinG
-UNP:
-    name: Uala New Pampas
-    jungler: Style
-WAP:
-    name: WAP Esports
-    jungler: OneSECOND
-STM:
-    name: Stone Movistar
-    jungler: Sabaneti
-NE:
-    name: Naguara Team
-    jungler: SryNotSry
-EBG:
-    name: eBro Gaming
-    jungler: Ominick
-UBK:
-    name: Undead Gaming
-    jungler: Wiz
+_9Z:
+    name: 9z Team
+    jungler: isaN
 BOC:
     name: Boca Juniors
-    jungler: Volcanic Dog
+    jungler: Shookz
+EBG:
+    name: EBRO
+    jungler: Ocean
+KRU:
+    name: KRÜ Esports
+    jungler: Style
+LEV:
+    name: Leviatan Esports
+    jungler: Pancake
+MVG:
+    name: Malvinas Gaming
+    jungler: Rod
+EV:
+    name: Maycam Evolve
+    jungler: KinG
+PAM:
+    name: Pampas
+    jungler: Follow
+RIV:
+    name: River Plate
+    jungler: Xypherz
+STM:
+    name: Stone Movistar
+    jungler: Van
+UBK:
+    name: Undead Gaming
+    jungler: Naz
+WAP:
+    name: WAP Esports
+    jungler: Aug
+
 # LLA
 AK:
     name: All Knights
@@ -1001,10 +1005,3 @@ SW:
 WCE:
     name: Wolf Club Esports
     jungler: NEGRONE
-# LMF
-PAM:
-    name: Pampas
-    jungler: Follow
-STM:
-    name: Stone Movistar
-    jungler: Van
