@@ -1005,3 +1005,29 @@ SW:
 WCE:
     name: Wolf Club Esports
     jungler: NEGRONE
+
+# DDF
+ARCM:
+    name: Arctic Gaming Mexico
+    jungler: Chente
+ATH:
+    name: Atheris Esports
+    jungler: Adry
+MC2:
+    name: Atomic México
+    jungler: LiquidDiego
+PK:
+    name: PÊEK Gaming
+    jungler: Clantoz
+_6K:
+    name: Six Karma
+    jungler: DrLemon
+TK:
+    name: The Kings
+    jungler: Mataz
+_2MR:
+    name: Tomorrow Esports
+    jungler: Chikitow
+ZLT:
+    name: Zylant Esports
+    jungler: SlayerSupr
