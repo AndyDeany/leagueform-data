@@ -579,10 +579,10 @@ X7:
 # LVP SuperLiga
 BAR:
     name: Barca eSports
-    jungler: LeBron
+    jungler: Hades
 BSO:
     name: BISONS ECLUB
-    jungler: Albetrayber
+    jungler: Alby
 FNTQ:
     name: Fnatic TQ
     jungler: Maxi
@@ -597,7 +597,7 @@ KOI:
     jungler: Koldo
 MADM:
     name: MAD Lions Madrid
-    jungler: Hades
+    jungler: TynX
 MRS:
     name: Movistar Riders
     jungler: Kadir
@@ -606,7 +606,7 @@ HRTS:
     jungler: bluerzor
 UCAM:
     name: UCAM Tokiers
-    jungler: Boukada
+    jungler: Nji
 
 # PG Nationals
 ATE:
