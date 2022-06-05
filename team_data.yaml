@@ -426,28 +426,28 @@ SUPA:
 # LPLOL
 WD:
     name: White Dragons
-    jungler: LeChase
+    jungler: Mart
 BFC:
     name: Boavista FC
-    jungler: ReAt1vo
+    jungler: rnz
 EGN:
     name: EGN Esports
-    jungler: Sapphire
+    jungler: Time
 GTZ:
     name: GTZ Bulls
-    jungler: Densi
+    jungler: Gurklys
 OFF7:
     name: OFFSET Esports
-    jungler: Galben
+    jungler: yanjee
 FTW:
     name: For The Win Esports
     jungler: Own3r
-E5:
-    name: EFIVE Esports
-    jungler: Meraiel
+OSC:
+    name: Odivelas Sports Club
+    jungler: Raluxu
 KRM:
     name: Karma Clan Esports
-    jungler: Infinity
+    jungler: D4SH
 
 # Ultraliga
 RGO:
