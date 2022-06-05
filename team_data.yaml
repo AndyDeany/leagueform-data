@@ -718,28 +718,28 @@ V3:
 # LCO
 CHF:
     name: Chiefs Esports
-    jungler: Swathe
+    jungler: Arthur
 DW:
     name: Dire Wolves
-    jungler: Only
+    jungler: Poltron
 GRV:
     name: Gravitas
-    jungler: Akano
-LGC:
-    name: Legacy Esports
-    jungler: Sybol
+    jungler: foreigner
+KNG:
+    name: Kanga Esports
+    jungler: SCOTT
 MMM:
     name: MAMMOTH
-    jungler: Goodo
+    jungler: Meifan
 ORD:
     name: ORDER
-    jungler: Kevy
+    jungler: Goodo
 PCE:
     name: PEACE
-    jungler: Babip
+    jungler: LeeSA
 PGG:
     name: Pentanet.GG
-    jungler: Pabu
+    jungler: BalKhan
 
 # LCL
 BSG:
