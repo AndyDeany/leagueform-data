@@ -611,19 +611,19 @@ UCAM:
 # PG Nationals
 ATE:
     name: Atleta Esport
-    jungler: MightyDragon
+    jungler: MxDragon
 AXL:
     name: Axolotl
-    jungler: Ploxy
+    jungler: Jaunatis
 CGG:
     name: Cyberground
-    jungler: King
-GE:
-    name: Gala Esports
-    jungler: Rawbin IV
+    jungler: Ploxy
+EE:
+    name: Esport Empire
+    jungler: LeBron
 GGE:
     name: GGEsports
-    jungler: Souli
+    jungler: xeonerr
 MCK:
     name: Macko Esports
     jungler: Cboi
@@ -632,10 +632,10 @@ MKS:
     jungler: Flipper
 SMS:
     name: Samsung Morning Stars
-    jungler: WidowMaker
+    jungler: Noodle
 OP:
     name: aNc Outplayed
-    jungler: Lotus
+    jungler: Lotuss
 
 # EBL
 AUX:
