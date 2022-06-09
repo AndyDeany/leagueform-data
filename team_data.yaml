@@ -929,28 +929,28 @@ VIP:
 # Hitpoint Masters
 BRT:
     name: BRUTE
-    jungler: Petipino
+    jungler: Pact
 DTG:
     name: Dark Tigers
-    jungler: Rošťák
+    jungler: Sacrifice
 DNE:
     name: Dynamo Eclot
-    jungler: Fallen
+    jungler: Savero
 ESB:
     name: eSuba
+    jungler: Jejky
+OVA:
+    name: Cryptova
     jungler: Sacrifice
-INAE:
-    name: Inaequalis
-    jungler: Dinrok
 ING:
     name: Inside Games
-    jungler: Lagiah
+    jungler: Sentherus
 SIN:
     name: SINNERS Esports
-    jungler: Lian
-VIK:
-    name: Vikingekrig Esports
-    jungler: bedi
+    jungler: SpeeDy
+EIQ:
+    name: Entropiq
+    jungler: Rames
 
 # LCK Academy
 DRXA:
