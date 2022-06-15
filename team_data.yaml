@@ -1,16 +1,16 @@
 # LEC
 AST:
     name: Astralis
-    jungler: Zanzarah
+    jungler: Xerxe
 XL:
     name: Excel
     jungler: Markoon
-S04:
-    name: Schalke 04
-    jungler: Kirei
+BDS:
+    name: Team BDS
+    jungler: Cinkrof
 FNC:
     name: Fnatic
-    jungler: Bwipo
+    jungler: Razork
 G2:
     name: G2 Esports
     jungler: Jankos
@@ -19,16 +19,16 @@ MAD:
     jungler: Elyoya
 MSF:
     name: Misfits Gaming
-    jungler: Razork
+    jungler: Shlatan
 RGE:
     name: Rogue
-    jungler: Inspired
+    jungler: Malrang
 SK:
     name: SK Gaming
-    jungler: Treatz
+    jungler: Gilius
 VIT:
     name: Team Vitality
-    jungler: Selfmade
+    jungler: Haru
 
 # LCS
 _100T:
@@ -39,21 +39,21 @@ C9:
     jungler: Blaber
 CLG:
     name: Counter Logic Gaming
-    jungler: Broxah
+    jungler: Contractz
 DIG:
     name: Dignitas QNTMPAY
-    jungler: Akaadian
+    jungler: River
 EG:
     name: Evil Geniuses
-    jungler: Contractz
+    jungler: Inspired
 FLY:
     name: FlyQuest
     jungler: Josedeodo
 GG:
     name: Golden Guardians
-    jungler: Iconic
+    jungler: Pridestalker
 IMT:
-    name: Immortals
+    name: Immortals Progressive
     jungler: Xerxe
 TL:
     name: Team Liquid
@@ -63,9 +63,6 @@ TSM:
     jungler: Spica
 
 # LCK
-AF:
-    name: Afreeca Freecs
-    jungler: Dread
 DRX:
     name: DRX
     jungler: Pyosik
@@ -77,61 +74,29 @@ BRO:
     jungler: Umti
 GEN:
     name: Gen.G
-    jungler: Clid
+    jungler: Peanut
 HLE:
     name: Hanwha Life Esports
-    jungler: Willer
+    jungler: OnFleek
 KT:
     name: KT Rolster
-    jungler: Blank
+    jungler: Cuzz
+KDF:
+    name: Kwangdong Freecs
+    jungler: Ellim
 LSB:
     name: Liiv Sandbox
     jungler: Croco
 NS:
     name: Nongshim Redforce
-    jungler: Peanut
+    jungler: Dread
 T1:
     name: T1
     jungler: Oner
-
-# Subs
-GEN2:
-    name: Gen.G2
-    jungler: YoungJae
-BRO2:
-    name: Fredit BRION2
-    jungler: Chieftain
-HLE2:
-    name: Hanwha Life Esports2
-    jungler: Arthur
-HLE3:
-    name: Hanwha Life Esports3
-    jungler: yoHan
-KT2:
-    name: KT Rolster2
-    jungler: GIDEON
-T12:
-    name: T12
-    jungler: Cuzz
-EDG2:
-    name: EDG2
-    jungler: Clearlove
-EDG3:
-    name: EDG3
-    jungler: Junjia
-VB2:
-    name: V52
-    jungler: JugGod
-EG2:
-    name: EG2
-    jungler: Svenskeren
-BME2:
-    name: BOOM2
-    jungler: Alex
-NSC2:
-        name: NS Challengers2
-        jungler: Sylvie
 # LPL
+AL:
+    name: Anyone's Legend
+    jungler: xiaohao
 BLG:
     name: Bilibili Gaming
     jungler: Weiwei
@@ -140,7 +105,7 @@ EDG:
     jungler: jiejie
 FPX:
     name: FunPlus Phoenix
-    jungler: Tian
+    jungler: Clid
 IG:
     name: Invictus Gaming
     jungler: XUN
@@ -153,134 +118,134 @@ LGD:
 LNG:
     name: LNG Esports
     jungler: Tarzan
+V5:
+    name: Victory Five
+    jungler: Karsa
 OMG:
     name: Oh My God
     jungler: Aki
 RA:
     name: Rare Atom
     jungler: Leyan
-RW:
-    name: Rogue Warriors
-    jungler: Xiaohao
 RNG:
     name: Royal Never Give Up
     jungler: Wei
-SN:
-    name: Suning
-    jungler: SofM
 WE:
     name: Team WE
     jungler: beishang
 TES:
     name: Top Esports
-    jungler: Karsa
+    jungler: Tian
 TT:
-    name: TT
-    jungler: Xiaopeng
+    name: Thunder Talk Gaming
+    jungler: Beichuan
 UP:
     name: Ultra Prime
     jungler: H4cker
-V5:
-    name: Victory Five
-    jungler: pzx
-
+WBG:
+    name: Weibo Gaming
+    jungler: SofM
+# Subs
+TT2:
+    name: Thunder Talk Gaming
+    jungler: Chieftain
 # VCS
 GAM:
     name: GAM Esports
     jungler: Levi
-FL:
+TF:
     name: Team Flash
-    jungler: Meliodas
+    jungler: Ikigai
 TS:
     name: Team Secret
-    jungler: DNK
+    jungler: Penguin
 SE:
     name: SBTC Esports
-    jungler: Yijin
+    jungler: Spot
 SGB:
-    name: Saigon Buffalo
-    jungler: Bean J
-GLX:
-    name: GMedia Luxury
+    name: Saigon Buffalo Esports
+    jungler: BeanJ
+LX:
+    name: Luxury Esports
     jungler: Killerqueen
-VBTS:
-    name: Burst The Sky
+SKY:
+    name: Burst The Sky Esports
     jungler: Draktharr
 CES:
     name: CERBERUS Esports
-    jungler: Xuhao
+    jungler: Phuc1
 
 # NA Academy
 C9A:
     name: Cloud9 Academy
-    jungler: Shernfire
+    jungler: Malice
 TLA:
     name: Team Liquid Academy
     jungler: Armao
 GGA:
     name: Golden Guardians Academy
-    jungler: RoseThorn
+    jungler: Iconic
 EGA:
     name: Evil Geniuses Academy
     jungler: Tomio
 _100TA:
-    name: 100T Academy
+    name: 100 Thieves Academy
     jungler: Kenvi
 FLYA:
     name: FlyQuest Academy
-    jungler: nxi
+    jungler: Yuuji
 CLGA:
     name: CLG Academy
-    jungler: Keel
+    jungler: RoseThorn
 DIGA:
     name: Dignitas Academy
-    jungler: Will
+    jungler: eXyu
 TSMA:
     name: TSM Academy
     jungler: Hyper
 IMTA:
     name: Immortals Academy
-    jungler: AnDa
+    jungler: Chad
 
 # PCS
-ALF:
-    name: Alpha Esports
-    jungler: Kiy1n9
-BJD:
-    name: Berjaya Dragons
-    jungler: Arashi
 BYG:
     name: Beyond Gaming
     jungler: HuSha
-BME:
-    name: BOOM
+CFO:
+    name: CTBC Flying Oyster
+    jungler: Gemini
+DCG:
+    name: Deep Cross Gaming
+    jungler: Hana
+FAK:
+    name: Frank Esports
     jungler: Holo
-HKA:
-    name: Hong Kong Attitude
-    jungler: Kongyue
+HG:
+    name: Hurricane Gaming
+    jungler: aoliao
 IMP:
     name: Impunity
-    jungler: Epic
+    jungler: tako
 JT:
     name: J Team
-    jungler: Hana
-LYB:
-    name: Liyab Esports
-    jungler: DoeDoii
-MCX:
-    name: Machi Esports
-    jungler: Gemini
+    jungler: Kongyue
+MFT:
+    name: Meta Falcon Team
+    jungler: 665
 PSG:
     name: PSG Talon
-    jungler: River
+    jungler: Juhan
+S9:
+    name: SEM9
+    jungler: QaspieL
 
 # LDL
 SDX:
     name: Shu Dai Xiong Gaming
-    jungler: Yanxiang
+    jungler: Noregret
 BLGJ:
     name: Bilibili Gaming Junior
-    jungler: wowowo
+    jungler: can
 YM:
     name: Young Miracles
     jungler: Heng
@@ -307,7 +272,7 @@ V587:
     jungler: lvye23
 UPA:
     name: UP Academy
-    jungler: Yekai
+    jungler: whipser
 JDM:
     name: Joy Dream
     jungler: Xiao17
@@ -332,7 +297,7 @@ OMD:
 AC:
     name: All Combo
     jungler: Joy1
-TP:
+CHANGETHIS:
     name: Team Pinnacle
     jungler: Hook
 KSG:
@@ -351,100 +316,106 @@ WZ:
     name: WanZhen Esports Club
     jungler: yyy
 
+# Demacia cup
+BLI:
+    name: BLI
+    jungler: lizheng
 # LMF
-RIV:
-    name: River Plate
-    jungler: Shookz
-EVL:
-    name: Maycam Evolve
-    jungler: Winter
-SVG:
-    name: Savage Esports
-    jungler: Naz
-SL:
-    name: CASLA Esports
-    jungler: KinG
-UNP:
-    name: Uala New Pampas
-    jungler: Style
-WAP:
-    name: WAP Esports
-    jungler: OneSECOND
-STM:
-    name: Stone Movistar
-    jungler: Sabaneti
-NE:
-    name: Naguara Team
-    jungler: SryNotSry
-GET:
-    name: Globant Emerald
-    jungler: Follow
-EBG:
-    name: eBro Gaming
-    jungler: Ominick
-UBK:
-    name: Undead Gaming
-    jungler: Wiz
+_9Z:
+    name: 9z Team
+    jungler: isaN
 BOC:
     name: Boca Juniors
-    jungler: Volcanic Dog
+    jungler: Shookz
+EBG:
+    name: EBRO
+    jungler: Ocean
+KRU:
+    name: KRÜ Esports
+    jungler: Style
+LEV:
+    name: Leviatan Esports
+    jungler: Pancake
+MVG:
+    name: Malvinas Gaming
+    jungler: Rod
+EV:
+    name: Maycam Evolve
+    jungler: KinG
+PAM:
+    name: Pampas
+    jungler: Follow
+RIV:
+    name: River Plate
+    jungler: Xypherz
+STM:
+    name: Stone Movistar
+    jungler: Van
+UBK:
+    name: Undead Gaming
+    jungler: Naz
+WAP:
+    name: WAP Esports
+    jungler: Aug
+
 # LLA
 AK:
     name: All Knights
-    jungler: Pancake
+    jungler: CaD
 EST:
     name: Estral Esports
     jungler: Grell
-FG:
-    name: Furious
-    jungler: Bugi
+GET:
+    name: Globant Emerald
+    jungler: Froststrike
 INF:
-    name: INFINITY
+    name: Infinity Esports
     jungler: SolidSnake
 ISG:
     name: Isurus
-    jungler: Warangelus
-KLG:
-    name: Kaos Latin Gamers
-    jungler: LiquidDiego
+    jungler: Follow
 R7:
     name: Rainbow 7
     jungler: Oddie
-XTN:
-    name: XTEN
+AZE:
+    name: Team Aze
     jungler: Dimitry
+XTN:
+    name: XTEN Esports
+    jungler: Camilonicolau
 
 # TCL
-FB:
-    name: 1907 Fenerbache
-    jungler: SeongHwan
 _5R:
     name: 5 Ronin
-    jungler: BroCColi
+    jungler: Kireas
 BJK:
     name: Besiktas Esports
-    jungler: Robin
+    jungler: BroCColi
 DP:
     name: Dark Passage
     jungler: Typhoon
+FB:
+    name: Fenerbache Esports
+    jungler: Crash
 GAL:
     name: Galakticos
-    jungler: Elramir
+    jungler: Chloe
 GS:
-    name: Galatasaray Espor
+    name: Galatasaray Esports
     jungler: Mojito
 IW:
     name: fastpay Wildcats
     jungler: Ferret
 NSR:
     name: NASR Turkey
-    jungler: bonO
-SUP:
-    name: SuperMassive
-    jungler: kireas
+    jungler: Kirei
+SMB:
+    name: SuperMassive Blaze
+    jungler: Juuzou
 AUR:
     name: Team AURORA
-    jungler: Reifoas
+    jungler: Elramir
+
 # TCL Academy
 IWCA:
     name: IW Academy
@@ -455,54 +426,60 @@ SUPA:
 # LPLOL
 WD:
     name: White Dragons
-    jungler: LeChase
+    jungler: Mart
 BFC:
     name: Boavista FC
-    jungler: ReAt1vo
+    jungler: rnz
 EGN:
     name: EGN Esports
-    jungler: Sapphire
+    jungler: Time
 GTZ:
     name: GTZ Bulls
-    jungler: Densi
+    jungler: Gurklys
 OFF7:
     name: OFFSET Esports
-    jungler: Galben
+    jungler: yanjee
 FTW:
     name: For The Win Esports
     jungler: Own3r
-E5:
-    name: EFIVE Esports
-    jungler: Meraiel
+OSC:
+    name: Odivelas Sports Club
+    jungler: Raluxu
 KRM:
     name: Karma Clan Esports
-    jungler: Infinity
+    jungler: D4SH
 
 # Ultraliga
-PDW:
-    name: PDW
-    jungler: Bruness
 RGO:
     name: AGO Rogue
-    jungler: lurox
+    jungler: Rabble
 DV1:
-    name: Devils one
-    jungler: Diagu
+    name: devils.one
+    jungler: Sh4dowUS
+FSK:
+    name: Forsaken
+    jungler: Kanna
 GGM:
-    name: Gentlemans Gaming
-    jungler: Ben3k
+    name: Gentlemen's Gaming
+    jungler: Badlyyga
+GSK:
+    name: Goskilla
+    jungler: WRDN
 IHG:
     name: Illuminar Gaming
-    jungler: Chris
-K1:
-    name: K1CK Neosurf
-    jungler: Stefan
+    jungler: Adrian
+WOLF:
+    name: Iron Wolves
+    jungler: Krysia
 KNF:
-    name: KomilandFriends
+    name: Komil&Friends
     jungler: Yuta
 TEG:
     name: Team ESCA Gaming
-    jungler: Xeonerr
+    jungler: Ben3k
+Z10:
+    name: Zero Tenacity
+    jungler: Ryuzaki
 
 # LFL
 GO:
@@ -510,146 +487,143 @@ GO:
     jungler: Karim kt
 GW:
     name: GameWard
-    jungler: Memento
-IZI:
-    name: Izi Dream
-    jungler: Viking
+    jungler: Akabane
 KC:
     name: Karmine Corp
-    jungler: Cinkrof
+    jungler: 113
 LDLC:
     name: LDLC OL
-    jungler: Don Arts
+    jungler: Yike
+ME:
+    name: Mirage Elyandra
+    jungler: Memento
 MSFP:
     name: Misfits Premier
-    jungler: Shlatan
+    jungler: Zanzarah
 SLY:
     name: Solary
     jungler: Djoko
-BDS:
-    name: Team BDS
-    jungler: bluerzor
-MCES:
-    name: Team MCES
-    jungler: Boukada
+BDSA:
+    name: Team BDS Academy
+    jungler: Sheo
+OPL:
+    name: Team Oplon
+    jungler: Shernfire
 VITB:
     name: Vitality.Bee
     jungler: Skeanz
 # PrimeLeague
 BIG:
-    name: BIG
-    jungler: Akabane
+    name: Berlin International Gaming
+    jungler: Pabu
 EWI:
-    name: E WIE EINFACH
-    jungler: D4nKa
-ESG:
-    name: EURONICS Gaming
-    jungler: Lamabear
-S04E:
-    name: Schalke Evolution
+    name: E WIE EINFACH E-SPORTS
+    jungler: Afroboi
+EINS:
+    name: Eintracht Spandau
     jungler: Obsess
+S04:
+    name: Schalke 04
+    jungler: Isma
 GL:
     name: GamerLegion
-    jungler: rabble
+    jungler: D4nKa
 MOUZ:
     name: mousesports
-    jungler: Pridestalkr
+    jungler: Amazing
 PTA:
     name: PENTA 1860
     jungler: Rulfchen
 SKP:
     name: SK gaming Prime
-    jungler: Canee
+    jungler: Eckas
 USE:
-    name: UOL Sexy Edition
-    jungler: Kadir
+    name: Unicorns of Love Sexy Edition
+    jungler: Lurox
 WAVE:
     name: WAVE Esports
-    jungler: lyncas
+    jungler: MiraiX
 
 # NLC
-BTXL:
-    name: BT Excel
+ASTL:
+    name: Astralis Talent
+    jungler: Taxer
+BFR:
+    name: Bifrost
+    jungler: Diamondprox
+JDXL:
+    name: JDXL
     jungler: Dan
 DY:
     name: Dusty
-    jungler: Sawyor
-FNCR:
-    name: HMA Fnatic Rising
-    jungler: Maxi
-GOD:
-    name: Godsent
-    jungler: Aesthetic
-GRNT:
-    name: Granit Gaming
-    jungler: Indecision
-KOVA:
-    name: KOVA Esports
-    jungler: outlandisch
-GXR:
-    name: Galaxy Racer EU
-    jungler: Jejky
-NVD:
-    name: Nordavind
-    jungler: Sharp
-RSV:
-    name: Resolve
+    jungler: Lyncas
+MNM:
+    name: MNM Gaming
     jungler: Sof
+NKI:
+    name: NYYRIKKI
+    jungler: Flipper
 RDL:
     name: Riddle Esports
-    jungler: Afflict
+    jungler: Stefan
 SNG:
     name: Team Singularity
-    jungler: noltey
-TRC:
-    name: Tricked Esport
-    jungler: Taxer
+    jungler: pawp
+VNR:
+    name: Vanir
+    jungler: Kreox
+X7:
+    name: X7 Esports
+    jungler: MC
 
 # LVP SuperLiga
-BCN:
-    name: BCN Squad
-    jungler: Spooky
-BTS:
-    name: Cream Real Betis
-    jungler: Lebron
-EMZ:
-    name: eMonkeyz
-    jungler: Nyx
+BAR:
+    name: Barca eSports
+    jungler: Hades
+BSO:
+    name: BISONS ECLUB
+    jungler: Alby
+FNTQ:
+    name: Fnatic TQ
+    jungler: Maxi
 G2AR:
     name: G2 Artic
+    jungler: Alexx
+GIA:
+    name: Giants
+    jungler: Maxlore
+KOI:
+    name: KOI
     jungler: Koldo
 MADM:
     name: MAD Lions Madrid
-    jungler: Alexx
+    jungler: TynX
 MRS:
     name: Movistar Riders
-    jungler: Maxlore
-S2V:
-    name: S2V Esports
-    jungler: behave
-TQ:
-    name: Team Queso
-    jungler: Dahvys
+    jungler: Kadir
+HRTS:
+    name: Team Heretics
+    jungler: bluerzor
 UCAM:
-    name: UCAM Esports Club
-    jungler: Hades
-VGIA:
-    name: Vodafone Giants
-    jungler: 113
+    name: UCAM Tokiers
+    jungler: Nji
 
 # PG Nationals
+ATE:
+    name: Atleta Esport
+    jungler: MxDragon
 AXL:
     name: Axolotl
-    jungler: Ploxy
+    jungler: Jaunatis
 CGG:
     name: Cyberground
-    jungler: King
-GE:
-    name: Gala Esports
-    jungler: Rawbin IV
+    jungler: Ploxy
+EE:
+    name: Esport Empire
+    jungler: LeBron
 GGE:
     name: GGEsports
-    jungler: Souli
+    jungler: xeonerr
 MCK:
     name: Macko Esports
     jungler: Cboi
@@ -658,50 +632,63 @@ MKS:
     jungler: Flipper
 SMS:
     name: Samsung Morning Stars
-    jungler: WidowMaker
+    jungler: Noodle
 OP:
     name: aNc Outplayed
-    jungler: Lotus
+    jungler: Lotuss
 
 # EBL
-ASUS:
-    name: ASUS ROG ELITE
-    jungler: Flawless
+AUX:
+    name: Auxesis Esports
+    jungler: Hatred
 CZV:
     name: Crvena Zvezda Esports
-    jungler: Kanna
+    jungler: DoubleAIM
+CWE:
+    name: Cyber Wolves
+    jungler: King
+DIA:
+    name: Diamant Esports
+    jungler: Boby
 NXK:
     name: Nexus KTRL
-    jungler: mrcvl
-NKOS:
-    name: NK Osijek Esport
-    jungler: Fiko
+    jungler: Askan
+SVJ:
+    name: SOVEJA
+    jungler: Acrozo
 STR:
     name: Split Raiders
-    jungler: Velja
+    jungler: Dmitar
 VPG:
     name: Valiance
-    jungler: DoubleAiM
-X25:
-    name: x25 Esports
-    jungler: Frenzy
-Z10:
-    name: Zero Tenacity
-    jungler: Ryuzaki
+    jungler: Indecision
 
 # GLL
-GSMC:
-    name: Gamespace MCE
-    jungler: Kenapil
 ANO:
     name: Anorthosis Famagusta
     jungler: Dom1nant
-RFS:
-    name: Team Refuse
-    jungler: Exos
-TP2:
+GSMC:
+    name: Gamespace MCE
+    jungler: Fallen
+GOAL:
+    name: Olympiacos Alimou
+    jungler: Hatred
+TP:
     name: Team Phantasma
     jungler: Nikolex
+RFS:
+    name: Team Refuse
+    jungler: Kenapil
+UDG:
+    name: Umbra Divinus Gaming
+    jungler: Carnage
+WLG:
+    name: WLGaming Esports
+    jungler: Spooky
+ZRL:
+    name: Zerolag Esports
+    jungler: Cleanser
+
 # LJL
 AXZ:
     name: AXIZ
@@ -731,28 +718,28 @@ V3:
 # LCO
 CHF:
     name: Chiefs Esports
-    jungler: Swathe
+    jungler: Arthur
 DW:
     name: Dire Wolves
-    jungler: Only
+    jungler: Poltron
 GRV:
     name: Gravitas
-    jungler: Akano
-LGC:
-    name: Legacy Esports
-    jungler: Sybol
+    jungler: foreigner
+KNG:
+    name: Kanga Esports
+    jungler: SCOTT
 MMM:
     name: MAMMOTH
-    jungler: Goodo
+    jungler: Meifan
 ORD:
     name: ORDER
-    jungler: Kevy
+    jungler: Goodo
 PCE:
     name: PEACE
-    jungler: Babip
+    jungler: LeeSA
 PGG:
     name: Pentanet.GG
-    jungler: Pabu
+    jungler: BalKhan
 
 # LCL
 BSG:
@@ -783,54 +770,57 @@ VEG:
 # CBLOL
 FLA:
     name: Flamengo Esports
-    jungler: Ranger
+    jungler: asta
 FUR:
-    name: Furia Esports
-    jungler: Diamondprox
+    name: FURIA Esports
+    jungler: Ranger
 ITZ:
     name: INTZ
-    jungler: Sting
+    jungler: Yampi
 KBM:
     name: KaBuM! e-Sports
-    jungler: Ryan
+    jungler: Wiz
+LBR:
+    name: Liberty
+    jungler: Disamis
 LLL:
     name: LOUD
-    jungler: Mewkyo
+    jungler: Tay
 NMG:
     name: Netshoes Miners
-    jungler: Hugato
+    jungler: Croc
 PNG:
     name: paIN Gaming
-    jungler: Cariok
+    jungler: CarioK
 RED:
     name: RED Kalunga
     jungler: Aegis
 RNS:
     name: Rensga Esports
-    jungler: Croc
-VRX:
-    name: Vorax Liberty
-    jungler: Yampi
+    jungler: Minerva
 
 # CBLOL Academy
 FLAA:
     name: Flamengo Academy
-    jungler: asta
+    jungler: Ancrath
 FURA:
     name: FURIA Academy
     jungler: Goot
-NMGA:
-    name: Miners Academy
-    jungler: Sephis
 ITZA:
     name: INTZ Academy
-    jungler: vISAO
+    jungler: Soweto
 KBMA:
     name: KaBuM! Academy
     jungler: scary
+LBRA:
+    name: Liberty Academy
+    jungler: Drake
 LLLA:
     name: LOUD Academy
     jungler: enel1
+NMGA:
+    name: Miners Academy
+    jungler: Hugato
 PNGA:
     name: paIN Academy
     jungler: Accez
@@ -839,82 +829,66 @@ REDA:
     jungler: NiT Cesar
 RNSA:
     name: Rensga Academy
-    jungler: Erasus
-VRXA:
-    name: Vorax Academy
-    jungler: Disamis
+    jungler: Mousty
 
-# Belgian League
-ION:
-    name: Ion Squad
-    jungler: Flif
-GENK:
-    name: KRC Genk
-    jungler: Guertas
-KVM:
-    name: KV Mechelen
-    jungler: Urban
-S1:
-    name: Sector One
-    jungler: Albetrayber
-SGC:
-    name: Starlan Gaming Club
-    jungler: PatateVolante
-_7AM:
-    name: Team 7AM
-    jungler: KASAPINA
-
-# Dutch League
-DYN:
-    name: Dynasty
-    jungler: Jackie
-LION:
-    name: LowLandLions
-    jungler: dibu
+# Elite Series
 EZ:
     name: Echo Zulu
-    jungler: Yoft
+    jungler: Sjakal
+ION:
+    name: Ion Squad
+    jungler: Velja
+GENK:
+    name: KRC Genk Esports
+    jungler: Guertas
+KVM:
+    name: KVM Esports
+    jungler: Lian
+LION:
+    name: LowLandLions
+    jungler: Urban
 MCN:
-    name: mCon Rotterdam
-    jungler: Noodle
-PSV:
-    name: PSV Esports
-    jungler: Joekie
-TRL:
-    name: Team THRLL
-    jungler: Gaboesh
+    name: mCon LG UltraGear
+    jungler: Skude
+S1:
+    name: Sector One
+    jungler: dibu
+_7AM:
+    name: Team 7AM
+    jungler: OmulFinn
 
 # LCK CL
-AFC:
-    name: AF Challengers
-    jungler: Citrus
 DRXC:
     name: DRX Challengers
-    jungler: Peach
+    jungler: Sponge
 DKC:
     name: DWG KIA Challengers
     jungler: Lucid
 BROC:
     name: BRO Challengers
-    jungler: Jin0
+    jungler: Raptor
 GENC:
     name: GEN Challengers
-    jungler: Flawless
+    jungler: Winner
 HLEC:
     name: HLE Challengers
-    jungler: CaD
+    jungler: Seonbi
 KTC:
     name: KT Challengers
-    jungler: Bonnie
+    jungler: PangSu
+KDFC:
+    name: Kwangdong Freecs Challengers
+    jungler: Citrus
 LSBC:
     name: LSB Challengers
-    jungler: Seize
+    jungler: HamBak
 NSC:
     name: NS Challengers
-    jungler: Juhan
+    jungler: Sylvie
 T1C:
     name: T1 Challengers
-    jungler: Mowgli
+    jungler: Forest
+
 # GL
 BRR:
     name: Braves Rising
@@ -942,9 +916,6 @@ LDN:
 LCT:
     name: Lucent Esports
     jungler: Rydona
-MNM:
-    name: MnM Gaming
-    jungler: Gaduniker
 NV:
     name: NVision Esports
     jungler: Jaunatis
@@ -958,33 +929,105 @@ VIP:
 # Hitpoint Masters
 BRT:
     name: BRUTE
-    jungler: Petipino
+    jungler: Pact
 DTG:
     name: Dark Tigers
-    jungler: Rošťák
+    jungler: Sacrifice
 DNE:
     name: Dynamo Eclot
-    jungler: Fallen
+    jungler: Savero
 ESB:
     name: eSuba
+    jungler: Jejky
+OVA:
+    name: Cryptova
     jungler: Sacrifice
-INAE:
-    name: Inaequalis
-    jungler: Dinrok
 ING:
     name: Inside Games
-    jungler: Lagiah
+    jungler: Sentherus
 SIN:
     name: SINNERS Esports
-    jungler: Lian
-VIK:
-    name: Vikingekrig Esports
-    jungler: bedi
-# Baltic Masters
-GOEX:
-    name: Goexanimo
-    jungler: Homeless
-WOLF:
-    name: Topo Centras Iron Wolves
-    jungler: Julbu
+    jungler: SpeeDy
+EIQ:
+    name: Entropiq
+    jungler: Rames
 
+# LCK Academy
+DRXA:
+    name: DRX Academy
+    jungler:
+BROA:
+    name: BRO Academy
+    jungler: OHwiN
+HLEA:
+    name: HLE Academy
+    jungler: 051120
+KDFA:
+    name: KDF Academy
+    jungler: PYoChul
+LSBA:
+    name: Liiv SANDBOX Academy
+    jungler:
+NSA:
+    name: Nongshim Academy
+    jungler:
+T1A:
+    name: T1 Academy
+    jungler:
+# LHE
+UC:
+    name: Cruzados Esports
+    jungler: Lil Knight
+DHX:
+    name: Dark Horse
+    jungler: EXIMUS
+FG:
+    name: Furious Gaming
+    jungler: Camilonicolau
+MAZ:
+    name: Maze Gaming
+    jungler: 1Curioso
+MG:
+    name: Meta Gaming
+    jungler: Funky Dog
+MOX:
+    name: Movistar Optix
+    jungler: Tierwulf
+N5R:
+    name: Newstar
+    jungler: Higny
+RBT:
+    name: Rebirth eSports
+    jungler: AMBAN
+SW:
+    name: Santiago Wanderers eSports
+    jungler: Recon
+WCE:
+    name: Wolf Club Esports
+    jungler: NEGRONE
+
+# DDF
+ARCM:
+    name: Arctic Gaming Mexico
+    jungler: Chente
+ATH:
+    name: Atheris Esports
+    jungler: Adry
+MC2:
+    name: Atomic México
+    jungler: LiquidDiego
+PK:
+    name: PÊEK Gaming
+    jungler: Clantoz
+_6K:
+    name: Six Karma
+    jungler: DrLemon
+TK:
+    name: The Kings
+    jungler: Mataz
+_2MR:
+    name: Tomorrow Esports
+    jungler: Chikitow
+ZLT:
+    name: Zylant Esports
+    jungler: SlayerSupr
