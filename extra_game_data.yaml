@@ -12554,3 +12554,219 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 1
         firsttower: 0
+8960-8960_game_1:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    clid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8960-8960_game_2:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    clid:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8960-8960_game_3:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    clid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8962-8962_game_1:
+    tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8962-8962_game_2:
+    tian:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8963-8963_game_1:
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+8963-8963_game_2:
+    beishang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8963-8963_game_3:
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    sofm:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8964-8964_game_1:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8964-8964_game_2:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8968-8968_game_1:
+    karsa:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    clid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8968-8968_game_2:
+    karsa:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    clid:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+8969-8969_game_1:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    sofm:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8969-8969_game_2:
+    wei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    sofm:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8969-8969_game_3:
+    wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    sofm:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8970-8970_game_1:
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8970-8970_game_2:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+8970-8970_game_3:
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8971-8971_game_1:
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+8971-8971_game_2:
+    tian:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8972-8972_game_1:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    shad0w:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8972-8972_game_2:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    shad0w:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+8973-8973_game_1:
+    beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8973-8973_game_2:
+    beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    beishang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
