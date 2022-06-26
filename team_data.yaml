@@ -387,19 +387,19 @@ XTN:
 # TCL
 _5R:
     name: 5 Ronin
-    jungler: Kireas
+    jungler: merter77
 BJK:
     name: Besiktas Esports
-    jungler: BroCColi
+    jungler: Chloe
 DP:
     name: Dark Passage
     jungler: Typhoon
 FB:
     name: Fenerbache Esports
-    jungler: Crash
+    jungler: SeongHwan
 GAL:
     name: Galakticos
-    jungler: Chloe
+    jungler: BroCColi
 GS:
     name: Galatasaray Esports
     jungler: Mojito
@@ -408,10 +408,10 @@ IW:
     jungler: Ferret
 NSR:
     name: NASR Turkey
-    jungler: Kirei
+    jungler: Chieftain
 SMB:
     name: SuperMassive Blaze
-    jungler: Juuzou
+    jungler: Kireas
 AUR:
     name: Team AURORA
     jungler: Elramir
