@@ -361,19 +361,19 @@ WAP:
 # LLA
 AK:
     name: All Knights
-    jungler: CaD
+    jungler: Crash
 EST:
     name: Estral Esports
-    jungler: Grell
+    jungler: Bugi
 GET:
     name: Globant Emerald
-    jungler: Froststrike
+    jungler: Warangelus
 INF:
     name: Infinity Esports
     jungler: SolidSnake
 ISG:
     name: Isurus
-    jungler: Follow
+    jungler: Grell
 R7:
     name: Rainbow 7
     jungler: Oddie
@@ -382,7 +382,7 @@ AZE:
     jungler: Dimitry
 XTN:
     name: XTEN Esports
-    jungler: Camilonicolau
+    jungler: Seize
 
 # TCL
 _5R:
@@ -866,7 +866,7 @@ DKC:
     jungler: Lucid
 BROC:
     name: BRO Challengers
-    jungler: Raptor
+    jungler: Listo
 GENC:
     name: GEN Challengers
     jungler: Winner
