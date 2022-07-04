@@ -13247,3 +13247,48 @@ NA1/3916789614:
         firstdragon: 1
         firstherald: 0
         firsttower: 1
+8994-8994_game_1:
+    leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8994-8994_game_2:
+    leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+8994-8994_game_3:
+    leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    beishang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+8995-8995_game_1:
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    wei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+8995-8995_game_2:
+    h4cker:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
