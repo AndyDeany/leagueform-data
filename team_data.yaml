@@ -150,30 +150,30 @@ TT2:
     name: Thunder Talk Gaming
     jungler: Chieftain
 # VCS
+ASE:
+    name: AS Esports
+    jungler: Hyo
+CES:
+    name: CERBERUS Esports
+    jungler: Draktharr
 GAM:
     name: GAM Esports
     jungler: Levi
-TF:
-    name: Team Flash
-    jungler: Ikigai
-TS:
-    name: Team Secret
-    jungler: Penguin
-SE:
-    name: SBTC Esports
-    jungler: Spot
+GE:
+    name: Genius Esports
+    jungler: Yijin
 SGB:
     name: Saigon Buffalo Esports
     jungler: BeanJ
-LX:
-    name: Luxury Esports
+SE:
+    name: SBTC Esports
+    jungler: DNK
+TS:
+    name: Team Secret
+    jungler: Penguin
+TW:
+    name: Team Whales
     jungler: Killerqueen
-SKY:
-    name: Burst The Sky Esports
-    jungler: Draktharr
-CES:
-    name: CERBERUS Esports
-    jungler: Phuc1
 
 # NA Academy
 C9A:
