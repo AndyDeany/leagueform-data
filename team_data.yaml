@@ -210,7 +210,7 @@ IMTA:
 # PCS
 BYG:
     name: Beyond Gaming
-    jungler: Likai
+    jungler: HuSha
 CFO:
     name: CTBC Flying Oyster
     jungler: Gemini
@@ -231,13 +231,13 @@ JT:
     jungler: Kongyue
 MFT:
     name: Meta Falcon Team
-    jungler: 665
+    jungler: Renhao
 PSG:
     name: PSG Talon
     jungler: Burry
 S9:
     name: SEM9
-    jungler: QaspieL
+    jungler: Arashi
 
 # LDL
 SDX:
