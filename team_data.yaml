@@ -149,6 +149,9 @@ WBG:
 LGD2:
     name: LGD Kui
     jungler: Kui
+DRX2:
+    name: DRX Juhan
+    jungler: Juhan
 # VCS
 ASE:
     name: AS Esports
