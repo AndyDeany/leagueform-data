@@ -149,6 +149,9 @@ WBG:
 LGD2:
     name: LGD Kui
     jungler: Kui
+EDG2:
+    name: EDG Junjia
+    jungler: Junjia
 DRX2:
     name: DRX Juhan
     jungler: Juhan
