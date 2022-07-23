@@ -158,6 +158,9 @@ DRX2:
 V52:
     name: V5 XLB
     jungler: XLB
+WE2:
+    name: V5 View
+    jungler: View
 # VCS
 ASE:
     name: AS Esports
