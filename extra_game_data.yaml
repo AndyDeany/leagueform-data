@@ -14411,9 +14411,63 @@ NA1/3916789614:
 9314-9314_game_1:
     aki:
         firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9314-9314_game_2:
+    aki:
+        firstdragon: 1
         firstherald: 0
         firsttower: 1
     xiaohao:
         firstdragon: 0
         firstherald: 1
+        firsttower: 0
+9315-9315_game_1:
+    h4cker:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9315-9315_game_2:
+    h4cker:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    xun:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9315-9315_game_3:
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+9316-9316_game_1:
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    clid:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9316-9316_game_2:
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    clid:
+        firstdragon: 0
+        firstherald: 0
         firsttower: 0
