@@ -161,6 +161,9 @@ V52:
 WE2:
     name: V5 View
     jungler: View
+HLE2:
+    name: HLE Willy
+    jungler: Willer
 # VCS
 ASE:
     name: AS Esports
