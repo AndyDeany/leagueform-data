@@ -120,7 +120,7 @@ LNG:
     jungler: Tarzan
 V5:
     name: Victory Five
-    jungler: Karsa
+    jungler: XLB
 OMG:
     name: Oh My God
     jungler: Aki
@@ -156,8 +156,8 @@ DRX2:
     name: DRX Juhan
     jungler: Juhan
 V52:
-    name: V5 XLB
-    jungler: XLB
+    name: V5 Karsa
+    jungler: Karsa
 WE2:
     name: V5 View
     jungler: View
