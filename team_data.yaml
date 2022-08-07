@@ -132,7 +132,7 @@ RNG:
     jungler: Wei
 WE:
     name: Team WE
-    jungler: beishang
+    jungler: View
 TES:
     name: Top Esports
     jungler: Tian
@@ -159,8 +159,8 @@ V52:
     name: V5 Karsa
     jungler: Karsa
 WE2:
-    name: V5 View
-    jungler: View
+    name: V5 beishang
+    jungler: beishang
 HLE2:
     name: HLE Willy
     jungler: Willer
