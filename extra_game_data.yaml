@@ -14880,6 +14880,15 @@ NA1/3916789614:
     kanavi:
         firstdragon: 1
         firstherald: 1
+        firsttower: 1
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9336-9336_game_2:
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
         firsttower: 0
     xiaohao:
         firstdragon: 0
