@@ -114,7 +114,7 @@ JDG:
     jungler: Kanavi
 LGD:
     name: LGD Gaming
-    jungler: shad0w
+    jungler: Kui
 LNG:
     name: LNG Esports
     jungler: Tarzan
@@ -147,8 +147,8 @@ WBG:
     jungler: SofM
 # Subs
 LGD2:
-    name: LGD Kui
-    jungler: Kui
+    name: LGD shad0w
+    jungler: Shad0w
 EDG2:
     name: EDG Junjia
     jungler: Junjia
