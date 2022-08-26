@@ -15520,3 +15520,39 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
+9359-9359_game_1:
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    tarzan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9359-9359_game_2:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9359-9359_game_3:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9359-9359_game_4:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
