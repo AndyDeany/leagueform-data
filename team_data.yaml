@@ -224,7 +224,7 @@ IMTA:
 
 # PCS
 BYG:
-    name: Mega Bank Beyond Gaming
+    name: Beyond Gaming
     jungler: HuSha
 CFO:
     name: CTBC Flying Oyster
@@ -419,7 +419,7 @@ GS:
     name: Galatasaray Esports
     jungler: Mojito
 IW:
-    name: DenizBank İstanbul Wildcats
+    name: Istanbul Wildcats
     jungler: Ferret
 NSR:
     name: NASR Turkey
@@ -732,7 +732,7 @@ V3:
 
 # LCO
 CHF:
-    name: The Chiefs
+    name: Chiefs Esports Club
     jungler: Arthur
 DW:
     name: Dire Wolves
