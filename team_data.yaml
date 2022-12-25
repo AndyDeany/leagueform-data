@@ -65,7 +65,7 @@ TSM:
 # LCK
 DRX:
     name: DRX
-    jungler: Pyosik
+    jungler: Croco
 DK:
     name: DWG KIA
     jungler: Canyon
@@ -77,19 +77,19 @@ GEN:
     jungler: Peanut
 HLE:
     name: Hanwha Life Esports
-    jungler: OnFleek
+    jungler: Clid
 KT:
     name: KT Rolster
     jungler: Cuzz
 KDF:
     name: Kwangdong Freecs
-    jungler: Ellim
+    jungler: YoungJae
 LSB:
     name: Liiv Sandbox
-    jungler: Croco
+    jungler: Willer
 NS:
     name: Nongshim Redforce
-    jungler: Dread
+    jungler: Sylvie
 T1:
     name: T1
     jungler: Oner
