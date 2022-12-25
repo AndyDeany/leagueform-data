@@ -1,34 +1,34 @@
 # LEC
 AST:
     name: Astralis
-    jungler: Xerxe
+    jungler: 113
 XL:
     name: Excel
-    jungler: Markoon
-BDS:
-    name: Team BDS
-    jungler: Cinkrof
+    jungler: Xerxe
 FNC:
     name: Fnatic
     jungler: Razork
 G2:
     name: G2 Esports
-    jungler: Jankos
+    jungler: Yike
+KOI:
+    name: KOI
+    jungler: Malrang
 MAD:
     name: MAD Lions
     jungler: Elyoya
-MSF:
-    name: Misfits Gaming
-    jungler: Shlatan
-RGE:
-    name: Rogue
-    jungler: Malrang
 SK:
     name: SK Gaming
-    jungler: Gilius
+    jungler: Markoon
+BDS:
+    name: Team BDS
+    jungler: Sheo
+TH:
+    name: Team Heretics
+    jungler: Jankos
 VIT:
     name: Team Vitality
-    jungler: Haru
+    jungler: Bo
 
 # LCS
 _100T:
@@ -592,9 +592,6 @@ G2AR:
 GIA:
     name: Giants
     jungler: Maxlore
-KOI:
-    name: KOI
-    jungler: Koldo
 MADM:
     name: MAD Lions Madrid
     jungler: TynX
