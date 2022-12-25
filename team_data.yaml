@@ -99,28 +99,25 @@ AL:
     jungler: xiaohao
 BLG:
     name: Bilibili Gaming
-    jungler: Weiwei
+    jungler: Xun
 EDG:
     name: EDward Gaming
     jungler: jiejie
 FPX:
     name: FunPlus Phoenix
-    jungler: Clid
+    jungler: Haoye
 IG:
     name: Invictus Gaming
-    jungler: XUN
+    jungler: GIDEON
 JDG:
     name: JD Gaming
     jungler: Kanavi
 LGD:
     name: LGD Gaming
-    jungler: shad0w
+    jungler: Meteor
 LNG:
     name: LNG Esports
     jungler: Tarzan
-V5:
-    name: Victory Five
-    jungler: Karsa
 OMG:
     name: Oh My God
     jungler: Aki
@@ -132,7 +129,7 @@ RNG:
     jungler: Wei
 WE:
     name: Team WE
-    jungler: beishang
+    jungler: Heng
 TES:
     name: Top Esports
     jungler: Tian
@@ -141,10 +138,13 @@ TT:
     jungler: Beichuan
 UP:
     name: Ultra Prime
-    jungler: H4cker
+    jungler: Ning
+V5:
+    name: Victory Five
+    jungler: XLB
 WBG:
     name: Weibo Gaming
-    jungler: SofM
+    jungler: Karsa
 # Subs
 TT2:
     name: Thunder Talk Gaming
