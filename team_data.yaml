@@ -41,26 +41,26 @@ CLG:
     name: Counter Logic Gaming
     jungler: Contractz
 DIG:
-    name: Dignitas QNTMPAY
-    jungler: River
+    name: Dignitas
+    jungler: Santorin
 EG:
     name: Evil Geniuses
     jungler: Inspired
 FLY:
     name: FlyQuest
-    jungler: Josedeodo
+    jungler: Spica
 GG:
     name: Golden Guardians
-    jungler: Pridestalker
+    jungler: River
 IMT:
     name: Immortals Progressive
-    jungler: Xerxe
+    jungler: Kenvi
 TL:
     name: Team Liquid
-    jungler: Santorin
+    jungler: Pyosik
 TSM:
     name: TSM
-    jungler: Spica
+    jungler: Bugi
 
 # LCK
 DRX:
