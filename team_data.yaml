@@ -17,15 +17,6 @@ KOI:
 MAD:
     name: MAD Lions
     jungler: Elyoya
-<<<<<<< HEAD
-=======
-MSF:
-    name: Misfits Gaming
-    jungler: Zanzarah
-RGE:
-    name: Rogue
-    jungler: Malrang
->>>>>>> e053b947d370033274f7ac620e04a05ccd01f116
 SK:
     name: SK Gaming
     jungler: Markoon
@@ -51,11 +42,7 @@ CLG:
     jungler: Contractz
 DIG:
     name: Dignitas
-<<<<<<< HEAD
     jungler: Santorin
-=======
-    jungler: Exyu
->>>>>>> e053b947d370033274f7ac620e04a05ccd01f116
 EG:
     name: Evil Geniuses
     jungler: Inspired
@@ -69,13 +56,8 @@ IMT:
     name: Immortals Progressive
     jungler: Kenvi
 TL:
-<<<<<<< HEAD
     name: Team Liquid
     jungler: Pyosik
-=======
-    name: Team Liquid Honda
-    jungler: Santorin
->>>>>>> e053b947d370033274f7ac620e04a05ccd01f116
 TSM:
     name: TSM
     jungler: Bugi
@@ -88,7 +70,7 @@ DK:
     name: DWG KIA
     jungler: Canyon
 BRO:
-    name: Fredit BRION
+    name: BRION
     jungler: UmTi
 GEN:
     name: Gen.G
@@ -117,17 +99,13 @@ AL:
     jungler: xiaohao
 BLG:
     name: Bilibili Gaming
-<<<<<<< HEAD
     jungler: Xun
-=======
-    jungler: weiwei
->>>>>>> e053b947d370033274f7ac620e04a05ccd01f116
 EDG:
     name: Edward Gaming Hycan
     jungler: Jiejie
 FPX:
     name: FunPlus Phoenix
-    jungler: Haoye
+    jungler: H4cker
 IG:
     name: Invictus Gaming
     jungler: GIDEON
@@ -136,20 +114,10 @@ JDG:
     jungler: Kanavi
 LGD:
     name: LGD Gaming
-<<<<<<< HEAD
     jungler: Meteor
 LNG:
     name: LNG Esports
     jungler: Tarzan
-=======
-    jungler: Kui
-LNG:
-    name: LNG Esports
-    jungler: Tarzan
-V5:
-    name: Victory Five
-    jungler: XLB
->>>>>>> e053b947d370033274f7ac620e04a05ccd01f116
 OMG:
     name: Oh My God
     jungler: Aki
@@ -161,11 +129,7 @@ RNG:
     jungler: Wei
 WE:
     name: Team WE
-<<<<<<< HEAD
     jungler: Heng
-=======
-    jungler: View
->>>>>>> e053b947d370033274f7ac620e04a05ccd01f116
 TES:
     name: Top Esports
     jungler: Tian
