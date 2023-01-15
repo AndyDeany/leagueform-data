@@ -15673,3 +15673,48 @@ ESPORTSTMNT05_2980235:
         firstdragon: 1
         firstherald: 1
         firsttower: 0
+9670-9670_game_1:
+    Darwin:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    Heng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9670-9670_game_2:
+    Darwin:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    Heng:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9671-9671_game_1:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9671-9671_game_2:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    Aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9671-9671_game_3:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    Aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
