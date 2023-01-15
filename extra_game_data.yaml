@@ -15718,3 +15718,12 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 0
+9672-9672_game_1:
+    geju:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
