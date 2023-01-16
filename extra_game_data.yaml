@@ -16024,3 +16024,156 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 0
+9691-9691_game_1:
+    haoye:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Heng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+9691-9691_game_2:
+    haoye:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Heng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9691-9691_game_3:
+    haoye:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    Heng:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+9692-9692_game_1:
+    xiaohao:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    gideon:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9692-9692_game_2:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    gideon:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+9693-9693_game_1:
+    xun:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+9693-9693_game_2:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    kanavi:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9693-9693_game_3:
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    kanavi:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9694-9694_game_1:
+    meteor:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9694-9694_game_2:
+    meteor:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9694-9694_game_3:
+    meteor:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+9695-9695_game_1:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+9695-9695_game_2:
+    wei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9696-9696_game_1:
+    Ning:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    XLB:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+9696-9696_game_2:
+    Ning:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    XLB:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+9697-9697_game_1:
+    Heng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+9697-9697_game_2:
+    Heng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    jiejie:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
