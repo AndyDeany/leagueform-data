@@ -16177,3 +16177,21 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
+9698-9698_game_1:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    Xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9698-9698_game_2:
+    Tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    Xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
