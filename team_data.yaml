@@ -463,35 +463,34 @@ OSC:
 KRM:
     name: Karma Clan Esports
     jungler: D4SH
-
 # Ultraliga
-RGO:
-    name: AGO Rogue
-    jungler: Rabble
-DV1:
-    name: devils.one
-    jungler: Sh4dowUS
+AB:
+    name: Alior Bank Team
+    jungler: Krazler
+EXD:
+    name: exeed
+    jungler: xeonerr
+GRP:
+    name: Grypciocraft Esports
+    jungler: behave
 FSK:
     name: Forsaken
-    jungler: Diagu
-GGM:
-    name: Gentlemen's Gaming
-    jungler: Badlyyga
+    jungler: Jaunatis
 GSK:
     name: Goskilla
-    jungler: WRDN
+    jungler: Savero
 IHG:
     name: Illuminar Gaming
-    jungler: Adrian
+    jungler: Krysia
 WOLF:
     name: Iron Wolves
-    jungler: Krysia
+    jungler: Badlyyga
 KNF:
     name: Komil&Friends
-    jungler: Witek
+    jungler: Ketim
 TEG:
     name: Team ESCA Gaming
-    jungler: Ben3k
+    jungler: Uciu
 Z10:
     name: Zero Tenacity
     jungler: Ryuzaki
