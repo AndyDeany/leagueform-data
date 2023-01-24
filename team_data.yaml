@@ -728,29 +728,29 @@ V3:
 
 # LCO
 CHF:
-    name: The Chiefs
-    jungler: Arthur
+    name: Chiefs Esports Club
+    jungler: Babip
 DW:
     name: Dire Wolves
     jungler: Poltron
-GRV:
-    name: Gravitas
-    jungler: Llenia
+GZ:
+    name: Ground Zero Gaming
+    jungler: Gooby
 KNG:
     name: Kanga Esports
-    jungler: foreigner
+    jungler: Meifan
 MMM:
     name: MAMMOTH
-    jungler: Meifan
-ORD:
-    name: ORDER
-    jungler: Goodo
+    jungler: Akano
+TB:
+    name: Team Bliss
+    jungler: Whynot
 PCE:
     name: PEACE
-    jungler: LeeSA
+    jungler: Ko1eee
 PGG:
     name: Pentanet.GG
-    jungler: BalKhan
+    jungler: Shernfire
 
 # LCL
 BSG:
