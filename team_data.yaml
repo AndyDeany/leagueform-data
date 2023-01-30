@@ -811,36 +811,36 @@ RNS:
     jungler: Erasus
 
 # CBLOL Academy
-FLAA:
-    name: Flamengo Academy
-    jungler: Sting
-FURA:
-    name: FURIA Academy
-    jungler: Stiner
-ITZA:
-    name: INTZ Academy
-    jungler: Soweto
 KBMA:
     name: KaBuM! Academy
-    jungler: scary
+    jungler: Samkz
+REDA:
+    name: RED Academy
+    jungler: Soweto
+VKSA:
+    name: Vivo Keyd Stars Academy
+    jungler: Sting
+FXA:
+    name: Fluxo Academy
+    jungler: Ancrath
+FURA:
+    name: FURIA Academy
+    jungler: StineR
+LOSA:
+    name: Los Grandes Academy
+    jungler: enel1
+PNGA:
+    name: paiN Gaming Academy
+    jungler: Anato
+ITZA:
+    name: INTZ Academy
+    jungler: Tatu
 LBRA:
     name: Liberty Academy
     jungler: Drake
 LLLA:
     name: LOUD Academy
-    jungler: enel1
-NMGA:
-    name: Miners Academy
-    jungler: Tatu
-PNGA:
-    name: paIN Academy
-    jungler: Accez
-REDA:
-    name: RED Academy
-    jungler: Dizin
-RNSA:
-    name: Rensga Academy
-    jungler: LrK
+    jungler: Mousty
 
 # Elite Series
 EZ:
