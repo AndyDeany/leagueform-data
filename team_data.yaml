@@ -463,34 +463,35 @@ OSC:
 KRM:
     name: Karma Clan Esports
     jungler: D4SH
+
 # Ultraliga
-AB:
-    name: Alior Bank Team
-    jungler: Krazler
-EXD:
-    name: exeed
-    jungler: xeonerr
-GRP:
-    name: Grypciocraft Esports
-    jungler: behave
+RGO:
+    name: AGO Rogue
+    jungler: Rabble
+DV1:
+    name: devils.one
+    jungler: Sh4dowUS
 FSK:
     name: Forsaken
-    jungler: Jaunatis
+    jungler: Diagu
+GGM:
+    name: Gentlemen's Gaming
+    jungler: Badlyyga
 GSK:
     name: Goskilla
-    jungler: Savero
+    jungler: WRDN
 IHG:
     name: Illuminar Gaming
-    jungler: Krysia
+    jungler: Adrian
 WOLF:
     name: Iron Wolves
-    jungler: Badlyyga
+    jungler: Krysia
 KNF:
     name: Komil&Friends
-    jungler: Ketim
+    jungler: Witek
 TEG:
     name: Team ESCA Gaming
-    jungler: Uciu
+    jungler: Ben3k
 Z10:
     name: Zero Tenacity
     jungler: Ryuzaki
@@ -728,29 +729,29 @@ V3:
 
 # LCO
 CHF:
-    name: Chiefs Esports Club
-    jungler: Babip
+    name: The Chiefs
+    jungler: Arthur
 DW:
     name: Dire Wolves
     jungler: Poltron
-GZ:
-    name: Ground Zero Gaming
-    jungler: Gooby
+GRV:
+    name: Gravitas
+    jungler: Llenia
 KNG:
     name: Kanga Esports
-    jungler: Meifan
+    jungler: foreigner
 MMM:
     name: MAMMOTH
-    jungler: Akano
-TB:
-    name: Team Bliss
-    jungler: Whynot
+    jungler: Meifan
+ORD:
+    name: ORDER
+    jungler: Goodo
 PCE:
     name: PEACE
-    jungler: Ko1eee
+    jungler: LeeSA
 PGG:
     name: Pentanet.GG
-    jungler: Shernfire
+    jungler: BalKhan
 
 # LCL
 BSG:
@@ -811,36 +812,36 @@ RNS:
     jungler: Erasus
 
 # CBLOL Academy
-KBMA:
-    name: KaBuM! Academy
-    jungler: Samkz
-REDA:
-    name: RED Academy
-    jungler: Soweto
-VKSA:
-    name: Vivo Keyd Stars Academy
+FLAA:
+    name: Flamengo Academy
     jungler: Sting
-FXA:
-    name: Fluxo Academy
-    jungler: Ancrath
 FURA:
     name: FURIA Academy
-    jungler: StineR
-LOSA:
-    name: Los Grandes Academy
-    jungler: enel1
-PNGA:
-    name: paiN Gaming Academy
-    jungler: Anato
+    jungler: Stiner
 ITZA:
     name: INTZ Academy
-    jungler: Tatu
+    jungler: Soweto
+KBMA:
+    name: KaBuM! Academy
+    jungler: scary
 LBRA:
     name: Liberty Academy
     jungler: Drake
 LLLA:
     name: LOUD Academy
-    jungler: Mousty
+    jungler: enel1
+NMGA:
+    name: Miners Academy
+    jungler: Tatu
+PNGA:
+    name: paIN Academy
+    jungler: Accez
+REDA:
+    name: RED Academy
+    jungler: Dizin
+RNSA:
+    name: Rensga Academy
+    jungler: LrK
 
 # Elite Series
 EZ:

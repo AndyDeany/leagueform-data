@@ -16285,3 +16285,39 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 0
+9703-9703_game_1:
+    Meteor:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    Aki:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+9703-9703_game_2:
+    Meteor:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    Aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+9704-9704_game_1:
+    Leyan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    XLB:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9704-9704_game_2:
+    Leyan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    XLB:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
