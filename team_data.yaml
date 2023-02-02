@@ -400,36 +400,30 @@ XTN:
     jungler: Seize
 
 # TCL
-_5R:
-    name: 5 Ronin
-    jungler: merter77
+IW:
+    name: Istanbul Wildcats
+    jungler: Elramir
+SUP:
+    name: Papara SuperMassive
+    jungler: Haru
 BJK:
     name: Besiktas Esports
-    jungler: Elramir
+    jungler: Kireas
 DP:
     name: Dark Passage
-    jungler: Typhoon
-FB:
-    name: Fenerbache Esports
-    jungler: SeongHwan
+    jungler: Stomaged
+FUT:
+    name: FUT Esports
+    jungler: Mojito
 GAL:
     name: Galakticos
-    jungler: BroCColi
-GS:
-    name: Galatasaray Esports
-    jungler: Mojito
-IW:
-    name: DenizBank İstanbul Wildcats
-    jungler: Ferret
+    jungler: Rames
+5R:
+    name: 5 Ronin
+    jungler: Chef
 NSR:
-    name: NASR Turkey
-    jungler: Chieftain
-SMB:
-    name: SuperMassive Blaze
-    jungler: Kireas
-AUR:
-    name: Team AURORA
-    jungler: AzizYıldırım
+    name: NASR eSports Turkey
+    jungler: Typhoon
 
 # TCL Academy
 IWCA:
