@@ -774,9 +774,9 @@ VEG:
     jungler: Souli
 
 # CBLOL
-FLA:
-    name: Flamengo Esports
-    jungler: Ranger
+FX:
+    name: Fluxo
+    jungler: Disamis
 FUR:
     name: FURIA Esports
     jungler: Goot
@@ -785,25 +785,25 @@ ITZ:
     jungler: Yampi
 KBM:
     name: KaBuM! e-Sports
-    jungler: Wiz
+    jungler: scary
 LBR:
     name: Liberty
-    jungler: Disamis
+    jungler: Accez
+LOS:
+    name: Los Grandes
+    jungler: Ranger
 LLL:
     name: LOUD
     jungler: Croc
-NMG:
-    name: Netshoes Miners
-    jungler: Hugato
 PNG:
     name: paIN Gaming
     jungler: CarioK
 RED:
     name: RED Kalunga
     jungler: Aegis
-RNS:
-    name: Rensga Esports
-    jungler: Erasus
+VKS:
+    name: Vivo Keyd Stars
+    jungler: Hugato
 
 # CBLOL Academy
 KBMA:
