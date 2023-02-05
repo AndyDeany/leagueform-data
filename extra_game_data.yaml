@@ -16483,3 +16483,84 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 0
+9717-9717_game_2:
+    Meteor:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    xiaohao:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+9719-9719_game_1:
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    Heng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+9719-9719_game_2:
+    aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    Heng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9720-9720_game_1:
+    gideon:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    beichuan:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+9720-9720_game_2:
+    gideon:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    beichuan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+9720-9720_game_3:
+    gideon:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    beichuan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9721-9721_game_1:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    karsa:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9721-9721_game_2:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    karsa:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9721-9721_game_3:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    karsa:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
