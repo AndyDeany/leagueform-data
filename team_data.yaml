@@ -925,32 +925,31 @@ VIP:
     name: Viperio
     jungler: JonnyREcco
 
-# Hitpoint Masters
-BRT:
-    name: BRUTE
-    jungler: Pact
-DTG:
-    name: Dark Tigers
-    jungler: Gorny
+# HPM
+EIQ:
+    name: Entropiq
+    jungler: Zicssi
 DNE:
     name: Dynamo Eclot
-    jungler: Savero
+    jungler: Jejky
 ESB:
     name: eSuba
-    jungler: Jejky
+    jungler: TynX
+SIN:
+    name: SINNERS Esports
+    jungler: Speedy
+BRT:
+    name: BRUTE
+    jungler: hainess
 OVA:
     name: Cryptova
-    jungler: Sacrifice
+    jungler: Kokos
+SMP:
+    name: Team Sampi
+    jungler: Zubac
 ING:
     name: Inside Games
     jungler: Shyelander
-SIN:
-    name: SINNERS Esports
-    jungler: SpeeDy
-EIQ:
-    name: Entropiq
-    jungler: Rames
-
 # LCK Academy
 DRXA:
     name: DRX Academy
