@@ -554,37 +554,30 @@ WAVE:
     jungler: MiraiX
 
 # NLC
-ASTL:
-    name: Astralis Talent
-    jungler: Taxer
-BFR:
-    name: Bifrost
-    jungler: Faith
-JDXL:
-    name: JDXL
-    jungler: Dan
-DY:
-    name: Dusty
-    jungler: Lyncas
-MNM:
-    name: MNM Gaming
-    jungler: Sof
-NKI:
-    name: NYYRIKKI
-    jungler: Flipper
+NORD:
+    name: NORD Esports
+    jungler: Akabane
 RDL:
     name: Riddle Esports
-    jungler: Stefan
-SNG:
-    name: Team Singularity
-    jungler: Scroody
+    jungler: yoHan
+RUD:
+    name: Ruddy Esports
+    jungler: noname
+VER:
+    name: Verdant
+    jungler: Taxer
+UNIQ:
+    name: UniQ Esports Club
+    jungler: Antwere
 VNR:
     name: Vanir
-    jungler: Kreox
-X7:
-    name: X7 Esports
-    jungler: MC
-
+    jungler: Ploxy
+DMN:
+    name: Domino esports
+    jungler: Flowing
+NT:
+    name: Nativz
+    jungler: Flawed
 # LVP SuperLiga
 BAR:
     name: Barca eSports
