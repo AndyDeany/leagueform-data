@@ -16915,3 +16915,75 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 0
         firsttower: 0
+9738-9738_game_1:
+    xlb:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9738-9738_game_2:
+    xlb:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    tarzan:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+9738-9738_game_3:
+    xlb:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    tarzan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9739-9739_game_1:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    heng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9739-9739_game_2:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    heng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+9739-9739_game_3:
+    wei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    heng:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+9740-9740_game_1:
+    xun:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+9740-9740_game_2:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
