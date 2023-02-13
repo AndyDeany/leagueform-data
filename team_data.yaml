@@ -799,36 +799,36 @@ VKS:
     jungler: Hugato
 
 # CBLOL Academy
-KBMA:
-    name: KaBuM! Academy
-    jungler: Samkz
-REDA:
-    name: RED Academy
-    jungler: Soweto
-VKSA:
-    name: Vivo Keyd Stars Academy
-    jungler: Sting
 FXA:
     name: Fluxo Academy
     jungler: Ancrath
 FURA:
     name: FURIA Academy
     jungler: StineR
-LOSA:
-    name: Los Grandes Academy
-    jungler: enel1
-PNGA:
-    name: paiN Gaming Academy
-    jungler: Anato
 ITZA:
     name: INTZ Academy
     jungler: Tatu
+KBMA:
+    name: KaBuM! Academy
+    jungler: Samkz
 LBRA:
     name: Liberty Academy
     jungler: Drake
+LOSA:
+    name: Los Grandes Academy
+    jungler: enel1
 LLLA:
     name: LOUD Academy
     jungler: Mousty
+PNGA:
+    name: paiN Gaming Academy
+    jungler: Anato
+REDA:
+    name: RED Academy
+    jungler: Soweto
+VKSA:
+    name: Vivo Keyd Stars Academy
+    jungler: Sting
 
 # Elite Series
 EZ:
