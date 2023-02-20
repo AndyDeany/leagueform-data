@@ -17208,10 +17208,12 @@ ESPORTSTMNT05_2980235:
         firstdragon: 1
         firstherald: 1
         firsttower: 0
+        firstblood: 1
     kanavi:
         firstdragon: 0
         firstherald: 0
         firsttower: 1
+        firstblood: 0
 9751-9751_game_3:
     gideon:
         firstdragon: 1
@@ -17262,10 +17264,12 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 0
+        firstblood: 0
     karsa:
         firstdragon: 1
         firstherald: 0
         firsttower: 1
+        firstblood: 1
 9754-9754_game_1:
     tarzan:
         firstdragon: 1
