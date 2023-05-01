@@ -17675,3 +17675,111 @@ ESPORTSTMNT05_2980235:
         firstdragon: 1
         firstherald: 0
         firsttower: 0
+10014-10014_game_1:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    kanavi:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+10014-10014_game_2:
+    jiejie:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    kanavi:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+10014-10014_game_3:
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10015-10015_game_1:
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10015-10015_game_2:
+    jiejie:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10015-10015_game_3:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+10015-10015_game_4:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+10015-10015_game_5:
+    jiejie:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+10016-10016_game_1:
+    kanavi:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+10016-10016_game_2:
+    kanavi:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+10016-10016_game_3:
+    kanavi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+10016-10016_game_4:
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    xun:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
