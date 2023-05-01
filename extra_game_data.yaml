@@ -17630,3 +17630,48 @@ ESPORTSTMNT05_2980235:
         firstdragon: 1
         firstherald: 1
         firsttower: 1
+10013-10013_game_1:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+10013-10013_game_2:
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+10013-10013_game_3:
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+10013-10013_game_4:
+    xun:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+10013-10013_game_5:
+    xun:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    aki:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
