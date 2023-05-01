@@ -18107,3 +18107,21 @@ ESPORTSTMNT05_2980235:
         firstdragon: 1
         firstherald: 0
         firsttower: 1
+9989-9989_game_1:
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    ning:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+9989-9989_game_2:
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    ning:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
