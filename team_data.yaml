@@ -33,34 +33,31 @@ VIT:
 # LCS
 _100T:
     name: 100 Thieves
-    jungler: Closer
+    jungler: River
 C9:
     name: Cloud9
     jungler: Blaber
+DIG:
+    name: Dignitas
+    jungler: eXyu
 CLG:
     name: CLG
     jungler: Contractz
-DIG:
-    name: Dignitas
-    jungler: Santorin
-EG:
-    name: Evil Geniuses
-    jungler: Inspired
 FLY:
     name: FlyQuest
-    jungler: Spica
-GG:
-    name: Golden Guardians
-    jungler: River
+    jungler: Inspired
 IMT:
     name: Immortals Progressive
     jungler: Kenvi
+NRG:
+    name: NRG KIA
+    jungler: River
+SR:
+    name: Shopfiy Rebellion
+    jungler: Bugi
 TL:
     name: Team Liquid Honda
     jungler: Pyosik
-TSM:
-    name: TSM
-    jungler: Bugi
 
 # LCK
 DK:
