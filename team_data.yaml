@@ -854,12 +854,12 @@ _7AM:
     jungler: OmulFinn
 
 # LCK CL
+DKC:
+    name: DK Challengers
+    jungler: Sharvel
 DRXC:
     name: DRX Challengers
-    jungler: Sponge
-DKC:
-    name: DWG KIA Challengers
-    jungler: Lucid
+    jungler: Kania
 BROC:
     name: BRO Challengers
     jungler: Raptor
