@@ -1,25 +1,25 @@
 # LEC
-AST:
-    name: Astralis
-    jungler: 113
-XL:
-    name: Excel
-    jungler: Xerxe
 FNC:
     name: Fnatic
     jungler: Razork
 G2:
     name: G2 Esports
     jungler: Yike
-KOI:
-    name: KOI
-    jungler: Malrang
+GX:
+    name: GIANTX
+    jungler: 113
+KC:
+    name: Karmine Corp
+    jungler: Bo
 MAD:
-    name: MAD Lions
+    name: MAD Lions KOI
     jungler: Elyoya
+RGE:
+    name: Rogue
+    jungler: Markoon
 SK:
     name: SK Gaming
-    jungler: Markoon
+    jungler: ISMA
 BDS:
     name: Team BDS
     jungler: Sheo
@@ -28,7 +28,7 @@ TH:
     jungler: Jankos
 VIT:
     name: Team Vitality
-    jungler: Bo
+    jungler: Daglas
 
 # LCS
 _100T:
@@ -497,8 +497,8 @@ GO:
 GW:
     name: GameWard
     jungler: Akabane
-KC:
-    name: Karmine Corp
+KCB:
+    name: Karmine Corp Blue
     jungler: 113
 LDLC:
     name: LDLC OL
