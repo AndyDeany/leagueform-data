@@ -18386,3 +18386,248 @@ ESPORTSTMNT05_2980235:
         firstdragon: 1
         firstherald: 1
         firsttower: 0
+10672-10672_game_1:
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    beichuan:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+10672-10672_game_2:
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+10672-10672_game_3:
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    beichuan:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+10681-10681_game_1:
+    xiaofang:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+10681-10681_game_2:
+    xiaofang:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+10689-10689_game_1:
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    xiaohao:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+10689-10689_game_2:
+    xiaohao:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+10689-10689_game_3:
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    xiaohao:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10697-10697_game_1:
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+        firstblood: 0
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+        firstblood: 1
+10697-10697_game_2:
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10697-10697_game_3:
+    kanavi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+10702-10702_game_1:
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+10702-10702_game_2:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+10702-10702_game_3:
+    xun:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+10761-10761_game_1:
+    milkyway:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+10761-10761_game_2:
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+    milkyway:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+10761-10761_game_3:
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    milkyway:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+10770-10770_game_1:
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    tian:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10770-10770_game_2:
+    tian:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+10776-10776_game_1:
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+10776-10776_game_2:
+    aki:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    weiwei:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+10776-10776_game_3:
+    aki:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+10782-10782_game_1:
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
+    wei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+10782-10782_game_2:
+    wei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10790-10790_game_1:
+    weiwei:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    h4cker:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+10790-10790_game_2:
+    h4cker:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+    weiwei:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+10790-10790_game_3:
+    weiwei:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    h4cker:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
