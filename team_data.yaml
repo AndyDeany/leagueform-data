@@ -114,13 +114,16 @@ LGD:
     jungler: Meteor
 LNG:
     name: Suzhou LNG Esports
-    jungler: Tarzan
+    jungler: Weiwei
+NIP:
+    name: Ninjas in Pyjamas.CN
+    jungler: Aki
 OMG:
     name: Oh My God
-    jungler: Aki
+    jungler: xiaofang
 RA:
     name: Rare Atom
-    jungler: Leyan
+    jungler: naiyou
 RNG:
     name: Royal Never Give Up
     jungler: Wei
@@ -135,13 +138,10 @@ TT:
     jungler: Beichuan
 UP:
     name: Ultra Prime
-    jungler: Ning
-NIP:
-    name: Ninjas in Pyjamas.CN
-    jungler: XLB
+    jungler: H4cker
 WBG:
     name: Weibo Gaming
-    jungler: Karsa
+    jungler: xiaohao
 # Subs
 LGD2:
     name: LGD shad0w
