@@ -860,30 +860,30 @@ DKC:
 DRXC:
     name: DRX Challengers
     jungler: Kania
-BROC:
-    name: BRO Challengers
-    jungler: Raptor
+FOXY:
+    name: FearX Youth
+    jungler: HamBak
 GENC:
-    name: GEN Challengers
-    jungler: Winner
+    name: Gen.G Global Academy
+    jungler: Toye
 HLEC:
     name: HLE Challengers
-    jungler: Seonbi
+    jungler: Grizzly
 KTC:
     name: KT Challengers
-    jungler: PangSu
+    jungler: HamBak
 KDFC:
     name: Kwangdong Freecs Challengers
-    jungler: Citrus
-LSBC:
-    name: LSB Challengers
-    jungler: HamBak
+    jungler: Courage
 NSC:
-    name: NS Challengers
-    jungler: Sylvie
+    name: Nongshim Esports Academy
+    jungler: Sounda
+BROC:
+    name: OKSavingsBank BRION Challengers
+    jungler: DDoiV
 T1C:
     name: T1 Challengers
-    jungler: Forest
+    jungler: T1 Esports Academy
 
 # GL
 BRR:
