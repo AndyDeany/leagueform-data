@@ -18263,6 +18263,60 @@ ESPORTSTMNT05_2980235:
 10699-10699_game_3:
     heng:
         firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    meteor:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10759-10759_game_1:
+    kanavi:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    meteor:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+10759-10759_game_2:
+    meteor:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    kanavi:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10759-10759_game_3:
+    kanavi:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+    meteor:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+10768-10768_game_1:
+    milkyway:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    meteor:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
+10768-10768_game_2:
+    neteor:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 0
+    milkyway:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 1
+10768-10768_game_3:
+    milkyway:
+        firstdragon: 0
         firstherald: 1
         firsttower: 1
     meteor:
