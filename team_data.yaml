@@ -63,33 +63,33 @@ TSM:
     jungler: Bugi
 
 # LCK
-DRX:
-    name: DRX
-    jungler: Croco
 DK:
     name: Dplus KIA
-    jungler: Canyon
-BRO:
-    name: BRION
-    jungler: UmTi
+    jungler: Lucid
+DRX:
+    name: DRX
+    jungler: Sponge
+FOX:
+    name: FearX
+    jungler: Willer
 GEN:
     name: Gen.G
-    jungler: Peanut
+    jungler: Canyon
 HLE:
     name: Hanwha Life Esports
-    jungler: Clid
+    jungler: Peanut
 KT:
     name: KT Rolster
-    jungler: Cuzz
+    jungler: Pyosik
 KDF:
     name: Kwangdong Freecs
-    jungler: YoungJae
-LSB:
-    name: Liiv Sandbox
-    jungler: Willer
+    jungler: Cuzz
 NS:
     name: Nongshim Redforce
     jungler: Sylvie
+BRO:
+    name: OKSavingsBank BRION
+    jungler: Gideon
 T1:
     name: T1
     jungler: Oner
