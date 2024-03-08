@@ -408,24 +408,24 @@ BJK:
 BGT:
     name: BoostGate Esports
     jungler: chef
-SUP:
-    name: Papara SuperMassive
-    jungler: Haru
 DP:
     name: Dark Passage
-    jungler: Stomaged
+    jungler: Kireas
 FUT:
     name: FUT Esports
-    jungler: Mojito
+    jungler: Ferret
 GAL:
     name: Galakticos
-    jungler: Rames
-_5R:
-    name: 5 Ronin
-    jungler: Chef
-NSR:
+    jungler: Tumay
+MISA:
+    name: Misa Esports
+    jungler: Mojito
+NASR:
     name: NASR eSports Turkey
     jungler: Typhoon
+SUP:
+    name: Papara SuperMassive
+    jungler: Skeanz
 
 # TCL Academy
 IWCA:
