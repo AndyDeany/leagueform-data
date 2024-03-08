@@ -402,15 +402,15 @@ XTN:
     jungler: Seize
 
 # TCL
+BJK:
+    name: Besiktas Esports
+    jungler: Kireas
 IW:
     name: Istanbul Wildcats
     jungler: Elramir
 SUP:
     name: Papara SuperMassive
     jungler: Haru
-BJK:
-    name: Besiktas Esports
-    jungler: Kireas
 DP:
     name: Dark Passage
     jungler: Stomaged
@@ -878,7 +878,7 @@ KTC:
     name: KT Challengers
     jungler: HamBak
 KDFC:
-    name: Kwangdong Freecs Challengers
+    name: KDF Challengers
     jungler: Courage
 NSEA:
     name: Nongshim Esports Academy
