@@ -19938,3 +19938,12 @@ ESPORTSTMNT05_2980235:
         firstdragon: 0
         firstherald: 1
         firsttower: 1
+10880-10880_game_3:
+    croco:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 0
+    naiyou:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 1
