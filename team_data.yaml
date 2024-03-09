@@ -167,30 +167,30 @@ HLE2:
     name: HLE Willy
     jungler: Willer
 # VCS
-ASE:
-    name: AS Esports
-    jungler: Hyo
 CES:
     name: CERBERUS Esports
-    jungler: Draktharr
+    jungler: Ikigai
 GAM:
     name: GAM Esports
     jungler: Levi
-GE:
-    name: Genius Esports
-    jungler: Yijin
-SGB:
-    name: Saigon Buffalo Esports
-    jungler: BeanJ
-SE:
-    name: SBTC Esports
-    jungler: DNK
+MBE:
+    name: MGN Blue Esports
+    jungler: Sorn
+RW:
+    name: Rainbow Warriors
+    jungler: Spot
+TF:
+    name: Team Flash
+    jungler: Draktharr
 TS:
     name: Team Secret
-    jungler: Penguin
+    jungler: Qiang
 TW:
     name: Team Whales
-    jungler: Killerqueen
+    jungler: BeanJ
+VKE:
+    name: Vikings Esports
+    jungler: Gury
 
 # NA Academy
 C9A:
