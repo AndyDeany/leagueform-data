@@ -771,22 +771,22 @@ VEG:
 # CBLOL
 FX:
     name: Fluxo
-    jungler: Disamis
+    jungler: Sting
 FUR:
-    name: FURIA Esports
-    jungler: Goot
+    name: FURIA
+    jungler: StineR
 ITZ:
     name: INTZ
     jungler: Yampi
 KBM:
     name: KaBuM! e-Sports
-    jungler: scary
+    jungler: Malrang
 LBR:
     name: Liberty
-    jungler: Accez
+    jungler: DrakeHero
 LOS:
     name: Los Grandes
-    jungler: Ranger
+    jungler: Seize
 LLL:
     name: LOUD
     jungler: Croc
@@ -794,11 +794,11 @@ PNG:
     name: paIN Gaming
     jungler: CarioK
 RED:
-    name: RED Kalunga
+    name: RED Canids
     jungler: Aegis
 VKS:
     name: Vivo Keyd Stars
-    jungler: Hugato
+    jungler: Disamis
 
 # CBLOL Academy
 FXA:
