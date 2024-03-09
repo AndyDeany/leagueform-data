@@ -20118,3 +20118,21 @@ ESPORTSTMNT05_2980235:
         firstdragon: 1
         firstherald: 1
         firsttower: 0
+10667-10667_game_1:
+    xiaofang:
+        firstdragon: 0
+        firstherald: 1
+        firsttower: 1
+    heng:
+        firstdragon: 1
+        firstherald: 0
+        firsttower: 0
+10667-10667_game_2:
+    xiaofang:
+        firstdragon: 0
+        firstherald: 0
+        firsttower: 1
+    heng:
+        firstdragon: 1
+        firstherald: 1
+        firsttower: 0
