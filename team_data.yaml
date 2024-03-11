@@ -230,7 +230,7 @@ CFO:
     jungler: Gemini
 DCG:
     name: Deep Cross Gaming
-    jungler: Hana
+    jungler: 665
 DWT:
     name: Dewish Team
     jungler: WSL
@@ -714,6 +714,9 @@ V3:
     jungler: Yunika
 
 # LCO
+GZ:
+    name: Ground Zero
+    jungler: Shernfire
 CHF:
     name: The Chiefs
     jungler: Arthur
