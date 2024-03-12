@@ -449,36 +449,30 @@ KRM:
     jungler: D4SH
 
 # Ultraliga
-AB:
-    name: Alior Bank Team
-    jungler: Krazler
-EXD:
-    name: exeed
-    jungler: xeonerr
-GRP:
-    name: Grypciocraft Esports
-    jungler: behave
+B2TG:
+    name: Back2TheGame
+    jungler: ShazQ
+DV1:
+    name: devils.one
+    jungler: Krysia
 FSK:
     name: Forsaken
-    jungler: Jaunatis
-GSK:
-    name: Goskilla
-    jungler: Savero
-IHG:
-    name: Illuminar Gaming
-    jungler: Krysia
+    jungler: belit
+GRP:
+    name: GRP Esports
+    jungler: Lulas
 WOLF:
     name: Iron Wolves
-    jungler: Badlyyga
-KNF:
-    name: Komil&Friends
-    jungler: Ketim
+    jungler: kylin
+OAE:
+    name: Orbit Anonymo Esports
+    jungler: Afroboi
 TEG:
     name: Team ESCA Gaming
-    jungler: Uciu
+    jungler: Mazi
 Z10:
     name: Zero Tenacity
-    jungler: Ryuzaki
+    jungler: bluerzor
 
 # LFL
 GO:
