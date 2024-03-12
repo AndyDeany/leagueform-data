@@ -223,35 +223,29 @@ IMTA:
 
 # PCS
 BYG:
-    name: Mega Bank Beyond Gaming
+    name: Beyond Gaming
     jungler: HuSha
 CFO:
     name: CTBC Flying Oyster
-    jungler: Gemini
+    jungler: Karsa
 DCG:
     name: Deep Cross Gaming
     jungler: 665
-DWT:
-    name: Dewish Team
-    jungler: WSL
 FAK:
     name: Frank Esports
-    jungler: Holo
-IMP:
-    name: Impunity
-    jungler: Alex
+    jungler: Gemini
+HPS:
+    name: HELL PIGS
+    jungler: Kazmma
 JT:
     name: J Team
-    jungler: Kongyue
-MFT:
-    name: Meta Falcon Team
-    jungler: 665
+    jungler: Lauva
 PSG:
     name: PSG Talon
     jungler: JunJia
-S9:
-    name: SEM9
-    jungler: Arashi
+WP:
+    name: West Point Esports Philippines
+    jungler: RenYe
 
 # LDL
 SDX:
@@ -689,29 +683,23 @@ ZRL:
 
 # LJL
 AXZ:
-    name: AXIZ
-    jungler: Swamp
-BC:
-    name: Burning Core
-    jungler: Flawless
-CGA:
-    name: Crest Gaming Act
+    name: AXIZ CREST
     jungler: Cassin
+BC:
+    name: Burning Core Toyama
+    jungler: EL
 DFM:
     name: DetonatioN FocusMe
     jungler: Steal
 SHG:
     name: SoftBank Hawks
-    jungler: Blank
-RJ:
-    name: Rascal Jester
-    jungler: hachamecha
+    jungler: Forest
 SG:
     name: Sengoku Gaming
-    jungler: Once
+    jungler: Ellim
 V3:
     name: V3 Esports
-    jungler: Yunika
+    jungler: HRK
 
 # LCO
 GZ:
