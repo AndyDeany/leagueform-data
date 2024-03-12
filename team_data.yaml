@@ -369,28 +369,25 @@ WAP:
 # LLA
 AK:
     name: All Knights
-    jungler: Crash
+    jungler: Grell
 EST:
     name: Estral Esports
-    jungler: Bugi
-GET:
-    name: Globant Emerald
-    jungler: Warangelus
+    jungler: Josedeodo
 INF:
-    name: Infinity Esports
-    jungler: SolidSnake
+    name: INFINITY
+    jungler: Solid
 ISG:
     name: Isurus
-    jungler: Grell
+    jungler: OnFleek
+LEV:
+    name: Leviatan
+    jungler: Ganks
 R7:
     name: Movistar R7
     jungler: Oddie
-AZE:
-    name: Team Aze
-    jungler: Dimitry
-XTN:
-    name: XTEN Esports
-    jungler: Seize
+_6K:
+    name: Six Karma
+    jungler: Mataz
 
 # TCL
 BJK:
@@ -821,9 +818,6 @@ VKSA:
 EZ:
     name: Echo Zulu
     jungler: Sjakal
-ION:
-    name: Ion Squad
-    jungler: Velja
 GENK:
     name: KRC Genk Esports
     jungler: Guertas
