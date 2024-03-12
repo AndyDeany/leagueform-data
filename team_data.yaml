@@ -702,33 +702,30 @@ V3:
     jungler: HRK
 
 # LCO
+ANC:
+    name: Antic Esports
+    jungler: Swip3rR
+DW:
+    name: Dire Wolves
+    jungler: LeeSA
+FRY:
+    name: FURY Global
+    jungler: nox1
 GZ:
     name: Ground Zero
     jungler: Shernfire
-CHF:
-    name: The Chiefs
-    jungler: Arthur
-DW:
-    name: Dire Wolves
-    jungler: Poltron
-GRV:
-    name: Gravitas
-    jungler: Llenia
+ION:
+    name: ION Global Esports
+    jungler: foreigner
 KNG:
     name: Kanga Esports
-    jungler: foreigner
+    jungler: Invictis
 MMM:
     name: MAMMOTH
-    jungler: Meifan
-ORD:
-    name: ORDER
     jungler: Goodo
-PCE:
-    name: PEACE
-    jungler: LeeSA
-PGG:
-    name: Pentanet.GG
-    jungler: BalKhan
+TB:
+    name: Team Bliss
+    jungler: Whynot
 
 # LCL
 BSG:
